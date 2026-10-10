@@ -23,5 +23,9 @@
 - Basic continuity checker
 - Pandoc/Calibre-oriented export notes
 
-## Next production stage
-Draft Chapter 1 against the repository, then continue sequentially while updating continuity data after every chapter.
+## Manuscript progress
+- Chapter 1 — **The Arrival** — drafted and committed to `main`.
+- Chapter 2 — **The Measure of the House** — next.
+
+## Current production stage
+Continue sequential drafting while preserving the reveal ladder and updating continuity data after every chapter. Chapter 2 should formally establish C1 through measurement; Chapter 1 only seeds the spatial unease and bricked-door anomaly.
