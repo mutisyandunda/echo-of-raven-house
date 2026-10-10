@@ -25,7 +25,7 @@ Claire and Adrian verify Eleanor’s parentage and childhood records away from t
 First full physical intimacy.
 
 ## End hook
-Eleanor’s next of kin is Miriam, not Sebastian.
+Every surviving childhood record places Eleanor with Miriam, not the Ravens.
 
 ## Draft
 
@@ -55,15 +55,15 @@ She had also missed him.
 
 That irritated her enough to become useful.
 
-A registrar named Mrs Bell brought them two certified extracts and one photocopy of an older administrative card.
+A registrar named Mrs Bell brought them certified copies of the entries they had ordered.
 
-“Original register access is restricted,” she said, “but these are the entries you requested.”
+“Original register access is restricted,” she said, “but these reproduce the entries.”
 
 Claire began with Eleanor’s birth record.
 
 **Eleanor Miriam Vane. Born 14 February 1926.**
 
-Mother: Celeste Miriam Vane, architect.
+Mother: Celeste Vane, architect.
 
 Father: Sebastian Arthur Raven.
 
@@ -89,49 +89,45 @@ Adrian said quietly, “Why wasn’t Sebastian the informant?”
 
 “We don’t know.”
 
-Mrs Bell had also supplied a later annotation card created during a records correction request in the 1950s.
+No later re-registration placed Eleanor under the Raven surname in the civil records they had found.
 
-Eleanor’s surname remained Vane.
+No public acknowledgment appeared in the family material.
 
-No later re-registration under Raven.
+Claire photographed the certified copy with permission.
 
-No public acknowledgment in the family records.
-
-Claire photographed the documents with permission.
-
-Then came Eleanor’s 1956 marriage record.
+Then came Eleanor’s 1956 marriage entry.
 
 **Eleanor Miriam Vane to Thomas James Mercer.**
 
-Her father’s field was not blank.
+Claire read down the columns.
 
-It read:
+The line for Eleanor’s father was blank.
 
-**Sebastian Arthur Raven, deceased — crossed through.**
+Not Sebastian Raven.
 
-Beside it, in different ink:
+Not deceased.
 
-**father not declared by bride; supplied from supporting birth entry and not retained on final certificate.**
+Nothing.
 
 Adrian frowned.
 
-“He was alive in 1956.”
-
-“Yes.”
-
-Sebastian had lived until 1966.
+“She left it empty.”
 
 Mrs Bell adjusted her glasses.
 
-“That correction note is unusual. It may mean the clerk entered the father from the birth record, then the bride refused to have it carried forward.”
+“The register tells you what was recorded. It does not tell you why a particular detail was not supplied.”
 
-Claire stared at the line.
+Claire appreciated her immediately.
 
-Eleanor had known enough to refuse him.
+“Exactly.”
 
-Or enough to fear the name.
+Adrian looked at Claire.
 
-The record proved another thing cleanly: the Eleanor Vane from the birth entry was the same Eleanor who later married Thomas Mercer.
+“So we cannot say she deliberately rejected him.”
+
+“We can say the 1926 birth entry names him and the 1956 marriage entry does not. Motive comes later, if it comes at all.”
+
+The record proved another thing cleanly: the Eleanor Vane from the birth trail was the same Eleanor who later married Thomas Mercer.
 
 What it did not prove was whether that Mercer line had anything to do with Claire.
 
@@ -147,41 +143,7 @@ Adrian watched.
 
 “Especially now.”
 
-Mrs Bell left them for several minutes while retrieving the administrative file.
-
-Claire looked again at Eleanor’s birth record.
-
-At the bottom, beneath the registration details, was a notation for next of kin supplied during a later query.
-
-**Miriam Vane.**
-
-Not Sebastian.
-
-Not any Raven.
-
-Miriam.
-
-Claire touched the edge of the paper.
-
-“She took her.”
-
-Adrian said, “Away from him.”
-
-“Probably.”
-
-“Claire.”
-
-She looked at him.
-
-He had not touched her because the room was public and because he had been careful since the note.
-
-She reached for his hand first.
-
-His fingers closed around hers.
-
-For once, she did not translate the gesture into anything else.
-
-They left with certified copies in a tamper-evident envelope and drove north under a clean, hard sky.
+They left with the certified copies in a document wallet and drove north under a clean, hard sky.
 
 Halfway back, Adrian said, “There is a hotel in Alnwick with very bad paintings and decent food.”
 
@@ -281,23 +243,35 @@ She studied him in the dark.
 
 He reached for her hand under the sheet.
 
-In the morning, Imogen sent the full identity-continuity references for Eleanor herself.
+In the morning, Imogen sent the identity-continuity references she had been tracing outside the civil register.
 
-One line mattered most.
+School admission rolls.
 
-**Eleanor’s next of kin throughout childhood: Miriam Vane. No Raven guardian appears in the records located so far.**
+A doctor’s ledger.
+
+An electoral address once Eleanor was old enough to appear.
+
+Every surviving childhood record she had found placed Eleanor at Miriam’s address. Where an adult contact was named, it was Miriam Vane.
+
+No Raven adult appeared.
 
 A second message followed.
 
+**That proves who was caring for her in practice, not who a court would have treated as guardian. With Sebastian alive, do not collapse those two questions. I’m checking whether there was ever a custody or guardianship order.**
+
+Then a third:
+
 **Post-1956 Mercer descendants still being traced. Nothing yet that responsibly connects Eleanor to you. Leave it alone until I can prove or disprove it.**
 
-Claire read both while Adrian made coffee.
+Claire read all three while Adrian made coffee.
 
 Miriam had not merely helped.
 
-She had functioned as Eleanor’s family in law and practice.
+She had been the adult who appeared whenever Eleanor’s daily life required one.
 
-Whatever Sebastian had been privately, he had left no public fatherhood behind.
+Whether the law had ever formalised that arrangement was a separate question.
+
+Whatever Sebastian had been privately, he had left almost no visible fatherhood in Eleanor’s surviving childhood record.
 
 And whatever the surname Mercer might eventually mean to Claire, the record did not yet belong to her.
 
