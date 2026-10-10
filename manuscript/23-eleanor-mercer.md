@@ -3,7 +3,7 @@ chapter: 23
 title: "Eleanor Mercer"
 act: "IIB"
 pov: "Claire Mercer"
-status: outline
+status: draft
 target_words: 2600
 clues: "C6, C7, C10 converge"
 red_herrings: "None"
@@ -22,24 +22,229 @@ Miriam’s packet proves Eleanor was Claire’s grandmother.
 - POV inference cannot exceed the physical/documentary record.
 
 ## Romance / relationship movement
-Adrian comforts Claire briefly
-
-## Scene plan
-1. **Entry pressure:** establish the immediate practical objective and emotional temperature.
-2. **Investigation / conflict:** Miriam’s packet proves Eleanor was Claire’s grandmother.
-3. **Counter-pressure:** another character, physical constraint, or contradictory record complicates the apparent answer.
-4. **Emotional beat:** advance Claire/Adrian or Claire/family trust state without pausing the mystery.
-5. **Exit turn:** Claire is Celeste’s direct descendant.
+Adrian comforts Claire briefly.
 
 ## End hook
 Claire is Celeste’s direct descendant.
 
-## Continuity checks before drafting
-- Confirm what Claire knows at the start of this chapter.
-- Confirm what Adrian, Talia, Sophie and Felix know.
-- Confirm all referenced documents/objects have already appeared or are introduced here.
-- Confirm architectural movement is physically possible.
-- Confirm clue wording does not reveal the payoff prematurely.
-
 ## Draft
-<!-- Prose goes here. -->
+
+The packet arrived from York in a padded archival envelope at eleven twenty-three on a Thursday.
+
+Claire knew the time because she wrote it down before opening anything.
+
+The sender was a small private archive attached to a solicitor’s former practice. Imogen had found it through the name Edward Pell, the second witness on Celeste and Sebastian’s marriage certificate.
+
+Inside were photocopies of three documents preserved from a closed client file.
+
+The first was a letter from Miriam Vane, dated January 1932.
+
+The second was a guardianship declaration concerning Eleanor.
+
+The third was a photograph.
+
+Claire recognised it before she let herself understand why.
+
+Celeste stood beside Miriam holding an infant.
+
+The same photograph from the hidden drafting-room niche.
+
+But this copy had writing on the back.
+
+**Celeste with Eleanor, May 1926. Miriam beside them. Keep this with her papers.**
+
+Claire sat down.
+
+Adrian, across the table, did not speak.
+
+The guardianship declaration named the child in full:
+
+**Eleanor Miriam Vane, daughter of Celeste Miriam Vane.**
+
+A handwritten note appended by Pell read:
+
+**Father, S.A. Raven, not participating. Marriage documentation held separately.**
+
+Claire read it twice.
+
+Then Miriam’s letter.
+
+It was practical rather than emotional.
+
+Celeste was dead. Eleanor was to remain with Miriam. No Raven family member had lawful authority to remove the child without court process. Miriam feared pressure and wanted Pell’s advice on relocating.
+
+One paragraph hurt more than the rest.
+
+**Eleanor has already learned that asking after her mother makes adults stop speaking. I will not let silence be the principal thing she remembers of Celeste.**
+
+Claire put the paper down.
+
+Her grandmother had been five.
+
+Five years old when Celeste died.
+
+Five when the adults around her began turning absence into family policy.
+
+Adrian came around the table.
+
+He crouched beside Claire’s chair rather than touching her without warning.
+
+“Do you want me to go?”
+
+“No.”
+
+He stayed.
+
+Claire looked at the photograph.
+
+She had known her grandmother as a quiet woman with narrow hands, good posture and little patience for sentiment. Eleanor had kept a tin of buttons sorted by colour. She had cut apples into exact eighths. She had disliked people arriving unannounced.
+
+Claire had never once heard her speak the name Celeste.
+
+Or Raven.
+
+Or Blackmere.
+
+“How could my mother not tell me?” Claire asked.
+
+Adrian did not offer an answer he could not know.
+
+That was why she let him take her hand.
+
+Imogen called twenty minutes later.
+
+Claire put her on speaker.
+
+“Pell’s file does what we needed,” Imogen said. “It links the child from the birth record to the Eleanor in Miriam’s custody and confirms the father identification independently of Celeste’s letter.”
+
+“And the Mercer chain?”
+
+“Marriage record, Margaret’s birth, your birth. Clean continuity.”
+
+Claire closed her eyes.
+
+“Say it.”
+
+Imogen was silent for a second.
+
+“Eleanor Vane was your grandmother.”
+
+The sentence was simple enough to alter an entire life.
+
+“And Celeste?”
+
+“Your great-grandmother.”
+
+Adrian’s hand tightened once around Claire’s.
+
+Claire opened her eyes.
+
+Raven House had changed category again.
+
+It was no longer merely a building she had been hired to study.
+
+No longer only the site of a professional recovery of Celeste’s authorship.
+
+Her own family had been removed from it.
+
+Her grandmother had grown up carrying a surname that concealed one father and protected her from another family.
+
+Claire stood and walked to the window.
+
+The west lawn lay bright beneath weak sun.
+
+She had spent weeks measuring the house.
+
+Now the house had measured her back.
+
+Adrian remained near the table.
+
+“If there is a claim,” he said, “we handle it properly.”
+
+Claire turned.
+
+“Do not promise me the house.”
+
+“I wasn’t.”
+
+“Good.”
+
+“I was promising process.”
+
+“That I can accept.”
+
+She looked at the packet again.
+
+Miriam’s letter included one final line to Pell:
+
+**When she is old enough, Eleanor may decide for herself whether Raven is a name worth recovering. I will not decide it for her.**
+
+Claire thought of Eleanor’s marriage certificate.
+
+The father’s name entered, then removed.
+
+Perhaps Eleanor had decided.
+
+Not to become a Raven.
+
+Not to erase Sebastian, exactly.
+
+To refuse him authority over what she called herself.
+
+Claire understood that choice more intimately than she expected.
+
+Sophie arrived in the afternoon and read the documents.
+
+When she reached the photograph, tears came without warning.
+
+“God,” she said. “She looks like you.”
+
+Claire almost rejected it.
+
+Then she looked again.
+
+Not Celeste.
+
+Eleanor.
+
+The set of the eyes. The long upper lip. The way one eyebrow lifted more than the other.
+
+Family resemblance was unreliable evidence.
+
+It was also sometimes devastating.
+
+Sophie sat opposite her.
+
+“So technically you are…”
+
+“Do not say heir.”
+
+“I was going to say cousin, somehow.”
+
+Claire laughed, and the laugh broke something open in her chest.
+
+Adrian smiled from the doorway.
+
+For a few minutes the discovery stopped being legal or historical.
+
+It became merely human.
+
+Then Claire noticed a note clipped behind Miriam’s letter.
+
+A later annotation, written in Marcus Raven’s hand.
+
+**Confirmed with E.M., 1998. She wants no publicity. She does want the truth preserved for Margaret.**
+
+Margaret.
+
+Claire’s mother.
+
+The implication arrived cold and precise.
+
+Marcus had known not merely that a Mercer existed.
+
+He had known who.
+
+And if Marcus knew Margaret’s identity, then the question was no longer whether Adrian had recognised Claire’s surname.
+
+It was how much more he had known when he hired her.
