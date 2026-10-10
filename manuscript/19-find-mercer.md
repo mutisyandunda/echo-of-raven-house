@@ -3,7 +3,7 @@ chapter: 19
 title: "Find Mercer"
 act: "IIB"
 pov: "Claire Mercer"
-status: draft
+status: revision-1
 target_words: 2600
 clues: "C11"
 red_herrings: "None"
@@ -25,7 +25,7 @@ Adrian shows Marcus’s sealed note: 'If you ever sell Raven House, find Mercer 
 First trust rupture.
 
 ## End hook
-The note includes initials E.M.
+The note includes initials E.M.; Talia confirms they refer to Eleanor Mercer, but no link to Claire is yet proved.
 
 ## Draft
 
@@ -73,11 +73,11 @@ The second paragraph was worse.
 
 Claire stopped.
 
-E.M.
+After the previous day, E.M. had one obvious candidate.
 
 Eleanor Mercer.
 
-Probably.
+Obvious was not the same as proved.
 
 The final paragraph read:
 
@@ -105,21 +105,15 @@ He understood.
 
 “Two weeks.”
 
-“And you still told me yesterday that my surname did not matter.”
+“And in the library you told me the name did not determine the hire.”
 
-Adrian’s expression tightened.
+“It didn’t.”
 
-“I said I chose you because of your work.”
+“That was carefully phrased.”
 
-“You did.”
+“Yes.”
 
-“That is true.”
-
-“It is also not the whole answer.”
-
-“No.”
-
-Claire felt the difference between anger and professional alarm. They arrived together but did not belong to the same part of her.
+Claire felt professional alarm arrive before anger.
 
 “You had a note telling you to find a Mercer before selling the house.”
 
@@ -133,7 +127,7 @@ Claire felt the difference between anger and professional alarm. They arrived to
 
 “Yes.”
 
-“And you do not tell her that her name may be connected to title risk.”
+“And you do not tell her that her surname may be connected to title risk.”
 
 “I did not know you were connected.”
 
@@ -153,7 +147,7 @@ Claire put the note flat on the table.
 
 “No.”
 
-“Did you search my mother’s name?”
+“Did you search for a genealogical connection?”
 
 “No.”
 
@@ -287,11 +281,11 @@ Imogen called within four minutes.
 
 She read the note while they waited.
 
-“E.M. is likely Eleanor Mercer,” Imogen said, “but do not write that as fact until we have identity continuity. More importantly, Marcus explicitly links Mercer to title integrity. That makes his note relevant even if the underlying claim ultimately fails.”
+“E.M. is likely Eleanor Mercer,” Imogen said, “but the note itself does not establish that. More importantly, Marcus explicitly links Mercer to title integrity. That makes the note relevant even if the underlying claim ultimately fails.”
 
 Adrian asked, “Can I continue the sale process?”
 
-“Ask your solicitor. My non-solicitor answer is that anyone who enjoys professional negligence litigation might proceed casually.”
+“Ask your solicitor. My non-solicitor answer is that anyone who enjoys professional-negligence litigation might proceed casually.”
 
 Claire heard Adrian exhale.
 
@@ -301,35 +295,25 @@ After the call, they found Talia in the morning room.
 
 She read Marcus’s note without visible surprise.
 
-“So,” Adrian said. “What did he mean?”
+“So,” Adrian said. “Who was E.M.?”
 
-Talia handed it back.
+Talia handed the sheet back.
 
-“You already know enough to make trouble.”
+For several seconds she said nothing.
 
-“That was not the question.”
+Then: “Eleanor Mercer.”
 
-Claire stood near the window, deliberately outside the family geometry of the room.
+Claire felt the name settle into place.
 
-Talia looked at her.
+Not her Eleanor.
 
-“Eleanor wrote to Marcus.”
+Not yet.
 
-“When?” Claire asked.
+The woman from the 1926 birth index had become Eleanor Mercer in 1956. Marcus said an E.M. approached him in 1998. Talia had now joined the two records.
 
-“Late nineties.”
+“What did she want?” Claire asked.
 
-“Was she my grandmother?”
-
-Talia’s mouth tightened.
-
-“I believe so.”
-
-Claire felt the answer physically.
-
-“What did she want?”
-
-“Recognition. Information. Possibly a legal acknowledgment. Marcus never showed me everything.”
+“Recognition. Information. Possibly legal acknowledgement. Marcus never showed me everything.”
 
 “Why not?” Adrian asked.
 
@@ -344,6 +328,24 @@ Claire felt the answer physically.
 Talia’s face hardened.
 
 “Not to you.”
+
+Claire said, “Did Eleanor have descendants?”
+
+Talia looked at her.
+
+“I knew that she had family. I did not know them.”
+
+“Did Marcus?”
+
+“More than I did, by the end.”
+
+“Do you know whether any of them were related to me?”
+
+A long pause.
+
+“No,” Talia said. “Not in a way I can prove.”
+
+Claire believed the wording more than a clean denial would have deserved.
 
 Adrian held up the note.
 
@@ -377,9 +379,9 @@ Back in the library, Claire looked again at the initials.
 
 E.M.
 
-Not proof of Eleanor Mercer.
+Now identified as Eleanor Mercer.
 
-But now supported by Talia’s admission.
+Still not proof that the surname had reached Claire through blood rather than coincidence.
 
 Adrian stood at the other end of the table.
 
@@ -391,6 +393,6 @@ She disliked more that the distance had a cause.
 
 Marcus Raven’s note had done two things at once.
 
-It had brought Claire closer to the truth of her family.
+It had made the Mercer question impossible to dismiss.
 
-And shown her exactly where Adrian had chosen not to give her enough truth to choose freely.
+And shown Claire exactly where Adrian had chosen not to give her enough truth to choose freely.
