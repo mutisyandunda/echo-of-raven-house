@@ -3,7 +3,7 @@ chapter: 11
 title: "The Owner"
 act: "IIA"
 pov: "Claire Mercer"
-status: draft
+status: revision-1
 target_words: 2550
 clues: "C5 develops"
 red_herrings: "None"
@@ -13,7 +13,7 @@ romance_beat: "Late takeaway over blueprints"
 # Chapter 11: The Owner
 
 ## Chapter purpose
-Adrian absorbs that Raven House may never have been legally Raven property. Claire explains provenance and title logic.
+Adrian absorbs that Raven House’s modern registered title rests on a much older deed chain beginning after Celeste’s 1923 purchase. Claire explains provenance and title logic.
 
 ## Mystery movement
 - **Clues:** C5 develops
@@ -43,13 +43,13 @@ Adrian received him in the library.
 
 Harcourt removed his glasses and cleaned them with a square of cloth.
 
-“The archive notified the estate office that historic title material had been requested.”
+“Adrian sent me a copy of the 1923 conveyance and asked where title leaves Celeste Vane.”
 
-“Why?”
+“He did.”
 
-“Because the request concerned land associated with an active sale.”
+“That is the sort of question one answers carefully during an active sale.”
 
-“Associated,” Claire said. “Interesting word.”
+“Carefully is good,” Claire said. “Slowly for strategic reasons is less good.”
 
 Harcourt replaced his glasses.
 
@@ -63,51 +63,73 @@ Adrian stood between them, metaphorically if not physically.
 
 Harcourt took a breath.
 
-“The deed itself, no.”
+“The exact deed, yes. The name Vane appearing in the pre-registration history, no.”
 
 Claire looked at Adrian.
 
 He had gone still.
 
-“You knew Celeste bought the land?” he asked.
+“Explain,” he said.
 
-“I knew there was early Vane involvement in the title.”
+Harcourt opened his case and removed a thin folder.
 
-“That is not what I asked.”
+“Raven House was not first registered with HM Land Registry until 1991. Before that, the title was proved by deeds. The first-registration papers rely on an abstract of title whose operative chain begins with a 1932 conveyance from Celeste Vane to Sebastian Raven.”
 
-“No. I did not know the exact language of the 1923 conveyance until today.”
+Claire’s attention sharpened.
 
-“But you knew enough to worry when Claire asked for it.”
+“You have the 1932 conveyance?”
 
-Harcourt glanced towards her.
+“An abstract entry and later copies in the active file. The predecessor firm’s original deed packet is not in the modern bundle. I have requested it from off-site storage.”
 
-“I worried because historical title research conducted during an active sale can create questions before anyone knows whether the questions matter.”
+Adrian said, “So the registered title begins with Sebastian because someone in 1991 relied on a 1932 deed.”
 
-Claire said, “That is generally how questions work.”
+“Broadly, yes. Do not turn that into a legal conclusion before we inspect the underlying instrument.”
 
-Harcourt ignored her.
+“And you knew there had been a Vane-to-Raven transfer.”
 
-“The current title has been treated as settled for decades.”
+“I knew the abstract said there had been one.”
 
-“Settled by whom?” Adrian asked.
+“That is not the same thing as knowing Celeste bought the land nine years earlier,” Claire said.
 
-“Successive solicitors. Lenders. Insurers. The family.”
+“Correct.”
 
-“The family,” Claire said, “is not a land registry.”
+Harcourt glanced towards her, as if disappointed to lose an argument he had not yet started.
 
-Adrian almost smiled.
+Claire continued. “And the modern register does not tell us whether the historical deed chain was honest. It tells us what title was registered on the material presented at first registration.”
 
-Harcourt noticed.
+“Also correct,” Harcourt said. “Which is why I am asking both of you not to leap from an archival discovery to ‘the Ravens never owned the house’. Registered title introduces an entirely separate modern legal framework.”
 
-That seemed to concern him more than the joke deserved.
+Adrian looked tired already.
 
-He opened his case and removed a thin folder.
+“So what do we know?”
+
+Claire answered first.
+
+“Celeste acquired the Blackmere land in 1923 in her own name. In 1991 Raven House was first registered on a deed history that treated a 1932 Vane-to-Raven conveyance as the route into Sebastian’s ownership. We have not yet inspected the full 1932 instrument.”
+
+Harcourt nodded once.
+
+“That is an accurate summary.”
+
+“And if the 1932 deed is bad?” Adrian asked.
+
+Harcourt’s mouth tightened.
+
+“Then we obtain specialist advice on the historic deed, the first registration, the present register, possession, limitation, and any potential alteration or indemnity issues. We do not improvise property law over dinner.”
+
+Claire almost smiled.
+
+“That may be the first thing you’ve said tonight I actively like.”
+
+“I shall try not to repeat the experience.”
+
+Harcourt closed the folder.
 
 “I am not here to obstruct the archive. I am here to ask that provenance work and legal conclusions remain separate until we can review the chain properly.”
 
 “That’s reasonable,” Claire said.
 
-Harcourt blinked.
+He blinked.
 
 She continued. “But provenance work will not stop because a legal conclusion might be inconvenient.”
 
@@ -127,25 +149,23 @@ He said, “How does a house become yours?”
 
 “Tonight, legal.”
 
-“Purchase. Inheritance. Gift. Settlement. Transfer. Trust arrangement. Adverse possession in some circumstances. Complication is almost unlimited.”
+“Purchase. Inheritance. Gift. Conveyance. Trust. Registration. Possession can matter. So can defects nobody notices for decades. Complication is almost unlimited.”
 
 “And if a family has occupied it for nearly a century?”
 
-“That proves occupation. Not necessarily the beginning of title.”
+“That is legally important. It still does not answer how the chain began.”
 
 He turned.
 
-“Suppose Celeste never transferred it.”
+“Suppose the 1932 conveyance never lawfully transferred it.”
 
-“Then someone after her death would have needed a lawful route into ownership.”
+“Then the historical title was defective. What that means for the current registered title is a lawyer’s problem, not an automatic transfer of the house to whoever can draw the best family tree.”
 
-“And if they didn’t?”
+He gave her a tired smile.
 
-“We are nowhere near that conclusion.”
+“You have destroyed several dramatic possibilities in one sentence.”
 
-“You keep saying that.”
-
-“Because you keep trying to jump twenty documents ahead.”
+“Free of charge.”
 
 “I live here.”
 
@@ -259,17 +279,13 @@ Adrian watched.
 
 “Yes.”
 
-“Even when it may dispossess me?”
+“Even when it may become expensive enough to ruin my week?”
 
 She looked up.
 
-“That is an unfair question.”
+“That is a more defensible question than ‘even when it may dispossess me’.”
 
-“I know.”
-
-“Do you want a dishonest answer?”
-
-“No.”
+“I’m learning.”
 
 “I enjoy evidence becoming legible. I do not enjoy what it may cost people.”
 
@@ -371,4 +387,4 @@ Claire looked at the plan.
 
 This time she did not qualify it.
 
-“Someone removed a room.”
+“Someone removed a room.”}
