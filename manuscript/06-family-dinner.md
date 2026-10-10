@@ -3,7 +3,7 @@ chapter: 6
 title: "Family Dinner"
 act: "I"
 pov: "Claire Mercer"
-status: draft
+status: revision-1
 target_words: 2500
 clues: "C21 seed"
 red_herrings: "R3"
@@ -217,9 +217,7 @@ Adrian looked tired.
 
 Felix kept smiling.
 
-C21 was not a clue yet, Claire reminded herself. It was pressure. Financial urgency did not equal wrongdoing.
-
-But urgency made people careless.
+Financial urgency was not evidence of wrongdoing. It was pressure, and pressure made people careless.
 
 “Is the sale necessary?” Claire asked.
 
