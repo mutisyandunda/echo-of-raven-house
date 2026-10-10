@@ -24,36 +24,42 @@
 - Pandoc/Calibre-oriented export notes
 
 ## Manuscript progress
-- Chapter 1 — **The Arrival** — drafted.
-- Chapter 2 — **The Measure of the House** — drafted.
-- Chapter 3 — **Talia Raven** — drafted.
-- Chapter 4 — **Behind the Panel** — drafted.
-- Chapter 5 — **The Echo Line** — drafted.
-- Chapter 6 — **Family Dinner** — drafted.
-- Chapter 7 — **The Nursery** — drafted.
-- Chapter 8 — **The West Stair** — drafted.
-- Chapter 9 — **The Drafting Room** — drafted.
-- Chapter 10 — **Outside the House** — drafted.
-- Chapter 11 — **The Owner** — drafted.
-- Chapter 12 — **The False Pedigree** — drafted.
-- Chapter 13 — **If He Will Not Name Her** — drafted.
-- Chapter 14 — **The Missing Register** — next.
+- Chapters 1–35 — **FIRST DRAFT COMPLETE**.
+- Act I: Chapters 1–9 drafted.
+- Act IIA: Chapters 10–18 drafted.
+- Act IIB: Chapters 19–27 drafted.
+- Act III: Chapters 28–35 drafted.
 
-## Established through Chapter 13
-- C1: the west-wing dimensional discrepancy is formally measured.
-- C2: Celeste's paired-curve marks correlate with unusual acoustic transmission points and concealed routes.
-- C3: the nursery is marked E and contains a silver brush engraved E.V.
-- C4: Celeste's initials dated 1931 contradict the family timeline.
-- C5: the 1923 conveyance names Celeste Vane as purchaser and owner of the Blackmere site in her own right.
-- C6: a photograph shows Celeste, a woman likely to be Miriam, and an infant; reverse inscription reads **our little E.**
-- C7: Celeste writes of a girl whose paternity Sebastian refuses to acknowledge publicly — **If he will not name her, I will.**
-- C20 seed: a later private pedigree passed through a Mercer address and treated Celeste's possible descendants as unresolved.
-- C22: recent human disturbance is visible inside concealed service routes, including a modern shoe print near the west stair.
-- C14/C15 are physically seeded: filled fixing holes and paint shadows show the west-stair landing once had a protective fitting, but its identity and removal history remain unknown.
-- R1/R2 remain plausibly resolved through architectural acoustics and legitimate service-route use; Felix is not exposed.
-- R3 remains active: Harcourt is defensive about title implications but has not been shown to know the murder truth.
-- R4 resolves partially: Talia burns a modern false/uncertain pedigree rather than primary murder evidence.
-- The romance has moved from respect into undeniable attraction; Chapter 13 reaches the planned almost-kiss, with Claire pulling back before the first-kiss beat reserved for Chapter 15.
+## Major reveal chain now present in prose
+- C1/C2: dimensional discrepancy and acoustic routes.
+- C3/C4: child evidence and proof Celeste remained at Raven House into 1931.
+- C5: Celeste’s ownership.
+- C6/C7/C8/C9/C10: infant photograph, daughter letter, civil index, certified marriage copy and Eleanor birth record.
+- C11/C20: Marcus/Talia knowledge of the Mercer line.
+- C12: post-death 1932 transfer deed.
+- C21/C22/C23: Felix’s debt, passage evidence and stolen archive box; present-day sabotage resolved.
+- C14/C15: safety gate photographed in place and removed on Evelyn’s instruction.
+- C13/C16: wrist bruising and Evelyn’s recorded confession establish physical restraint.
+- C17/C18/C19: Witness Room, Celeste’s solicitor letter and Sebastian’s 1956 confession complete the historical mechanism.
+- R7 resolves: Sebastian’s diary line referred to ending a reconciliation attempt, not murder.
+- R10 remains deliberately unresolved in Chapter 35.
+
+## Romance arc status
+- Friction → professional respect → attraction → first kiss → relationship.
+- Adrian’s concealed hiring context creates the planned professional/personal betrayal.
+- Separation is maintained through the investigation climax.
+- Reconciliation occurs only after Adrian chooses full disclosure and independent process regardless of whether Claire forgives him.
+- Ending preserves Claire’s legal, professional and residential independence.
 
 ## Current production stage
-Continue sequential drafting while preserving the reveal ladder and character-knowledge matrix. Chapter 14 should pursue the registry reference without prematurely proving the marriage; Chapter 15 should deliver the first deliberate kiss only after an honest conversation.
+**First-draft drafting is complete.** Do not add more plot before revision unless a continuity audit identifies a genuine structural gap.
+
+Next pass should be a full manuscript revision in this order:
+1. Continuity and chronology audit across all 35 chapters.
+2. Clue/red-herring seed-to-payoff audit.
+3. Character-knowledge and POV audit.
+4. Architectural/legal plausibility research pass.
+5. Romance pacing and emotional causality pass.
+6. Prose-level voice, repetition, cliché and line-edit pass.
+7. Word-count balancing and scene expansion/cutting.
+8. Final beta-read package, copy edit and export.
