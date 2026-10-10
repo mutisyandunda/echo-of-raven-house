@@ -3,7 +3,7 @@ chapter: 9
 title: "The Drafting Room"
 act: "I"
 pov: "Claire Mercer"
-status: draft
+status: revision-1
 target_words: 2500
 clues: "C6"
 red_herrings: "None"
@@ -223,7 +223,7 @@ Jonah examined the opposite wall.
 
 He nodded.
 
-Chapter one’s anomaly resolved one layer deeper.
+The anomaly from her first afternoon resolved one layer deeper.
 
 The blocked opening had not led into nowhere.
 
