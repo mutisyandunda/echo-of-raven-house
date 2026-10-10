@@ -3,7 +3,7 @@ chapter: 29
 title: "The Wrist"
 act: "III"
 pov: "Claire Mercer"
-status: draft
+status: revision-1
 target_words: 2500
 clues: "C13"
 red_herrings: "R7"
@@ -259,7 +259,7 @@ Claire thought of the bruise around Celeste’s wrist.
 
 That evening she wrote the conclusion in the evidence log as narrowly as she could:
 
-**C13: Celeste sustained recent circumferential bruising to the right wrist before or during the fatal event. Physical restraint is a plausible explanation and now requires corroboration.**
+**Wrist bruising: Celeste sustained recent circumferential bruising to the right wrist before or during the fatal event. Physical restraint is a plausible explanation and now requires corroboration.**
 
 Not murder.
 
