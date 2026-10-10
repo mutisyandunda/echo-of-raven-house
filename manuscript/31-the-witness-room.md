@@ -3,7 +3,7 @@ chapter: 31
 title: "The Witness Room"
 act: "III"
 pov: "Claire Mercer"
-status: draft
+status: revision-1
 target_words: 2500
 clues: "C17"
 red_herrings: "None"
@@ -37,7 +37,7 @@ Rooms were romantic. Voids were useful.
 
 She stood in the library with Celeste’s original acoustic drawing laid over the modern measured survey. Jonah had printed both at the same scale on translucent sheets.
 
-The paired-curve marks that Claire first noticed in Chapter Two now formed a route.
+The paired-curve marks Claire had first noticed on Celeste’s west-wing plans now formed a route.
 
 Library wall.
 
@@ -175,7 +175,7 @@ Jonah spoke softly from the stair landing.
 
 His voice arrived beside her face as if the wall had learned ventriloquism.
 
-R1 resolved almost completely.
+The whispering-house explanation was almost complete.
 
 Almost.
 
