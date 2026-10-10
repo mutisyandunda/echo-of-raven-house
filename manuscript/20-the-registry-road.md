@@ -3,9 +3,9 @@ chapter: 20
 title: "The Registry Road"
 act: "IIB"
 pov: "Claire Mercer"
-status: draft
+status: revision-1
 target_words: 2600
-clues: "C10/C11 develop"
+clues: "C10 develops; C11 context"
 red_herrings: "None"
 romance_beat: "First full physical intimacy"
 ---
@@ -13,10 +13,10 @@ romance_beat: "First full physical intimacy"
 # Chapter 20: The Registry Road
 
 ## Chapter purpose
-Claire and Adrian verify records away from the estate; warmth returns briefly.
+Claire and Adrian verify Eleanor’s parentage and childhood records away from the estate; the Mercer possibility remains personal but unproved.
 
 ## Mystery movement
-- **Clues:** C10/C11 develop
+- **Clues:** C10 develops; C11 context
 - **Red herrings:** None
 - Evidence must be observed before it is interpreted.
 - POV inference cannot exceed the physical/documentary record.
@@ -55,7 +55,7 @@ She had also missed him.
 
 That irritated her enough to become useful.
 
-A registrar named Mrs Bell brought them three certified extracts and one photocopy of an older administrative card.
+A registrar named Mrs Bell brought them two certified extracts and one photocopy of an older administrative card.
 
 “Original register access is restricted,” she said, “but these are the entries you requested.”
 
@@ -131,37 +131,27 @@ Eleanor had known enough to refuse him.
 
 Or enough to fear the name.
 
-The third record was Margaret Mercer’s birth.
+The record proved another thing cleanly: the Eleanor Vane from the birth entry was the same Eleanor who later married Thomas Mercer.
 
-Mother: Eleanor Miriam Mercer, formerly Vane.
+What it did not prove was whether that Mercer line had anything to do with Claire.
 
-Father: Thomas James Mercer.
+Claire wrote the distinction in her notebook before her own surname could start doing the reasoning for her.
 
-Margaret’s date of birth matched Claire’s mother exactly.
+Adrian watched.
 
-The chain was now documentary.
+“You’re writing yourself a warning.”
 
-Not complete to Celeste’s death, not complete to title, but complete enough that Claire no longer needed to call the family connection a hypothesis.
+“Yes.”
 
-Eleanor Vane had become Eleanor Mercer.
+“Do you need one?”
 
-Eleanor Mercer had been Margaret Mercer’s mother.
+“Especially now.”
 
-Margaret Mercer had been Claire’s.
-
-She sat back.
-
-Adrian said, “Are you all right?”
-
-“No idea.”
-
-A truthful answer.
-
-Mrs Bell left them for several minutes.
+Mrs Bell left them for several minutes while retrieving the administrative file.
 
 Claire looked again at Eleanor’s birth record.
 
-At the bottom, beneath the registration details, was a notation for next of kin supplied during a later administrative query.
+At the bottom, beneath the registration details, was a notation for next of kin supplied during a later query.
 
 **Miriam Vane.**
 
@@ -291,18 +281,30 @@ She studied him in the dark.
 
 He reached for her hand under the sheet.
 
-In the morning, Imogen sent the full set of identity-continuity references.
+In the morning, Imogen sent the full identity-continuity references for Eleanor herself.
 
 One line mattered most.
 
 **Eleanor’s next of kin throughout childhood: Miriam Vane. No Raven guardian appears in the records located so far.**
 
-Claire read it while Adrian made coffee.
+A second message followed.
+
+**Post-1956 Mercer descendants still being traced. Nothing yet that responsibly connects Eleanor to you. Leave it alone until I can prove or disprove it.**
+
+Claire read both while Adrian made coffee.
 
 Miriam had not merely helped.
 
 She had functioned as Eleanor’s family in law and practice.
 
 Whatever Sebastian had been privately, he had left no public fatherhood behind.
+
+And whatever the surname Mercer might eventually mean to Claire, the record did not yet belong to her.
+
+That uncertainty was uncomfortable.
+
+It was also honest.
+
+For now, the more important fact was simpler: Eleanor had been raised outside the Raven family by the woman who had stood beside Celeste in the photograph.
 
 The omission was becoming less like accident and more like architecture.
