@@ -1,0 +1,10 @@
+extends: existence
+message: "Raven House style: check repeated weakener '%s'."
+level: suggestion
+ignorecase: true
+tokens:
+  - '\bvery\b'
+  - '\breally\b'
+  - '\bsomehow\b'
+  - '\bsuddenly\b'
+  - '\bbegan to\b'

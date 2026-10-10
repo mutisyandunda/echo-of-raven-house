@@ -1,0 +1,9 @@
+extends: substitution
+message: "Use canonical term '%s' instead of '%s'."
+level: warning
+ignorecase: false
+swap:
+  'Raven house': 'Raven House'
+  'Celeste vane': 'Celeste Vane'
+  'Sebastian raven': 'Sebastian Raven'
+  'Eleanor vane': 'Eleanor Vane'

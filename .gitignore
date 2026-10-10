@@ -1,0 +1,8 @@
+.DS_Store
+Thumbs.db
+*.tmp
+*.bak
+*.swp
+__pycache__/
+export/build/
+.obsidian/workspace*

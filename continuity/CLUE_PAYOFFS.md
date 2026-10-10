@@ -1,0 +1,25 @@
+# Clue Payoff Status
+
+- [ ] **C1** — seeded Ch2; payoff Ch31: Exterior dimensions exceed interior by ~80 cm in west wing
+- [ ] **C2** — seeded Ch2/5; payoff Ch31: Repeated tiny 'echo' marks on Celeste plans
+- [ ] **C3** — seeded Ch7; payoff Ch18/23: Nursery plan marked 'E.'
+- [ ] **C4** — seeded Ch4; payoff Ch13+: Celeste initials + 1931 date behind paneling
+- [ ] **C5** — seeded Ch10; payoff Ch22+: 1923 deed names Celeste, not Raven
+- [ ] **C6** — seeded Ch9; payoff Ch23: Photo of Celeste holding baby beside Miriam
+- [ ] **C7** — seeded Ch13; payoff Ch18/23: Letter: 'If he will not name her, I will.'
+- [ ] **C8** — seeded Ch14; payoff Ch17: 1924 civil registry reference Vane–Raven
+- [ ] **C9** — seeded Ch17; payoff Ch18: Certified marriage copy in drawing tube
+- [ ] **C10** — seeded Ch18; payoff Ch23: Eleanor birth record
+- [ ] **C11** — seeded Ch19; payoff Ch23/24: Marcus note: 'Find Mercer before the house leaves the family.'
+- [ ] **C12** — seeded Ch22; payoff Ch32+: 1932 transfer bears Celeste signature after death
+- [ ] **C13** — seeded Ch29; payoff Ch32: Coroner notes wrist bruising
+- [ ] **C14** — seeded Ch28; payoff Ch32: Newspaper photo shows brass safety gate one week before death
+- [ ] **C15** — seeded Ch28; payoff Ch32: Carpenter daybook: gate removed on Mrs E.A. instruction
+- [ ] **C16** — seeded Ch30; payoff Ch32: Talia’s Evelyn cassette
+- [ ] **C17** — seeded Ch31; payoff Ch32: Acoustic routing plan points to inaccessible Witness Room
+- [ ] **C18** — seeded Ch32; payoff Ch32: Celeste unsent solicitor letter
+- [ ] **C19** — seeded Ch32; payoff Ch32: Sebastian 1956 unsent letter
+- [ ] **C20** — seeded Ch24/30; payoff Ch30: Talia correspondence with Margaret Mercer
+- [ ] **C21** — seeded Ch26; payoff Ch27: Felix debt records
+- [ ] **C22** — seeded Ch4/21/25; payoff Ch27: Modern shoe print / disturbed dust in sealed passage
+- [ ] **C23** — seeded Ch27; payoff Ch28: Missing archive box found in Felix outbuilding

@@ -1,0 +1,13 @@
+extends: existence
+message: "Raven House style: reconsider cliché '%s'."
+level: suggestion
+ignorecase: true
+tokens:
+  - 'a chill ran down (her|his|their) spine'
+  - 'blood ran cold'
+  - 'heart skipped a beat'
+  - 'breath (she|he|they) didn.?t know (she|he|they) (was|were) holding'
+  - 'deafening silence'
+  - 'if these walls could talk'
+  - 'secrets buried in the walls'
+  - 'time stood still'
