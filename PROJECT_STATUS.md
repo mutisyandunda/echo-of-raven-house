@@ -31,18 +31,29 @@
 - Chapter 5 — **The Echo Line** — drafted.
 - Chapter 6 — **Family Dinner** — drafted.
 - Chapter 7 — **The Nursery** — drafted.
-- Chapter 8 — **The West Stair** — next.
+- Chapter 8 — **The West Stair** — drafted.
+- Chapter 9 — **The Drafting Room** — drafted.
+- Chapter 10 — **Outside the House** — drafted.
+- Chapter 11 — **The Owner** — drafted.
+- Chapter 12 — **The False Pedigree** — drafted.
+- Chapter 13 — **If He Will Not Name Her** — drafted.
+- Chapter 14 — **The Missing Register** — next.
 
-## Established through Chapter 7
+## Established through Chapter 13
 - C1: the west-wing dimensional discrepancy is formally measured.
-- C2: Celeste's paired-curve marks correlate with unusual acoustic transmission points.
-- C4: Celeste's initials dated 1931 are found inside the west service void, contradicting the family timeline.
-- C22 seed: recent human disturbance is visible inside the concealed service route.
-- R1/R2 are active: voices have plausible acoustic routes; Elspeth has legitimate reason to use a service passage.
-- C21 is lightly seeded through Felix's financial urgency around the sale.
-- C3 is established: Celeste's first-floor plan marks the nursery with an E; the room also contains a silver brush engraved E.V.
-- The name **Eleanor** has entered the mystery without being identified.
-- Claire and Adrian have moved from friction into professional respect and visible attraction, without crossing the planned romance timeline.
+- C2: Celeste's paired-curve marks correlate with unusual acoustic transmission points and concealed routes.
+- C3: the nursery is marked E and contains a silver brush engraved E.V.
+- C4: Celeste's initials dated 1931 contradict the family timeline.
+- C5: the 1923 conveyance names Celeste Vane as purchaser and owner of the Blackmere site in her own right.
+- C6: a photograph shows Celeste, a woman likely to be Miriam, and an infant; reverse inscription reads **our little E.**
+- C7: Celeste writes of a girl whose paternity Sebastian refuses to acknowledge publicly — **If he will not name her, I will.**
+- C20 seed: a later private pedigree passed through a Mercer address and treated Celeste's possible descendants as unresolved.
+- C22: recent human disturbance is visible inside concealed service routes, including a modern shoe print near the west stair.
+- C14/C15 are physically seeded: filled fixing holes and paint shadows show the west-stair landing once had a protective fitting, but its identity and removal history remain unknown.
+- R1/R2 remain plausibly resolved through architectural acoustics and legitimate service-route use; Felix is not exposed.
+- R3 remains active: Harcourt is defensive about title implications but has not been shown to know the murder truth.
+- R4 resolves partially: Talia burns a modern false/uncertain pedigree rather than primary murder evidence.
+- The romance has moved from respect into undeniable attraction; Chapter 13 reaches the planned almost-kiss, with Claire pulling back before the first-kiss beat reserved for Chapter 15.
 
 ## Current production stage
-Continue sequential drafting while preserving the reveal ladder and character-knowledge matrix. Chapter 8 should advance the west-stair physical mystery, seed the missing-gate evidence without revealing its meaning, and intensify the sense of a current human presence without exposing Felix.
+Continue sequential drafting while preserving the reveal ladder and character-knowledge matrix. Chapter 14 should pursue the registry reference without prematurely proving the marriage; Chapter 15 should deliver the first deliberate kiss only after an honest conversation.
