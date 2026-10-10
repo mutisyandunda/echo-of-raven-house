@@ -3,11 +3,11 @@ chapter: 16
 title: "The Name Mercer"
 act: "IIA"
 pov: "Claire Mercer"
-status: draft
+status: revision-1
 target_words: 2550
 clues: "C20 seed"
 red_herrings: "R9"
-romance_beat: "Claire asks whether her surname mattered; Adrian says no in a technically true but incomplete way"
+romance_beat: "Claire asks whether her surname mattered; Adrian gives a technically true but incomplete answer"
 ---
 
 # Chapter 16: The Name Mercer
@@ -22,7 +22,7 @@ The drawer contains correspondence; Talia admits Mercer is familiar but refuses 
 - POV inference cannot exceed the physical/documentary record.
 
 ## Romance / relationship movement
-Claire asks whether her surname mattered; Adrian says no in a technically true but incomplete way.
+Claire asks whether her surname mattered; Adrian gives a technically true but incomplete answer.
 
 ## End hook
 Talia tells Adrian his father should have burned the note.
@@ -67,19 +67,11 @@ Claire began with the envelopes from the upper compartment, because they could b
 
 Most were mundane enough to be valuable: invoices, travel notes, correspondence with builders, a complaint about inferior oak delivered from a timber merchant. They made Celeste more real precisely because they were not dramatic.
 
-Then Claire found an envelope dated 1979.
+Then Claire found an envelope that did not belong with the rest.
 
-She stopped.
+The paper was modern. The postmark had been clipped away, but a pencilled filing date on the reverse read **1999**.
 
-The paper did not belong with the 1920s material.
-
-“Later intrusion,” she said.
-
-Adrian leaned over.
-
-“Addressed to whom?”
-
-The envelope had no stamp. On the front, in Talia’s unmistakably controlled hand, was written:
+On the front, in Talia’s unmistakably controlled hand, was written:
 
 **M. Mercer**
 
@@ -101,53 +93,53 @@ His face was too still.
 
 He looked at the envelope.
 
-“It is not an uncommon surname.”
+“It appeared in my father’s papers.”
 
-“That was not my question either.”
-
-“No,” he said. “I have seen it before.”
-
-Claire waited.
-
-“In my father’s papers.”
-
-The room seemed to narrow.
-
-“When?”
+“When did you see it?”
 
 “After he died.”
 
 “What context?”
 
-“A note. A name. Nothing that made sense.”
-
-“What name?”
-
-“Mercer.”
+“A note. The name. Nothing that made sense at the time.”
 
 Claire put the envelope down very carefully.
 
 “Did my surname matter when you hired me?”
 
-He met her eyes.
+Adrian met her eyes.
+
+“It did not determine the hire.”
+
+“That is not the same question.”
 
 “No.”
 
-The answer came quickly enough to sound clean.
+“Did you notice it?”
 
-Claire held his gaze.
+“Yes.”
 
-“You did not choose me because I am a Mercer?”
+“Because of your father’s note?”
+
+“Yes.”
+
+“And you said nothing.”
 
 “I chose you because of your work.”
 
-Again, true-sounding.
+Claire held his gaze.
 
-Not quite the same answer.
+“That can be true and incomplete at the same time.”
 
-Claire felt the first small disturbance beneath the trust she had named the previous night.
+“Yes.”
 
-Before she could press it, the library door opened.
+There it was: the first clean edge of a problem she had not yet decided how large to make.
+
+Her mother had been Margaret Mercer. M. Mercer was therefore a coincidence with enough personal charge to be dangerous and not enough evidence to be useful.
+
+Claire refused to let an initial become a person merely because she knew one who fit it.
+
+Before she could press Adrian further, the library door opened.
 
 Talia entered without knocking.
 
@@ -193,6 +185,12 @@ Talia’s expression hardened into the one Claire had learned meant she was abou
 
 “A long time ago.”
 
+“Nineteen ninety-nine, according to the filing mark.”
+
+Talia’s eyes flicked to the date.
+
+“That sounds right.”
+
 “Why is your reply hidden in Celeste’s desk?”
 
 “I did not put it there.”
@@ -203,49 +201,35 @@ That, Claire believed.
 
 “I don’t know.”
 
-“Who was Mercer?”
+“First name?”
 
-Talia looked at Adrian.
+“No.”
+
+Claire paused.
+
+“No, you don’t know, or no, you won’t tell me?”
+
+“The second.”
+
+Adrian exhaled.
+
+“Talia.”
+
+She turned on him.
 
 “You should stop this.”
 
-“No,” he said.
+“No.”
 
 The word was quiet.
 
 It changed the room.
 
-Talia turned fully towards him.
-
-“You have no idea what you are disturbing.”
-
-“That argument has expired.”
-
-“You think because you own this house—”
-
-“I am increasingly unsure that I do.”
-
-For the first time, Talia had no immediate answer.
-
-Claire said, “Was Mercer connected to Eleanor?”
-
-Talia’s eyes moved to her.
-
-That was enough to register.
-
-“Who told you to ask that?”
-
-“No one.”
-
-“You are guessing.”
-
-“I am testing a relationship.”
-
-Talia looked at the envelope again.
+Talia looked back at Claire.
 
 “You do not know what people will do when you tell them the past has made them entitled to the present.”
 
-Claire heard the legal anxiety beneath the moral phrasing.
+Claire heard legal anxiety beneath the moral phrasing.
 
 “This is about the house.”
 
@@ -253,119 +237,93 @@ Claire heard the legal anxiety beneath the moral phrasing.
 
 “You did not need to.”
 
-Adrian stepped forward.
+Claire thought of the burned pedigree fragment. Mercer on an address label. Vane — issue unknown. Now a second, later Mercer correspondence in Talia’s own hand.
 
-“Who was M. Mercer?”
+Still not a family tree.
 
-Talia looked suddenly exhausted.
+A pattern.
 
-“Margaret.”
-
-Claire’s breath caught before she understood why.
-
-“Margaret Mercer?”
-
-“Yes.”
-
-Claire’s mother had been Margaret Mercer.
-
-The knowledge rose so quickly she almost mistrusted it.
-
-“My mother was Margaret Mercer.”
-
-Talia’s face changed.
-
-Not surprise.
-
-Recognition becoming unavoidable.
-
-Adrian looked from one woman to the other.
-
-Claire said, “Did you know my mother?”
-
-“No.”
-
-“That was not convincing.”
-
-“I corresponded with someone named Margaret Mercer. I did not know her.”
-
-“When?”
-
-“The late nineties. Perhaps later.”
-
-“What did she want?”
-
-Talia’s mouth tightened.
-
-“Answers.”
-
-“To what?”
-
-“I did not give them.”
-
-“Why?”
-
-“Because answers are not neutral things, Dr Mercer.”
-
-“Neither is withholding them.”
-
-That landed.
-
-Talia looked away.
-
-Claire wanted to open the envelope immediately.
-
-Instead she documented it first.
+She documented the envelope before opening it.
 
 Front. Back. Seal. Handwriting. Paper condition.
 
-Her hands remained steady because she had trained them to remain steady around evidence, even when the evidence carried her mother’s name.
+Her hands remained steady because she had trained them to remain steady around evidence, even when the evidence happened to share her name.
 
-When she finally opened it, the letter inside was brief.
+Inside was a single sheet.
 
-Talia had written:
+The top portion had been torn away before filing, taking any salutation with it. The surviving text was brief.
 
-**I cannot help you with the question you ask. You would be wiser to leave the matter where your mother left it. Raven House has done enough damage to women who believed it would give them recognition.**
+**I cannot help you with the question you ask. Raven House has done enough damage to women who believed it would give them recognition. I urge you to leave the matter where it stands.**
 
-No greeting survived; the top edge had been torn from another sheet.
+Then Talia’s initials.
 
-No explanation.
+No first name.
 
-No answer.
+No explanation of the question.
+
+No identification of the recipient.
 
 Claire read it twice.
 
-“My mother’s mother,” she said.
+“What did Mercer ask?”
 
-Talia remained silent.
+Talia’s mouth tightened.
 
-“My grandmother was Eleanor.”
+“I am not discussing private correspondence.”
 
-It was not yet a conclusion. It was a hypothesis spoken before Claire could stop it.
+“It was hidden inside an archive directly relevant to the history you are asking us not to reconstruct.”
 
-Talia’s silence made it heavier.
+“That does not make privacy disappear.”
 
-Adrian said, “Was she?”
+“No,” Claire said. “It makes context necessary.”
 
-Talia looked at him with something close to anger.
+Talia looked at Adrian.
 
-“You are both moving too fast.”
+“You have no idea what you are disturbing.”
 
-Claire almost laughed at hearing her own principle used against her.
+“That argument has expired.”
 
-“Then slow us down,” she said. “Tell us what you know.”
+“Your father understood the difference between truth and exposure.”
 
-Talia shook her head.
+Adrian’s expression changed.
 
-“Not yet.”
+“My father is the one who left me a note with the name Mercer in it.”
 
-“There may not be a later that belongs to you.”
+Talia went still.
 
-That was harsher than Claire intended.
+Claire saw it.
 
-Talia flinched almost invisibly.
+So did Adrian.
 
-Then she turned and left.
+“What note?” Claire asked.
+
+Neither answered immediately.
+
+That was answer enough to matter.
+
+Adrian said, “The one I mentioned yesterday. I found it after he died.”
+
+Talia looked at him with open anger now.
+
+“You should never have brought a Mercer here.”
+
+Claire’s attention sharpened.
+
+“Why?”
+
+Talia ignored her.
+
+Adrian said, “Because of this correspondence?”
+
+“Because your father should have finished what he started before he made it your problem.”
+
+“What did he start?”
+
+Talia’s face closed again.
+
+“Nothing that can be repaired by interrogating me in a library.”
+
+She turned and left.
 
 Adrian followed her into the corridor.
 
@@ -393,11 +351,9 @@ Claire went still.
 
 The note.
 
-Adrian had told her there had been a note in his father’s papers containing the name Mercer.
+Marcus Raven had left something about Mercer important enough for Talia to wish it destroyed.
 
-He had not told her Talia knew about it.
-
-He returned to the library a minute later.
+Adrian returned to the library a minute later.
 
 Claire did not ask what Talia had meant.
 
