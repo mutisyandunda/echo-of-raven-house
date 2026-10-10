@@ -3,7 +3,7 @@ chapter: 10
 title: "Outside the House"
 act: "IIA"
 pov: "Claire Mercer"
-status: draft
+status: revision-1
 target_words: 2550
 clues: "C5"
 red_herrings: "R3"
@@ -13,7 +13,7 @@ romance_beat: "Respect deepens away from house"
 # Chapter 10: Outside the House
 
 ## Chapter purpose
-Imogen locates the 1923 land record naming Celeste as owner. Adrian drives Claire to the county archive.
+Imogen locates the 1923 conveyance naming Celeste as purchaser. Adrian drives Claire to the county archive.
 
 ## Mystery movement
 - **Clues:** C5
@@ -25,7 +25,7 @@ Imogen locates the 1923 land record naming Celeste as owner. Adrian drives Clair
 Respect deepens away from house
 
 ## End hook
-Harcourt calls immediately after the title request.
+Harcourt calls immediately after Adrian forwards the 1923 conveyance.
 
 ## Draft
 
@@ -49,11 +49,11 @@ Claire sat up.
 
 Imogen’s keyboard clicked in the background.
 
-“I pulled the local index entries you sent me. Blackmere parcel, western boundary along the old quarry track, purchase completed August 1923.”
+“I pulled the county archive catalogue and an old deeds index for the Blackmere parcel. Western boundary along the quarry track. Conveyance completed August 1923.”
 
 Claire reached for her notebook.
 
-“Registered owner?”
+“Purchaser?”
 
 A pause.
 
@@ -65,17 +65,17 @@ Claire stopped writing.
 
 “No.”
 
-“Not a Raven trust?”
+“Not trustees for the Raven family?”
 
 “No.”
 
-“Joint ownership?”
+“Joint purchase?”
 
 “No.”
 
 Imogen’s voice sharpened.
 
-“The index names Celeste Vane as purchaser in her own right. There’s a conveyance packet at the county archive, catalogue reference BLK/PROP/1923/441. I haven’t seen the original, only the entry.”
+“And before you ask, this is not a modern Land Registry title entry. The land was unregistered then. What I have is a catalogue entry for the conveyance itself. The archive holds a deposited deed packet, reference BLK/PROP/1923/441.”
 
 Claire swung her feet to the floor.
 
@@ -115,21 +115,21 @@ Claire slid the catalogue reference across the table.
 
 “What is this?”
 
-“A land record.”
+“A 1923 conveyance reference.”
 
 “For Raven House?”
 
-“For Blackmere parcel, 1923.”
+“For the Blackmere parcel on which Raven House was built.”
 
 He read the note.
 
 “Celeste Vane.”
 
-“That is what the index says.”
+“That is what the deeds index says.”
 
-“Could she have bought it on behalf of Sebastian?”
+“Could she have bought it on Sebastian’s behalf?”
 
-“Possibly. Could have transferred later. Could have held it beneficially for someone else. Could be a clerical abstraction. We need the actual instrument.”
+“Possibly. Could have transferred it later. Could have been acting under a trust we haven’t seen. Could be an imperfect catalogue description. We need the actual instrument.”
 
 Adrian looked at the clock.
 
@@ -249,7 +249,7 @@ Date: 14 August 1923.
 
 Vendor: Thomas Bell & Sons, quarry proprietors.
 
-Purchaser: **Miss Celeste Agnes Vane, architect, of 41 Fitzroy Square, London.**
+Purchaser: **Miss Celeste Vane, architect, of 41 Fitzroy Square, London.**
 
 Claire felt the click of evidence settling into place.
 
@@ -263,9 +263,9 @@ Land conveyed to Celeste.
 
 No Sebastian.
 
-No Raven trust.
+No Raven trustees.
 
-No suggestion she acted as agent.
+No wording that she bought as agent for anyone else.
 
 Adrian read the lines twice.
 
@@ -303,15 +303,15 @@ Not the Raven estate.
 
 Imogen leaned over the table.
 
-“There may be a later transfer.”
+“This tells us who acquired the legal estate in 1923. It does not tell us every later dealing.”
 
-“There must be,” Adrian said.
+“There must be a transfer somewhere,” Adrian said.
 
-“Legally, perhaps. Historically, not necessarily cleanly.”
+“Maybe,” Imogen said. “And because this was unregistered land, that answer should live in the deed chain rather than in a 1923 register entry.”
 
-He looked at her.
+Adrian looked at her.
 
-Imogen added, “Do not panic. One deed is not a title opinion.”
+Imogen added, “Do not panic. One conveyance is not a title opinion.”
 
 “I’m not panicking.”
 
@@ -339,11 +339,11 @@ Adrian sat back.
 
 “Then we establish that separately.”
 
-“What if she transferred it to him before she died?”
+“What if she conveyed it to him before she died?”
 
-“Then there will be evidence.”
+“Then the deed chain should show it.”
 
-“And if there isn’t?”
+“And if it doesn’t?”
 
 Claire met his eyes.
 
@@ -351,7 +351,7 @@ Claire met his eyes.
 
 Outside, they stood under the archive entrance while rain began again in fine diagonal lines.
 
-Imogen had another appointment and left them with a promise to pull registry references.
+Imogen had another appointment and left them with a promise to trace later conveyances and, separately, the date on which Raven House first entered the modern Land Register.
 
 Adrian did not start the car immediately.
 
@@ -405,34 +405,38 @@ Again.
 
 On the drive back, they talked less but the silence had changed. It no longer felt like two people protecting separate territories. It felt companionable.
 
-At Raven House, Claire carried the scan copies into the library while Adrian took a call in the corridor.
+At Raven House, Claire carried the scan copies into the library. Adrian photographed the conveyance reference page with his phone, then forwarded the archive scans to Peter Harcourt with one sentence:
 
-His voice sharpened.
+**Please tell me where the title leaves Celeste Vane.**
 
-“What title request?”
+Harcourt called before Adrian had put the phone down.
 
-Claire stopped.
+His voice was faint but urgent through the handset.
+
+“What exactly have you obtained?”
+
+Adrian looked through the open library door at Claire.
+
+“The 1923 conveyance.”
 
 A pause.
 
-“No, Peter. I did not authorise anything through you.”
+Then Harcourt said something that made Adrian’s expression close.
+
+“Yes,” Adrian replied. “Claire Mercer requested it.”
 
 Another pause.
 
-He looked through the open library door at Claire.
+“No, Peter. I am not speculating about title. I am asking you to trace the deeds.”
 
-His expression became unreadable.
-
-“Yes,” he said into the phone. “Claire Mercer requested the 1923 conveyance.”
-
-The voice on the other end was faint but urgent.
+Claire set the document box down slowly.
 
 Adrian listened.
 
 Then said, “Why does that concern you?”
 
-Claire set the document box down slowly.
+The call had stopped being about history.
 
-Peter Harcourt had learned about the title search less than an hour after they made it.
+Peter Harcourt was worried about the active sale.
 
-And he cared enough to call immediately.
+And whatever sat between a 1923 conveyance to Celeste Vane and the modern Raven title, he wanted it handled by lawyers before anyone else gave it a name.
