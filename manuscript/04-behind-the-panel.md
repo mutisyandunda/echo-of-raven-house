@@ -3,7 +3,7 @@ chapter: 4
 title: "Behind the Panel"
 act: "I"
 pov: "Claire Mercer"
-status: draft
+status: revision-1
 target_words: 2500
 clues: "C4, C22 seed"
 red_herrings: "R2"
@@ -145,13 +145,11 @@ A dated signature inside the building did not prove residence, ownership, intima
 
 The house had contradicted the family before any document had.
 
-Claire wrote the date in her notebook.
+Claire wrote in her notebook:
 
-C4: physical inscription. Needs material verification.
+**Physical inscription. Needs material verification.**
 
-She stopped herself.
-
-Not C4. That was the private code in her own working ledger. She had already begun thinking in evidence architecture.
+The wording steadied her. Description first. Interpretation later.
 
 Jonah opened the void another ten centimetres by removing a second reversible board.
 
