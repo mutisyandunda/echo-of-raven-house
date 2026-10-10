@@ -3,7 +3,7 @@ chapter: 32
 title: "Sebastian’s Letter"
 act: "III"
 pov: "Claire Mercer"
-status: draft
+status: revision-1
 target_words: 2500
 clues: "C18, C19"
 red_herrings: "R7 resolves"
@@ -165,9 +165,7 @@ Then he reached 17 October 1931.
 
 Claire stopped.
 
-R7.
-
-The diary line.
+The diary line returned to her.
 
 **Tonight I ended what should never have begun.**
 
