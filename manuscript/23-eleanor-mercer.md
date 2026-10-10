@@ -3,7 +3,7 @@ chapter: 23
 title: "Eleanor Mercer"
 act: "IIB"
 pov: "Claire Mercer"
-status: draft
+status: revision-1
 target_words: 2600
 clues: "C6, C7, C10 converge"
 red_herrings: "None"
@@ -13,7 +13,7 @@ romance_beat: "Adrian comforts Claire briefly"
 # Chapter 23: Eleanor Mercer
 
 ## Chapter purpose
-Miriam’s packet proves Eleanor was Claire’s grandmother.
+Miriam’s packet and later civil records prove Eleanor was Claire’s grandmother.
 
 ## Mystery movement
 - **Clues:** C6, C7, C10 converge
@@ -39,7 +39,7 @@ Inside were photocopies of three documents preserved from a closed client file.
 
 The first was a letter from Miriam Vane, dated January 1932.
 
-The second was a guardianship declaration concerning Eleanor.
+The second was a sworn declaration concerning Eleanor’s identity and care.
 
 The third was a photograph.
 
@@ -57,21 +57,29 @@ Claire sat down.
 
 Adrian, across the table, did not speak.
 
-The guardianship declaration named the child in full:
+The declaration named the child in full:
 
-**Eleanor Miriam Vane, daughter of Celeste Miriam Vane.**
+**Eleanor Miriam Vane, daughter of Celeste Vane.**
+
+It stated that Eleanor had lived principally in Miriam’s household, that Miriam had been responsible for her daily care before and after Celeste’s death, and that Sebastian Raven was the child’s father but had not taken an active parental role.
 
 A handwritten note appended by Pell read:
 
-**Father, S.A. Raven, not participating. Marriage documentation held separately.**
+**Father, S.A. Raven. Marriage documentation held separately. Mrs Vane understands that present care does not by itself settle legal guardianship. If custody is challenged, court directions should be sought without delay.**
 
 Claire read it twice.
 
-Then Miriam’s letter.
+That distinction mattered.
+
+Miriam had not become Eleanor’s legal guardian merely by sheltering her.
+
+She had become the person doing the work of family while the law remained potentially more complicated.
+
+Then Claire read Miriam’s letter.
 
 It was practical rather than emotional.
 
-Celeste was dead. Eleanor was to remain with Miriam. No Raven family member had lawful authority to remove the child without court process. Miriam feared pressure and wanted Pell’s advice on relocating.
+Celeste was dead. Eleanor was to remain with Miriam if that could be secured lawfully. Miriam feared that Sebastian or his family might suddenly assert rights over a child they had refused to acknowledge in public, and she wanted Pell’s advice before moving away.
 
 One paragraph hurt more than the rest.
 
@@ -115,11 +123,11 @@ Imogen called twenty minutes later.
 
 Claire put her on speaker.
 
-“Pell’s file does what we needed,” Imogen said. “It links the child from the birth record to the Eleanor in Miriam’s custody and confirms the father identification independently of Celeste’s letter.”
+“Pell’s file does what we needed,” Imogen said. “It links the child from the birth record to the Eleanor in Miriam’s care and confirms the father identification independently of Celeste’s letter.”
 
 “And the Mercer chain?”
 
-“Marriage record, Margaret’s birth, your birth. Clean continuity.”
+“Eleanor’s 1956 marriage to Thomas Mercer, Margaret’s birth record, your mother’s later records, then yours. Clean generational continuity.”
 
 Claire closed her eyes.
 
@@ -179,19 +187,17 @@ Miriam’s letter included one final line to Pell:
 
 **When she is old enough, Eleanor may decide for herself whether Raven is a name worth recovering. I will not decide it for her.**
 
-Claire thought of Eleanor’s marriage certificate.
+Claire thought of Eleanor’s marriage entry.
 
-The father’s name entered, then removed.
+The father’s column had been left blank.
 
-Perhaps Eleanor had decided.
+That did not prove why.
 
-Not to become a Raven.
+But beside Miriam’s line, it acquired emotional weight Claire refused to mistake for documentary certainty.
 
-Not to erase Sebastian, exactly.
+Perhaps Eleanor had decided not to recover Raven at all.
 
-To refuse him authority over what she called herself.
-
-Claire understood that choice more intimately than she expected.
+Claire understood that possibility more intimately than she expected.
 
 Sophie arrived in the afternoon and read the documents.
 
