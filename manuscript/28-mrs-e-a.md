@@ -3,7 +3,7 @@ chapter: 28
 title: "Mrs E.A."
 act: "III"
 pov: "Claire Mercer"
-status: draft
+status: revision-1
 target_words: 2500
 clues: "C14, C15"
 red_herrings: "None"
@@ -119,7 +119,7 @@ The gate was unmistakable.
 
 Two brass uprights. Horizontal rails. Hinged at one side, latched at the other. Designed to prevent someone stepping backward through the open landing edge.
 
-Jonah compared the mounting points to the filled holes Claire had found in Chapter Eight.
+Jonah compared the mounting points to the filled holes Claire had found on the landing the night she nearly fell.
 
 “Same spacing,” he said. “I’d put money on it.”
 
