@@ -22,7 +22,6 @@ BANNED_CLICHES = [
     r"she shivered, though not from the cold",
 ]
 
-# Production notation that should never leak into reader-facing prose.
 PRODUCTION_LEAKS = [
     (r"\bC(?:[1-9]|1\d|2[0-3])\b", "clue code"),
     (r"\bR(?:10|[1-9])\b", "red-herring code"),
@@ -43,6 +42,18 @@ def words(text: str) -> int:
 
 def line_number(text: str, offset: int) -> int:
     return text.count("\n", 0, offset) + 1
+
+
+def reader_prose(text: str, heading: re.Match[str], chapter_number: int) -> tuple[str, int]:
+    if "## Draft" in text:
+        start = text.index("## Draft") + len("## Draft")
+        return text[start:].strip(), start
+    if chapter_number == 1:
+        # Chapter 1 predates the production-note template and contains no
+        # non-reader material after its H1 heading.
+        start = heading.end()
+        return text[start:].strip(), start
+    return "", -1
 
 
 def main() -> int:
@@ -72,11 +83,10 @@ def main() -> int:
         heading = TITLE_RE.search(text)
         if not heading:
             failures.append(f"{path.name}: missing '# Chapter N: Title' heading")
-            heading_number = filename_number
-            heading_title = path.stem
-        else:
-            heading_number = int(heading.group(1))
-            heading_title = heading.group(2).strip()
+            continue
+
+        heading_number = int(heading.group(1))
+        heading_title = heading.group(2).strip()
 
         if filename_number != expected or heading_number != expected:
             failures.append(
@@ -90,13 +100,9 @@ def main() -> int:
             failures.append(f"Duplicate title '{title}': {seen_titles[title]} and {path.name}")
         seen_titles[title] = path.name
 
-        if "## Draft" not in text:
-            failures.append(f"{path.name}: missing '## Draft' section")
-            continue
-
-        draft = text.split("## Draft", 1)[1].strip()
+        draft, draft_offset = reader_prose(text, heading, heading_number)
         if not draft:
-            failures.append(f"{path.name}: empty Draft section")
+            failures.append(f"{path.name}: missing or empty reader Draft section")
             continue
 
         count = words(draft)
@@ -109,7 +115,7 @@ def main() -> int:
             match = re.search(pattern, draft, re.IGNORECASE)
             if match:
                 failures.append(
-                    f"{path.name}:{line_number(text, text.index('## Draft') + match.start())} "
+                    f"{path.name}:{line_number(text, draft_offset + match.start())} "
                     f"banned cliché /{pattern}/"
                 )
 
@@ -117,7 +123,7 @@ def main() -> int:
             match = re.search(pattern, draft)
             if match:
                 failures.append(
-                    f"{path.name}: {label} leaked into Draft: {match.group(0)!r}"
+                    f"{path.name}: {label} leaked into reader prose: {match.group(0)!r}"
                 )
 
     print("MANUSCRIPT QA")
@@ -126,8 +132,8 @@ def main() -> int:
     if counts:
         shortest = min(counts, key=lambda item: item[2])
         longest = max(counts, key=lambda item: item[2])
-        print(f"Shortest: Ch {shortest[0]:02d} — {shortest[1]} ({shortest[2]:,})")
-        print(f"Longest:  Ch {longest[0]:02d} — {longest[1]} ({longest[2]:,})")
+        print(f"Shortest: Ch {shortest[0]:02d} - {shortest[1]} ({shortest[2]:,})")
+        print(f"Longest:  Ch {longest[0]:02d} - {longest[1]} ({longest[2]:,})")
 
     if warnings:
         print("\nWARNINGS")
@@ -140,7 +146,7 @@ def main() -> int:
             print("-", failure)
         return 1
 
-    print("\nPASS: structural, production-leak and banned-cliché checks passed.")
+    print("\nPASS: structural, production-leak and banned-cliche checks passed.")
     return 0
 
 
