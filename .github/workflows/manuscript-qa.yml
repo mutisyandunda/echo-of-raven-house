@@ -1,0 +1,36 @@
+name: Manuscript QA
+
+on:
+  pull_request:
+    branches: [main]
+    paths:
+      - 'manuscript/**'
+      - 'tools/**'
+      - 'continuity/**'
+      - 'export/**'
+      - '.github/workflows/manuscript-qa.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  qa:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Run continuity and prose checks
+        run: python tools/continuity_check.py
+
+      - name: Build clean manuscript
+        run: python tools/build_manuscript.py
+
+      - name: Verify clean build exists
+        run: test -s export/the-echo-of-raven-house.md
