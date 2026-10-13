@@ -3,7 +3,7 @@ chapter: 27
 title: "Felix"
 act: "IIB"
 pov: "Claire Mercer"
-status: draft
+status: final-revision
 target_words: 2600
 clues: "C21, C22, C23"
 red_herrings: "R1/R8 resolve"
@@ -13,7 +13,7 @@ romance_beat: "Adrian chooses accountability"
 # Chapter 27: Felix
 
 ## Chapter purpose
-Felix admits staging footsteps, moving objects, copying a key, stealing the box and trapping Claire.
+Felix’s present-day sabotage is separated cleanly from the historical mystery; the missing archive box is recovered and returns the carpenter’s daybook.
 
 ## Mystery movement
 - **Clues:** C21, C22, C23
@@ -22,22 +22,26 @@ Felix admits staging footsteps, moving objects, copying a key, stealing the box 
 - POV inference cannot exceed the physical/documentary record.
 
 ## Romance / relationship movement
-Adrian chooses accountability.
+Adrian chooses accountability over family containment.
 
 ## End hook
-The stolen box contains the carpenter’s daybook.
+The recovered daybook records removal of the west-stair safety gate on the morning Celeste died.
 
 ## Draft
 
-Felix came back to Raven House because his lender called Adrian first.
+Felix came back to Raven House because the bridge lender asked the estate office, again, whether any future distribution would be paid under the direction Felix had already signed.
 
-That was less dramatic than a police chase and considerably more effective.
+Harcourt refused to confirm it.
 
-At nine the following morning, Felix walked into the library wearing the same easy expression he had worn at family dinner.
+Adrian called Felix himself and said only, “Come home. Today.”
+
+It was less dramatic than a police chase and considerably more effective.
+
+At nine the following morning, Felix entered the library wearing the same easy expression he had worn at family dinner.
 
 It failed at the edges.
 
-Claire was there with Adrian, Sophie and the police officer who had attended after the passage incident.
+Claire was there with Adrian and Sophie. The police officer handling the passage incident had arrived ten minutes earlier and stood near the fireplace with a notebook closed in one hand.
 
 Felix stopped.
 
@@ -45,219 +49,307 @@ Felix stopped.
 
 Adrian said, “Sit down.”
 
-“Should I ask why?”
+Felix looked at the officer.
 
-“You can.”
+“Am I under arrest?”
 
-Felix looked at Claire.
+“No,” the officer said. “At present I’m asking whether you are willing to speak voluntarily about a stolen archive box and an incident in which Dr Mercer was secured inside a service passage. You may stop the conversation. If I need to question you as a suspect, I will caution you and explain your rights.”
+
+Felix’s eyes flicked to Claire.
 
 She gave him nothing.
 
 He sat.
 
-The officer began with the archive box.
+The first questions were neutral.
 
-Felix denied taking it.
+When had he last been at Raven House?
 
-Then the camera outage.
+Why had he told Adrian he was in Newcastle on the evening the box disappeared?
 
-He denied touching the breaker.
+Had he entered the estate-office corridor?
 
-Then the service passage.
+Felix answered smoothly until the chronology made smoothness difficult.
 
-“I haven’t been in there in years.”
+His car at 17:41.
 
-Sophie said, “That’s not true.”
+Sophie’s sighting around six.
 
-Felix glanced at her.
+The camera outage at 18:07.
 
-“Stay out of it.”
-
-“No.”
+His car beside the coach shed at 18:22.
 
 The officer placed a photograph of the shoe impression on the table.
 
-“Would you be willing to let us compare your shoes?”
+“Do you recognise this tread?”
 
-Felix looked at the image.
+Felix looked at it.
 
-The smile disappeared completely.
+His face changed.
 
-Claire watched the moment calculation replaced denial.
+The officer closed the notebook.
 
-Not confession yet.
+“Mr Raven, I am now going to caution you because I have grounds to suspect your involvement. You do not have to answer questions. It may harm your defence if you do not mention when questioned something you later rely on in court. Anything you do say may be given in evidence. You are entitled to legal advice, and if you want a solicitor we stop here until that is arranged. Do you understand?”
 
-Repricing.
+Felix stared at the shoe photograph.
 
-Adrian said, “The lender called me.”
+“Yes.”
 
-Felix’s head snapped up.
+“Do you want legal advice before we continue?”
+
+A long pause.
+
+“No.”
+
+The officer confirmed the answer and time.
+
+Claire felt the atmosphere change.
+
+This was no longer a family confrontation with a policeman decorating it.
+
+Felix looked at Adrian.
+
+“The lender called you.”
+
+“Yes.”
 
 “What did they tell you?”
 
-“That you represented expected Raven House proceeds as effectively guaranteed.”
+“That they were still waiting for confirmation of a payment direction the estate never accepted.”
 
 Felix laughed once.
 
 “Family distributions have happened before.”
 
-“Not from a house whose title may be defective.”
+“Not guaranteed ones.”
 
-“And whose fault is that?”
+“They would have been if the house sold.”
 
-The question came too fast.
+“No,” Harcourt said from the doorway.
 
-Everyone heard it.
+None of them had heard him arrive.
 
-Felix closed his eyes.
+He held up the correspondence file.
 
-Claire said quietly, “Mine?”
+“I told you that in writing twice.”
 
-He looked at her.
+Felix’s expression hardened.
 
-“I didn’t mean—”
+Adrian said, “Did you take the maintenance box?”
 
-“You did.”
+The officer lifted a hand.
 
-Adrian leaned forward.
+“Let me ask.”
 
-“Did you take the box?”
+He turned to Felix.
 
-Felix rubbed both hands over his face.
-
-For the first time, he looked less like a charming man in trouble than a tired man who had run out of stories.
-
-“Yes.”
-
-Sophie swore.
-
-The officer raised a hand.
-
-“Let him continue.”
+“Did you remove the archive box labelled HOUSE / MAINTENANCE / 1928–1934 from the archive room?”
 
 Felix looked at Claire.
 
-“I was trying to slow you down.”
+Then at Sophie.
 
-“You locked me in a wall.”
+Then down at his hands.
 
-“I didn’t think you’d be in there long.”
+“Yes.”
 
-The sentence produced a silence so complete that even Felix heard its ugliness.
+Sophie swore under her breath.
 
-Claire said, “How long is an acceptable period to trap someone in an unlit service void?”
+The officer said, “Why?”
 
-“I know. I know how that sounds.”
+“I wanted to slow this down.”
 
-“No. You know what it was.”
+“What does *this* mean?”
 
-He looked away.
+Felix gestured towards the house as if the building itself had become unreasonable.
 
-The officer asked him to start from the beginning.
+“The archive. The title investigation. Every day there was another problem and every problem pushed the sale further away.”
 
-Felix did.
+Claire said nothing.
 
-The footsteps had been him on three occasions, using the old service route and acoustic openings he remembered from childhood.
+The officer continued.
 
-The moved objects were him.
+“Did you switch off the corridor camera?”
 
-The whisper near the west stair—also him once, though not every sound Claire had heard.
+“Yes.”
 
-He had copied an old estate-office key years earlier and discovered it still opened the pre-replacement archive lock.
+“Did you use a copied estate key to enter the archive?”
 
-He had switched the camera breaker.
+“Yes.”
 
-He had taken the maintenance box because he overheard Harcourt mention the 1932 title problem.
+“Where is the box now?”
 
-He had hidden the box in an outbuilding he used for storage.
+“Coach shed. Back room. Blue cabinet.”
 
-And he had barred the panel behind Claire because he saw her enter the passage and panicked.
+The officer wrote it down.
 
-“I thought if you got frightened enough you might leave,” he said.
+Then he placed photographs of the passage hardware beside the shoe impression.
 
-Claire stared at him.
+“Did you remove the door stop from the corridor panel on the afternoon Dr Mercer entered the service passage?”
 
-“Have you met me?”
+Felix’s breathing changed.
 
-Sophie made a strangled sound that might have been laughter or disbelief.
+“Yes.”
 
-Felix looked almost ashamed.
+“Did you place a bar through the outside staple?”
 
-“I miscalculated.”
+“Yes.”
 
-“You keep describing choices as arithmetic.”
+“Did you wedge the linen-room exit?”
 
-Adrian had said very little.
+A pause.
 
-Now he stood.
+“Yes.”
 
-“Where is the box?”
+Adrian’s chair moved against the floor.
 
-“Old coach shed. Back room. Blue cabinet.”
+Claire looked at him.
 
-“Is anything missing from it?”
+He stopped himself from standing.
 
-“I don’t know.”
+The officer asked, “Why did you secure both exits?”
 
-“You took a box without looking inside?”
+Felix rubbed one hand across his mouth.
 
-“I looked. I didn’t understand half of it.”
+“I saw her go in. I panicked.”
 
-“Did you destroy anything?”
+“That is not an answer.”
+
+“I thought if she got frightened enough she might leave the job.”
+
+Claire finally spoke.
+
+“You knew there was a check-in.”
+
+Felix looked at her.
 
 “No.”
 
-“Move anything?”
+“Elspeth was standing at the entrance with me.”
 
-“Probably. I was looking for the deed.”
+“I saw her leave the corridor.”
 
-Claire said, “The deed was never in that box.”
+“She left after I entered. She was expecting a call fifteen minutes later.”
+
+Felix closed his eyes.
+
+“I didn’t know that.”
+
+“How long did you intend to leave me there?”
+
+“I don’t know.”
+
+“That is the first sensible answer you’ve given.”
+
+“I wasn’t going to leave you overnight.”
+
+Claire stared at him.
+
+The ugliness of the sentence reached him before anyone else needed to explain it.
+
+He looked away.
+
+The officer resumed.
+
+“Were the footsteps reported on earlier nights also you?”
+
+“Some of them.”
+
+“How many occasions?”
+
+“Three. Maybe four.”
+
+“Did you move objects?”
+
+“Yes.”
+
+“Use the acoustic tubes?”
+
+“Yes.”
+
+“Whisper near the west stair?”
+
+“Once.”
+
+“Did you produce every unexplained sound reported in the house?”
+
+“No.”
+
+That answer mattered.
+
+Claire made no comment.
+
+Felix explained what he had done in the flat tone of a man hearing his own behaviour converted from tricks into offences.
+
+He remembered the service routes from childhood. He had copied an old estate-office key years earlier as a joke and discovered it still operated several locks. He knew which electrical breaker fed the archive corridor. He moved small objects because he wanted Claire and Adrian to mistrust the house and each other. He took the box after overhearing Harcourt mention that the years around 1932 were becoming legally important.
+
+“I was looking for the deed,” he said.
+
+“The deed was never in that box,” Claire replied.
 
 “I know that now.”
 
-The officer took Felix’s formal statement.
+“Did you destroy anything?” the officer asked.
 
-Adrian authorised immediate recovery of the box and asked police to accompany them.
+“No.”
 
-Outside the library, Sophie stopped him.
+“Remove documents from the box?”
 
-“What are you going to do to him?”
+“No. I went through it. I put things back badly.”
 
-Adrian looked through the doorway at Felix.
+The officer ended the interview when the immediate admissions were recorded and arranged for a formal continuation at the station. Felix was told not to enter the archive, coach shed or service routes and not to interfere with any document or device relevant to the inquiry.
 
-“What I should have done before this: stop treating family embarrassment as a private management problem.”
+Adrian watched his cousin sign the acknowledgement.
 
-Claire heard the distinction.
+“What happens now?” Sophie asked after Felix had been taken to another room to wait.
 
-Accountability, not revenge.
+The officer answered before Adrian could.
 
-Felix would face consequences for trapping her. The family would not make it disappear because prosecution was inconvenient.
+“That depends on the evidence and charging decisions, not the family.”
 
-Adrian looked at Claire.
+Claire saw the sentence land.
 
-“If you want to make a formal complaint, I will support it.”
+Adrian nodded.
 
-“It is not yours to support or oppose.”
+“Good.”
 
-He nodded immediately.
+Outside the library, Sophie caught his sleeve.
 
-“You’re right.”
+“You’re just letting the police—”
 
-Again, he was learning.
+“Yes.”
 
-The coach shed smelled of oil, damp wood and mice.
+“He’s family.”
 
-The blue cabinet stood where Felix said.
+“That is not a defence.”
 
-Inside was the archive box.
+Sophie released him.
 
-Claire photographed it before anyone touched it.
+Claire watched Adrian through the glass panel in the door.
 
-The lid had been replaced badly.
+There would have been a time, she thought, when Raven House converted every embarrassment into a private problem to be handled behind closed doors.
 
-Contents disturbed.
+Adrian looked at her.
 
-She and the officer carried it back to the archive room, where Claire began a page-by-page inventory against the old catalogue.
+“If you make a complaint or give evidence, I will not interfere either way.”
+
+Claire held his gaze.
+
+“Good.”
+
+He did not add that he supported her, as if her right to act required his endorsement.
+
+That was better.
+
+The coach shed smelled of oil, damp timber and mice.
+
+Police recovered the archive box from the blue cabinet exactly where Felix had said. Claire attended only after the scene had been photographed.
+
+The box lid was crooked.
+
+Its contents were disturbed.
+
+Back in the archive room, under the officer’s observation, Claire compared every item against the old inventory.
 
 Invoices.
 
@@ -269,13 +361,13 @@ Plumbing.
 
 Carpentry.
 
-A thin ledger sat near the bottom.
+Then a thin brown ledger with no title.
 
-Brown cover. No title.
+She opened it.
 
-Claire opened it.
+The entries were workmanlike, dated, dull.
 
-Handwritten entries listed jobs by date and room.
+That made them powerful.
 
 1929.
 
@@ -283,11 +375,11 @@ Handwritten entries listed jobs by date and room.
 
 1931.
 
-One line made her stop.
+A line on 14 October caught her eye.
 
-**14 Oct — polish brass west gate / landing.**
+**polish brass west gate / landing**
 
-Then, three days later:
+Three days later:
 
 **17 Oct — west gate removed, instruction Mrs E.A. Store lower workshop.**
 
@@ -297,26 +389,28 @@ Claire read it again.
 
 The day Celeste died.
 
-Adrian stood beside her.
+Adrian stood beside her but did not lean over the page.
 
 “Mrs E.A.”
 
-“Evelyn Ashcombe.”
-
-“Raven by then.”
-
-“Yes.”
+“Almost certainly Evelyn Ashcombe Raven.”
 
 Claire turned the page.
 
-A later notation, dated the following week:
+A notation dated the following week read:
 
 **Gate not to be refitted. Mr S.R. instruction.**
 
 Sebastian.
 
-The stolen box had not contained the forged deed Felix feared.
+The missing box had not contained the forged conveyance Felix feared.
 
-It contained something worse.
+It had contained something much less dramatic and far more dangerous to the family story.
 
-A mundane carpenter’s daybook recording the removal of a safety feature from the west stair on the morning Celeste died.
+A carpenter had written down his work.
+
+A safety gate had existed.
+
+Evelyn had ordered it removed on the morning Celeste died.
+
+And after Celeste’s death, Sebastian had ordered that it stay gone.
