@@ -3,37 +3,36 @@ chapter: 17
 title: "The Tube Within the Desk"
 act: "IIA"
 pov: "Claire Mercer"
-status: draft
+status: final-revision
 target_words: 2550
 clues: "C9"
 red_herrings: "None"
-romance_beat: "Claire anchors a shaken Adrian"
+romance_beat: "Claire supports a shaken Adrian while insisting on full disclosure of Marcus’s note"
 ---
 
 # Chapter 17: The Tube Within the Desk
 
 ## Chapter purpose
-A second rolled-plan compartment contains a certified 1924 marriage copy.
+The protected roll inside Celeste’s desk yields a certified 1924 marriage entry, transforming the historical relationship and forcing Adrian to acknowledge that his father’s Mercer note now belongs inside Claire’s professional decision-making.
 
 ## Mystery movement
 - **Clues:** C9
-- **Red herrings:** None
-- Evidence must be observed before it is interpreted.
-- POV inference cannot exceed the physical/documentary record.
+- The certified copy corroborates the civil index independently of the pending modern GRO request.
+- The absence of a located dissolution remains a separate question.
 
 ## Romance / relationship movement
-Claire anchors a shaken Adrian.
+Intimacy is tested by information ethics for the first time; Claire does not punish uncertainty, but she refuses controlled disclosure.
 
 ## End hook
-Celeste was Sebastian’s legal wife four years before Evelyn.
+Celeste was Sebastian’s legal wife four years before the public Raven–Ashcombe wedding.
 
 ## Draft
 
-The paper took six hours to relax.
+The paper took most of the day to relax.
 
-Claire used every one of them badly.
+Claire used every hour badly.
 
-She worked through invoices, photographed the Mercer letter again, answered two emails from Imogen and avoided asking Adrian what Talia had meant about Marcus’s note.
+She worked through invoices, photographed the Mercer correspondence again, answered two messages from Imogen and avoided asking Adrian what Talia had meant about Marcus’s note.
 
 The avoidance was deliberate.
 
@@ -43,37 +42,39 @@ Adrian did not volunteer an explanation.
 
 That made it worse again.
 
-By late afternoon the rolled paper from the concealed desk compartment had softened enough under controlled humidity to be opened without forcing the fibres.
+The tightly rolled document from the false bottom of Celeste’s desk had been inside a narrow cylindrical recess for decades. The paper remembered the curve. Claire and the conservator humidified it slowly between membranes rather than forcing it open for the convenience of the plot Raven House seemed determined to become.
 
-Claire moved it to the large archive table.
+At four-twenty, it was finally stable enough to examine under light weights.
 
-Adrian stood opposite her.
+Adrian stood opposite Claire at the large archive table.
 
 “You want Jonah?” he asked.
 
 “For paper?”
 
-“I’m trying to be useful.”
+“I am trying to be useful.”
 
 “Be still.”
 
 “Cruel.”
 
-She lifted the edge with a microspatula and let the sheet uncurl gradually beneath light weights.
+The conservator lifted one edge with a microspatula.
+
+The sheet eased outward.
 
 Not a plan.
 
-The first visible line was printed, not drawn.
+The first visible line was printed.
 
 **Certified Copy of an Entry of Marriage.**
 
 Claire stopped breathing for a second.
 
-Adrian read the same words upside down.
+Across the table Adrian read the words upside down.
 
-His hands flattened against the table.
+His hands flattened against the wood.
 
-Claire moved the final weight.
+The final curl relaxed beneath the weights.
 
 The certificate lay open.
 
@@ -81,21 +82,33 @@ September 1924.
 
 Newcastle registration district.
 
-**Sebastian Arthur Raven**, bachelor, occupation listed simply as gentleman.
+**Sebastian Arthur Raven**, bachelor, gentleman.
 
-**Celeste Miriam Vane**, spinster, architect.
+**Celeste Vane**, spinster, architect.
 
-Claire’s eye caught on the word spinster and then moved to the signatures.
+Claire’s eye caught on the occupation before the rest.
 
-Sebastian’s.
+Architect.
 
-Celeste’s.
+Not designer.
+
+Not companion.
+
+Not a Raven patron’s clever young woman.
+
+The state had recorded her profession in the same document that recorded Sebastian as her husband.
+
+Then Claire read the signatures.
+
+Sebastian.
+
+Celeste.
 
 Two witnesses.
 
-One was Miriam Vane.
+Miriam Vane.
 
-The other, a solicitor named Edward Pell.
+Edward Pell, solicitor.
 
 Adrian said, “Read it.”
 
@@ -107,11 +120,25 @@ Claire looked up.
 
 His face had changed.
 
-This was no longer curiosity about a disgraced ancestor. It was the instant when a family structure shifted beneath a living person.
+This was no longer a mystery about embarrassing ancestors. It was the instant when the structure of a living family shifted beneath one of its members.
 
 Claire read the entry aloud.
 
-Date. Names. Ages. Conditions. Addresses. Fathers’ names. Occupations.
+Date.
+
+Names.
+
+Ages.
+
+Conditions.
+
+Addresses.
+
+Fathers’ names.
+
+Occupations.
+
+Witnesses.
 
 When she finished, Adrian sat down.
 
@@ -123,7 +150,7 @@ He stared at the certificate.
 
 “There is no divorce.”
 
-“We have found no divorce.”
+“We have found no dissolution.”
 
 He gave her a look that would have been irritation on another day.
 
@@ -131,7 +158,7 @@ Today it was almost a plea.
 
 Claire softened.
 
-“We have checked the obvious legal routes,” she said. “Imogen is checking more. But yes. This establishes the 1924 marriage itself.”
+“Imogen is still checking. The GRO copy request is pending. But this document independently establishes the 1924 marriage unless authentication later gives us a reason to doubt it.”
 
 “Celeste was his wife.”
 
@@ -139,17 +166,17 @@ Claire softened.
 
 The word landed differently spoken without qualification.
 
-Adrian looked towards the doorway as though expecting someone from the family to appear and deny it.
+Adrian looked towards the doorway as if expecting Talia or Harcourt to appear and restore the version of the family he had inherited.
 
 No one did.
 
 He said, “Then Evelyn…”
 
-“May have married a man who was already married.”
+“Went through a marriage ceremony with a man who may still have had a living legal wife.”
 
-“May have?”
+“May.”
 
-“Until we exclude dissolution.”
+“Until the dissolution search is complete.”
 
 He laughed once, without humour.
 
@@ -157,13 +184,11 @@ He laughed once, without humour.
 
 “I can make evidence survive emotion.”
 
-“That’s what you think you’re doing?”
-
-Claire looked at him.
+“That is what you think you are doing?”
 
 “Yes.”
 
-The answer steadied something.
+The answer steadied something in him.
 
 Adrian rubbed one hand across his face.
 
@@ -171,13 +196,9 @@ Adrian rubbed one hand across his face.
 
 Claire knew.
 
-She had the family dates in her working file.
+If Sebastian’s first marriage continued, the public 1928 marriage to Evelyn was not merely socially dishonest. It was legally compromised. What that meant for later inheritance, status and modern property was not something Claire intended to improvise from a library chair.
 
-If Sebastian’s marriage to Celeste continued, Julian’s parents’ public marriage rested on an invalid act. But property rights, legitimacy, inheritance law and family status across a century could not be reduced to one dramatic sentence.
-
-She would not improvise law.
-
-“Do not build consequences yet,” Claire said.
+“Do not build consequences tonight,” she said.
 
 “My family did that for ninety years.”
 
@@ -185,21 +206,19 @@ She would not improvise law.
 
 He looked at her.
 
-“You sound like you’re telling me not to jump off something.”
+“You sound like you are telling me not to jump off something.”
 
 “I am.”
 
-She came around the table and sat beside him.
+Claire came around the table and sat beside him.
 
 Not touching at first.
 
-The certificate lay before them.
+The certificate lay between them.
 
-Celeste’s signature was unmistakable: decisive C, narrow e, the terminal stroke of Vane drawn farther than necessary.
+Celeste’s signature was unmistakably similar to the hand in the plans: decisive initial, narrow letter forms, a terminal stroke extending farther than necessary.
 
-The same hand appeared on plans throughout Raven House.
-
-Architecture and identity occupying the same table at last.
+Architecture and legal identity had occupied the same table at last.
 
 Adrian said, “My father knew something.”
 
@@ -209,13 +228,13 @@ Adrian said, “My father knew something.”
 
 “Yes.”
 
-“And I brought you here without telling you the only thing he left me that might matter.”
+“And I brought you here without telling you the only thing Marcus left me that might matter.”
 
 There it was.
 
 Claire turned slightly.
 
-“What exactly did Marcus leave?”
+“What exactly did he leave?”
 
 Adrian’s jaw tightened.
 
@@ -223,7 +242,7 @@ Adrian’s jaw tightened.
 
 “You said that.”
 
-“It has your surname in it.”
+“It has Mercer in it.”
 
 “What else?”
 
@@ -235,21 +254,37 @@ He looked at the certificate instead of her.
 
 “Soon.”
 
-Claire felt irritation rise.
+Claire felt irritation rise with astonishing speed.
 
 “Adrian.”
 
-“I need to understand what I’m handing you.”
+“I need to understand what I am handing you.”
 
-“No. You need to decide whether you trust me with information that already affects my work.”
+“No.”
 
-He absorbed that.
+He looked at her.
 
-“You’re right.”
+“You need to understand that the decision about whether uncertain information matters to my professional position cannot belong only to you.”
+
+“I am not trying to control you.”
+
+“You do not need to intend control for the effect to be control.”
+
+The words sat between them.
+
+The first kiss had been less than forty-eight hours earlier.
+
+Claire disliked how quickly intimacy made withheld information feel personal.
+
+That did not make the professional issue less real.
+
+Adrian lowered his eyes.
+
+“You are right.”
 
 The answer disarmed her more than argument would have.
 
-“I’ll get it tonight.”
+“I will get the note tonight.”
 
 “Thank you.”
 
@@ -261,49 +296,55 @@ Then he said, “You could leave.”
 
 “This is becoming something else.”
 
-“It was always something else. We just didn’t know the category.”
+“It was always something else. We just did not know the category.”
 
-“I mean professionally. If you think I withheld material—”
+“I mean your commission. If you think I withheld material that should have been disclosed—”
 
 “You did.”
 
 He flinched.
 
-Claire continued before he could retreat into apology.
+Claire continued before he could retreat into guilt and make her responsible for comforting him.
 
-“I am annoyed. That is not the same as compromised beyond repair. You show me the note. We document when you found it and why you did not disclose it. Then we decide what it changes.”
+“I am annoyed. That is not the same as saying the commission is irreparably compromised. You show me the note. We document when you found it, when you reread it and why you did not disclose it. Then we decide what it changes.”
 
 “You make consequences sound procedural.”
 
 “Procedure is what keeps consequences from belonging to whoever is loudest.”
 
-He was silent.
+Adrian was silent.
 
 Then his shoulder touched hers.
 
-Not an embrace. Not quite.
+Not an embrace.
 
-Claire let the contact remain.
+Barely contact.
 
-After a moment Adrian said, “I thought selling the house would be difficult because of my father.”
+Claire let it remain.
+
+The choice was hers.
+
+After a moment he said, “I thought selling the house would be difficult because of my father.”
 
 “What about him?”
 
 “He spent the last years of his life trying to preserve it. Roofs, drainage, endowments. He treated every repair as a moral obligation.”
 
-“And you thought sale was betrayal.”
+“And you thought selling would be betrayal.”
 
 “Yes.”
 
 “What do you think now?”
 
-Adrian looked at the certificate.
+Adrian looked at Celeste’s marriage certificate.
 
 “That perhaps he was preserving evidence.”
 
 Claire had not considered that.
 
-The possibility was both generous and dangerous.
+The possibility was generous.
+
+Which made it dangerous.
 
 “Do not rehabilitate him before we know.”
 
@@ -313,49 +354,45 @@ The possibility was both generous and dangerous.
 
 He put his hand over hers.
 
-This time Claire did not pull away.
+Claire did not pull away.
 
-They sat like that until a practical thought interrupted her.
+They sat for a while without talking.
 
-“The certificate was not in the first hidden compartment.”
+The contact did not solve the argument.
 
-Adrian looked at her.
+That was why she could tolerate it.
 
-“It was behind a second lock.”
+Eventually the conservator returned to assess the cylindrical recess.
 
-“Yes.”
+“The certificate did not fill the whole depth,” Claire said.
 
-“Meaning Celeste expected someone might find the letters.”
+Using a small endoscope, they saw a second rolled object farther inside.
 
-“Or she separated levels of sensitivity.”
+Adrian leaned closer.
 
-Claire stood.
+“Another document.”
 
-“There’s something else.”
+“Probably.”
 
-She examined the cylindrical cavity.
+“Can we retrieve it?”
 
-The marriage copy had filled most of it, but the tube extended deeper than the paper length.
+The conservator tried only gentle suction and stopped when the roll caught.
 
-Using a light, she saw a second rolled object farther in.
+“Not without more work. It may be wedged by deformation.”
 
-“Another document?” Adrian asked.
-
-“Maybe.”
-
-It would not move with gentle suction.
-
-Claire stopped.
+Claire nodded.
 
 “No forcing.”
 
+Adrian looked at her.
+
 “You are astonishingly consistent.”
 
-“It’s why you keep me.”
+“It is why you keep me.”
 
-The phrasing came out before she could correct it.
+The phrase came out before she could correct it.
 
-Adrian’s mouth curved.
+His mouth curved.
 
 “Dangerous sentence.”
 
@@ -363,18 +400,22 @@ Adrian’s mouth curved.
 
 “Impossible.”
 
-Claire ignored him and photographed the tube interior.
+The levity did not erase what had happened between them.
 
-The marriage certificate sat on the table between them.
+Good.
+
+Claire returned to the certificate.
 
 A civil record the family had erased socially but failed to erase materially.
 
-Celeste Vane had not been Sebastian Raven’s inconvenient architect.
+Celeste had not been Sebastian Raven’s inconvenient architect.
 
 Not his mistress.
 
-Not a woman who had briefly occupied the house before Evelyn arrived.
+Not a woman who had briefly occupied Raven House before Evelyn arrived.
 
-She had been his legal wife.
+She had been his legal wife in 1924.
 
 Four years before the wedding every Raven history remembered.
+
+And in a sealed note Adrian had still not shown Claire, his father had left a surname that might connect this marriage to the present.

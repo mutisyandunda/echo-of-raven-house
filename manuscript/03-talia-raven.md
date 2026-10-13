@@ -3,9 +3,9 @@ chapter: 3
 title: "Talia Raven"
 act: "I"
 pov: "Claire Mercer"
-status: draft
+status: revision-1
 target_words: 2500
-clues: "C4 seed"
+clues: "C4 seed; Mercer-name unease"
 red_herrings: "R9"
 romance_beat: "Adrian privately apologises without undermining Talia"
 ---
@@ -16,7 +16,7 @@ romance_beat: "Adrian privately apologises without undermining Talia"
 Talia questions Claire, freezes at the surname Mercer and claims Celeste left years before her death.
 
 ## Mystery movement
-- **Clues:** C4 seed
+- **Clues:** C4 seed; Mercer-name unease without ancestry proof
 - **Red herrings:** R9
 - Evidence must be observed before it is interpreted.
 - POV inference cannot exceed the physical/documentary record.
@@ -511,32 +511,42 @@ No preamble this time.
 
 “Yes.”
 
-“Your grandmother too?”
-
-Claire frowned. “Yes.”
-
-Talia’s fingers tightened around the head of her walking stick, though Claire had not noticed her needing one earlier.
-
-“What was her name?”
-
-“Eleanor.”
-
-The room changed.
-
-Not physically.
-
-Talia did.
-
-Only for a second.
-
-Then the exactness returned.
-
-“Eleanor Mercer,” she said.
+“Your grandmother used the name?”
 
 “Yes.”
 
+“Was Mercer her birth name?”
+
+Claire frowned.
+
+“I don’t know.”
+
+Talia’s fingers tightened around the head of her walking stick, though Claire had not noticed her needing one earlier.
+
+“She never told you?”
+
+“She didn’t talk much about her life before my mother was born.”
+
+That was true, and Claire disliked how suddenly the omission felt significant merely because Talia had asked about it.
+
+“Did she use another surname?” Talia said.
+
+“Not that I know of.”
+
 Talia looked towards the rain-grey windows.
 
-When she spoke again, her voice was softer.
+Claire waited.
+
+When Talia spoke again, her voice was softer.
 
 “Was your grandmother from the north?”
+
+Claire studied her.
+
+“I don’t know that either.”
+
+Talia nodded once, as though the absence of an answer had confirmed something of its own.
+
+Then she left.
+
+Claire remained at the table with the uncomfortable sense that Talia Raven had asked three questions and revealed far more than she had answered.

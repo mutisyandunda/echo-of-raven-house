@@ -3,17 +3,17 @@ chapter: 25
 title: "The Passage"
 act: "IIB"
 pov: "Claire Mercer"
-status: draft
+status: final-revision
 target_words: 2600
 clues: "C22"
 red_herrings: "R8"
-romance_beat: "Adrian is frantic but does not use the crisis to force reconciliation"
+romance_beat: "Adrian is frightened but does not use the crisis to force reconciliation"
 ---
 
 # Chapter 25: The Passage
 
 ## Chapter purpose
-Claire enters the west service route to document it and is deliberately bolted inside.
+Claire enters the already-surveyed west service route under a check-in protocol and is deliberately secured inside despite those precautions.
 
 ## Mystery movement
 - **Clues:** C22
@@ -22,218 +22,308 @@ Claire enters the west service route to document it and is deliberately bolted i
 - POV inference cannot exceed the physical/documentary record.
 
 ## Romance / relationship movement
-Adrian is frantic but does not use the crisis to force reconciliation.
+Adrian is frightened but does not use the crisis to force reconciliation.
 
 ## End hook
-Fresh scraping proves deliberate entrapment.
+Fresh scoring and the repeated shoe tread prove deliberate entrapment.
 
 ## Draft
 
-Claire entered the west passage alone because being angry at Adrian did not make Jonah available.
+Claire entered the west passage at 14:12 with two exits open, Elspeth holding the check-in sheet, and a fifteen-minute call due at 14:27.
 
-That was the sentence she would later dislike most.
+That detail mattered later.
 
-Jonah had been called to a roof leak at the east range. Elspeth knew Claire was entering the service route. Sophie was in the village. Adrian was with Harcourt.
+It mattered because she did not want fear to rewrite the afternoon into a story in which she had abandoned every professional rule she owned simply because Adrian had hurt her.
 
-Claire had a torch, phone, measuring tape, dust mask and radio.
+Jonah had surveyed the route twice. He had checked the timber walkway, ventilation and electrical hazards and had confirmed that the section Claire needed to measure was a service access route, not a permit-required confined space. The asbestos register covered the known board linings in this part of the house and showed no damaged material on her route. She carried a torch, a second headlamp, a radio, her phone, a dust mask and the measuring kit.
 
-She also had a rule never to enter an unverified confined space alone.
+At the corridor entrance, a rubber door stop held the access panel fully open.
 
-The west service void was not, strictly speaking, a confined space. It had ventilation, multiple wall cavities and a known exit near the linen room.
+At the linen-room end, Elspeth had opened the second panel before Claire went in and wedged that one too.
 
-Strictly speaking would prove irritatingly inadequate.
+“Fourteen twenty-seven,” Elspeth said, checking her watch.
 
-She opened the panel behind the repaired corridor wall and logged the time.
+“I call you.”
 
-14:12.
+“And if you don’t?”
 
-The passage smelled of lime, timber and old dust.
+“You call me once, then Jonah, then Adrian.”
 
-Claire moved slowly.
+Elspeth gave her a look.
 
-The modern shoe print from the missing-box investigation remained protected beneath a clear cover Jonah had placed over it. She photographed the surrounding wall, then continued towards the section behind the west stair.
+“Jonah, then Mr Raven.”
 
-Celeste’s paired-curve marks appeared on the original plan at three points along this route.
+“Fine.”
 
-Claire wanted precise measurements before comparing them with the acoustic map.
+“Not because you are quarrelling with him.”
 
-At the first point, she recorded wall thickness.
+Claire looked at her.
 
-At the second, she found an old metal conduit.
+Elspeth’s face remained professionally blank.
 
-At the third, she heard the outer panel close.
+“Fourteen twenty-seven,” Claire repeated.
+
+She entered.
+
+The route smelled of lime, old timber and the faint metallic note of pipes warming in the wall. Daylight penetrated the first metre from the open panel. Beyond that, the headlamp narrowed the house into structure: studs, cable clips, sections of brass speaking tube, old repairs in grey mortar.
+
+The shoe impression from the missing-box investigation remained protected beneath a clear cover Jonah had taped above, not onto, the surrounding surface. Claire photographed it again with a scale.
+
+The tread was still incomplete: broad heel, angular channel, one broken block near the outer edge.
+
+Not enough to identify a shoe.
+
+Enough to recognise if it appeared again.
+
+She moved deeper.
+
+Her purpose was simple. Celeste’s paired-curve marks occurred at three points along this route. Claire wanted exact dimensions and junction photographs before comparing the passage with the acoustic overlay. Nothing about the task required opening fabric or moving unknown material.
+
+At the first point she measured wall depth.
+
+At the second she found the old metal conduit Jonah had already recorded and confirmed that it turned upward towards the first floor.
+
+At the third she heard the corridor panel close.
 
 Not slam.
 
 Close.
 
-Claire turned.
+Claire stopped.
 
-“Hello?”
+For a second she listened to her own breathing.
+
+Then she said, clearly, “Elspeth?”
 
 No answer.
 
-She walked back.
+She turned and walked back.
 
-The panel did not move when she pushed.
+The daylight line had disappeared.
 
-She tried again.
+The corridor panel stood shut.
 
-Nothing.
+Claire reached it and lifted the internal catch.
 
-The latch was simple from inside: a sliding timber catch intended to prevent draughts. It moved freely.
-
-The door still would not open.
-
-Claire’s pulse accelerated.
-
-She put down the torch, braced both hands and pushed harder.
-
-The panel shifted less than a millimetre and stopped against something external.
-
-Bolted.
-
-Or blocked.
-
-She took out her phone.
-
-No signal.
-
-The radio gave static.
-
-“Elspeth?”
-
-Nothing.
-
-Claire forced herself to stop moving.
-
-Panic loved useless motion.
-
-She had air.
-
-She had light.
-
-There was another exit near the linen room, though it had stuck during the first inspection.
-
-She picked up the torch and walked deeper into the void.
-
-The passage narrowed near the stair wall. Timber studs had been reinforced with later bracing. Her shoulder brushed old plaster.
-
-Somewhere beyond the wall, footsteps crossed the corridor.
-
-“Hello!”
-
-They stopped.
-
-Claire waited.
-
-Then the footsteps continued away.
-
-Not an echo.
-
-Not this time.
-
-She reached the linen-room panel.
-
-The internal latch lifted.
+The catch moved freely.
 
 The panel did not.
 
-Claire swore.
-
-Both exits.
-
-One could stick by accident.
-
-Two did not.
-
-She hit the panel with the heel of her hand.
-
-“ELSPETH!”
+She pushed once, gently.
 
 Nothing.
 
-A faint sound travelled through the wall.
+Again, harder.
 
-Not a voice.
+The timber shifted perhaps a millimetre and stopped against something on the other side.
 
-Metal against metal.
+Claire looked down.
 
-Claire turned her torch along the floor.
+The rubber stop should have prevented the panel closing at all.
 
-There—a ventilation opening low in the masonry, no wider than a book. She crouched and shouted through it.
+Someone had removed it.
 
-Her voice went somewhere.
+She took out the radio.
 
-Raven House rearranged sound better than it rearranged truth.
+“Elspeth, this is Claire. Corridor panel has closed. Do you copy?”
 
-“ADRIAN!”
+Static.
 
-She disliked herself for choosing his name first.
+She changed position and tried again.
 
-Minutes passed.
+Nothing.
 
-Or less. Time became unreliable in enclosed spaces.
+The radio had worked at the threshold. The masonry and metalwork farther inside were evidently enough to kill the signal.
 
-Claire checked her phone clock.
+Phone next.
 
-14:29.
+No service.
 
-Seventeen minutes.
+Claire checked the time.
 
-She sat on the floor because dizziness would be stupid.
+14:19.
 
-The personal rupture with Adrian remained intact. Fear did not invalidate it. Wanting him to hear her did not invalidate it either.
+Eight minutes until the missed-call protocol became useful.
 
-At 14:34, something struck the outer panel.
+She disliked how much comfort that gave her.
 
-Then Adrian’s voice, distorted through the wall.
+She also disliked that she needed comfort at all.
+
+The linen-room exit was roughly eleven metres away through the service route. She walked towards it without hurrying. Hurrying in a narrow passage was how shoulders struck nails and ankles found bad boards.
+
+At the turn behind the west stair, footsteps crossed somewhere outside the wall.
+
+Claire stopped.
+
+“Hello?”
+
+The footsteps stopped too.
+
+That changed everything.
+
+A pipe did not decide whether to continue after being addressed.
+
+“Who is there?”
+
+No answer.
+
+Then the footsteps moved away.
+
+Claire kept going.
+
+At the linen-room end, the second panel was also shut.
+
+The wedge Elspeth had placed under it was gone.
+
+Claire lifted the latch.
+
+The panel held.
+
+She crouched and put the torch along the bottom edge.
+
+A narrow strip of pale wood showed where no wood had been when they opened it fifteen minutes earlier.
+
+A wedge from the outside.
+
+Her pulse accelerated so abruptly that she felt it in her throat.
+
+Both exits had been deliberately defeated.
+
+The thought arrived cleanly. She did not improve it with panic.
+
+Claire checked the time.
+
+14:23.
+
+Four minutes.
+
+She returned towards the middle of the passage where the old ventilation grille opened into another wall cavity. During the acoustic tests, sound from this part of the route had reached the library unpredictably.
+
+She crouched beside it.
+
+“Elspeth!”
+
+Her voice entered the wall and vanished.
+
+Again, louder.
+
+“ELSPETH!”
+
+Nothing came back.
+
+She tried the radio once more.
+
+Static.
+
+At 14:27 she did not make the scheduled call.
+
+Somewhere outside the wall, if the protocol worked, Elspeth would now be calling her.
+
+Claire watched the phone screen remain blank.
+
+No service meant no ring.
+
+Good, she thought. The absence itself was information.
+
+She sat on the timber walkway because standing still in a narrow passage was less sensible than lowering her centre of gravity. She took three deliberate breaths.
+
+The personal rupture with Adrian remained intact. Fear did not invalidate it. Wanting him to know where she was did not invalidate it either.
+
+At 14:29 she shouted again through the grille.
+
+This time a faint sound answered.
+
+Not words.
+
+A vibration through the tube.
+
+Claire pressed closer.
+
+“HELLO?”
+
+A distant voice.
+
+Too distorted to identify.
+
+Then clearer:
 
 “Claire?”
 
-She stood so quickly her shoulder hit timber.
+Elspeth.
 
-“I’m here.”
+Relief hit so hard that Claire had to close her eyes.
+
+“I’m in the passage. Both exits are blocked from outside.”
+
+The wall broke the sentence into pieces, but enough travelled.
+
+“Stay—there.”
+
+“I intend to.”
+
+Elspeth’s voice disappeared.
+
+Claire checked the time again.
+
+14:31.
+
+The protocol had taken four minutes from missed check-in to contact.
+
+Not perfect.
+
+Good enough to prevent a bad situation becoming a disaster.
+
+She stayed where she was.
+
+At 14:36 a heavy impact sounded at the corridor panel.
+
+Jonah’s voice came through the timber.
+
+“Claire? Step away from this end.”
+
+“I’m six metres back.”
+
+“Stay there.”
+
+Metal scraped outside.
+
+Another voice, lower and sharper.
+
+Adrian.
 
 “Are you hurt?”
 
 “No.”
 
-“Step away from the panel.”
+“Are you sure?”
 
-“I am.”
+“Yes.”
 
-A loud scrape.
+The question was unreasonable and somehow still welcome.
 
-Then another.
+Jonah said something Claire could not hear. Then came a controlled crack of timber—not the panel itself, but whatever had been put through the external staple.
 
-The panel moved inward.
-
-Light entered in a narrow line.
-
-Jonah’s voice: “Again.”
-
-Wood cracked somewhere outside.
+Light appeared in a narrow line.
 
 The opening widened.
 
-Adrian came through first despite Jonah telling him not to.
+Jonah entered first.
+
+Adrian was immediately behind him.
 
 He stopped when he saw Claire.
 
-For one unguarded second, his face showed everything.
+For one unguarded second, his face lost every discipline he usually relied on.
 
-Fear.
+Fear first.
 
-Relief.
+Then relief.
 
-Anger.
+Then anger so clean it might have been cold.
 
-Claire felt the answering impulse to go to him.
+Claire stood.
 
-She did not.
-
-“I’m fine,” she said.
+“I’m fine.”
 
 Adrian nodded once.
 
@@ -241,168 +331,122 @@ He did not touch her.
 
 “Good.”
 
-The restraint mattered more than comfort would have.
+That restraint mattered more than an embrace would have.
 
-Jonah entered behind him.
+Jonah turned his torch back towards the access frame.
 
-“Someone put a bar through the outer staple,” he said. “Linen-room panel had a wedge under the bottom edge.”
+“Someone put a steel bar through the outside staple after removing your door stop. Linen-room end has a fresh softwood wedge under the panel.”
 
-Claire looked at him.
+“Photographs?” Claire asked.
 
-“Both external?”
+“Yes. Elspeth took them before we moved either obstruction.”
 
-“Yes.”
-
-“Photographed before removal?”
-
-Adrian almost laughed from disbelief.
-
-Jonah said, “Yes.”
-
-“Good.”
-
-Claire crouched by the damaged access frame.
-
-“Do not touch that scrape.”
-
-Adrian said, “Claire, perhaps five minutes before you return to evidence.”
-
-“No.”
-
-Her voice shook now.
-
-That made her angrier.
-
-She pointed her torch at the staple plate.
-
-Fresh bright metal showed where the external bar had rubbed against old iron.
-
-New scoring.
-
-Deliberate.
-
-Not a swollen panel.
-
-Not an old latch.
-
-Someone had closed her in and secured the door from outside.
-
-Jonah photographed it.
-
-Adrian stood very still.
-
-“Who knew you were in here?”
-
-“Elspeth. Jonah. Sophie knew I planned to survey today. You knew it was on the schedule.”
-
-“And Felix?”
-
-“I don’t know.”
-
-Adrian’s face hardened.
+Adrian made a sound halfway between disbelief and laughter.
 
 Claire looked at him.
 
-“Do not go find him yet.”
+“What?”
 
-“Someone locked you inside a wall.”
+“You have been locked inside a wall for twenty-four minutes and your first question is chain of custody.”
 
-“Yes.”
+“My first question was whether the other exit was blocked.”
 
-“That is no longer an archive irregularity.”
+“That is not helping.”
 
-“I am aware.”
+Her hands began shaking then.
 
-“Claire—”
+Not violently.
 
-“And if you confront the wrong person before we preserve evidence, we lose information.”
+Enough that the torch beam moved against the timber.
 
-He looked as though he wanted to argue.
+Claire hated the delay of it. Her body had apparently waited until usefulness was no longer required.
 
-Then he stopped.
+Adrian saw.
+
+He took one step towards her and stopped.
+
+“Can I?”
+
+The question was quiet.
+
+Claire wanted to say yes.
+
+She also knew that wanting contact after fear was not the same as changing her mind about them.
+
+“Not yet.”
+
+He stepped back immediately.
 
 “All right.”
 
-It was the old pattern between them—her insisting on sequence, him learning to respect it—but stripped of flirtation.
+That helped more than touching would have.
 
-Claire found that painful.
+Outside the passage, Elspeth was standing with the check-in sheet still in one hand.
 
-Police were called.
+“Four minutes late,” she said.
 
-The officer who attended photographed the bar, wedge and scrape marks again, took statements and advised that no one enter the passage without another person present.
+Claire looked at her.
 
-Claire accepted the criticism without pointing out she already had such a rule.
+Elspeth’s expression was furious, but not at Claire.
 
-Afterwards, Adrian found her alone in the library.
+“You heard me through the wall?”
 
-He remained at the door.
+“Library bookcase. Your voice came out behind the gardening section.”
 
-“Can I come in?”
+Of course it had.
 
-The question nearly broke her.
+Celeste’s acoustic system had turned an imperfect safety plan into a successful one.
 
-“Yes.”
+Police arrived within the hour.
 
-He entered but did not approach too closely.
+The attending officer photographed the steel bar, the removed rubber stop, the linen-room wedge and the access points. Claire gave a statement. So did Elspeth and Jonah. The officer advised that the service route remain secured and unused except with two-person access until the sabotage was resolved.
 
-“I am sorry,” he said.
+Claire agreed without defensiveness.
 
-“For what?”
+The route might not be legally classified as a confined space, but someone had converted it into a trap. That changed the risk assessment completely.
 
-“That this happened in my house.”
+Later, after the police left, she returned to the corridor entrance with Jonah—not inside, only to inspect the exterior hardware.
 
-“That is not the same as causing it.”
+Fresh bright scoring marked the old staple where the bar had rubbed against it.
 
-“I know.”
+The removed rubber stop lay behind a radiator three metres away.
+
+On the dusty outer lip of the panel, just beyond the area Jonah and Claire had previously handled, a partial shoe impression crossed the timber.
+
+Angular channel.
+
+Broken tread block near the outer edge.
+
+Claire put the earlier photograph beside it.
+
+Same pattern.
+
+Not enough for a court identification.
+
+Enough to link this event provisionally to the person who had been moving through the west route and to the disappearance of the archive box.
+
+Adrian stood several metres away while she logged it.
+
+He had not left, but he had also not used the incident as permission to come closer.
+
+When she finished, he said, “I was scared.”
 
 Claire looked at him.
 
-He had learned not to turn every responsibility into ownership.
+The admission was better than *I know how you feel*. Better than apology for a danger he had not caused.
 
-“I was scared,” she said.
+“So was I.”
 
-“I know.”
+He nodded.
 
-“Do not say it like that.”
+Nothing was repaired between them.
 
-He corrected himself. “I was scared too.”
+Nothing needed to be repaired in that moment.
 
-Better.
+The evidence was enough.
 
-She nodded.
-
-Adrian’s hands were clenched at his sides.
-
-He made no move to comfort her without permission.
-
-Claire wanted him to.
-
-She also knew wanting comfort was not reconciliation.
-
-So she did not invite it.
-
-“Thank you for coming,” she said.
-
-“You shouted through the acoustic vent. Elspeth heard your voice in the library wall.”
-
-Claire stared.
-
-“Of course she did.”
-
-“Celeste saved you with her own ridiculous building.”
-
-That almost made Claire smile.
-
-Almost.
-
-Later she returned to the access point with Jonah and the police photographs.
-
-The scrape on the staple was fresh.
-
-The wedge was cut from modern softwood.
-
-And on the dusty outer edge of the panel was a partial print from a shoe sole with the same angular tread pattern they had found inside the west void after the archive box disappeared.
+Someone living had removed two safety devices, secured both exits, and waited long enough to know Claire was inside.
 
 The human presence in Raven House had stopped pretending to be a ghost.
 
-It had become a person willing to lock Claire in the dark.
+It had become a person willing to turn architecture into a weapon.

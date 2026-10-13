@@ -3,35 +3,34 @@ chapter: 5
 title: "The Echo Line"
 act: "I"
 pov: "Claire Mercer"
-status: draft
+status: final-revision
 target_words: 2500
 clues: "C2"
 red_herrings: "R1, R2"
-romance_beat: "Shared humour while testing speaking points"
+romance_beat: "Shared humour grows from competent work"
 ---
 
 # Chapter 5: The Echo Line
 
 ## Chapter purpose
-Claire maps acoustic effects; Elspeth warns that the house repeats what it hears.
+Claire maps the house’s acoustic anomalies, learns the service routes were once common knowledge, and hears the name Eleanor without yet knowing its source.
 
 ## Mystery movement
-- **Clues:** C2
+- **Clues:** C2 develops
 - **Red herrings:** R1, R2
-- Evidence must be observed before it is interpreted.
-- POV inference cannot exceed the physical/documentary record.
+- Ordinary acoustic mechanisms are established before the apparently impossible name arrives.
 
 ## Romance / relationship movement
-Shared humour while testing speaking points
+Claire and Adrian discover that professional compatibility can become intimacy before either is willing to call it that.
 
 ## End hook
-One echo carries the name 'Eleanor'.
+A woman’s voice travelling through the wall says Eleanor.
 
 ## Draft
 
 The next morning Claire turned Raven House into an experiment.
 
-She used blue painter’s tape because it was reversible, a decibel-meter app because the proper equipment would not arrive until the following week, and Adrian because he was available.
+She used blue painter’s tape because it was reversible, a borrowed sound-pressure meter because a phone app had offended Jonah, and Adrian because he was available.
 
 “I object to the phrasing,” he said.
 
@@ -42,6 +41,12 @@ She used blue painter’s tape because it was reversible, a decibel-meter app be
 “Stand on the blue mark.”
 
 He stood on the blue mark.
+
+The mark lay in the west corridor opposite the service void Jonah had opened the previous day. Claire had placed another in the morning room, another by the library bookcase and three upstairs where Celeste’s paired-curve symbols appeared on the original plans.
+
+Her aim was not to prove the house whispered.
+
+It was to make whispering unnecessary.
 
 Claire took position in the morning room, twenty-three metres away by corridor and perhaps seven through the walls.
 
@@ -55,15 +60,15 @@ Adrian looked at the card she had given him.
 
 “This house is entirely ordinary.”
 
-From Claire’s position, the first four words vanished. The final one arrived faintly through the wall behind her.
+Most of the sentence died where it was spoken. The final word arrived faintly through the wall behind Claire, flattened and blurred.
 
 *Ordinary.*
 
-She marked the result on the plan.
+She marked the result on a copy of the plan.
 
 “Again, lower.”
 
-Adrian’s voice dropped.
+Adrian dropped his voice.
 
 “This house is entirely ordinary.”
 
@@ -77,11 +82,11 @@ Nothing.
 
 “This house is entirely ordinary.”
 
-A blurred fragment travelled through the service void and seemed to emerge from the bookcase grille.
+A fragment travelled through the service cavity and seemed to emerge from the bookcase grille.
 
 Claire smiled despite herself.
 
-Adrian saw it when he came through the door.
+Adrian saw it when he came through the connecting door.
 
 “There. Proof.”
 
@@ -91,8 +96,6 @@ Adrian saw it when he came through the door.
 
 “Do not overstate the evidence.”
 
-He leaned against the table.
-
 “You smile when buildings misbehave.”
 
 “I smile when systems reveal themselves.”
@@ -101,37 +104,89 @@ He leaned against the table.
 
 “Your turn in the library.”
 
-They spent two hours moving between blue marks corresponding to Celeste’s paired-curve symbols.
+He took the card and went.
 
-Some points were dead.
+They worked by controlling one variable at a time.
 
-Some carried only sharp consonants.
+Doors open, then shut.
 
-One transmitted whispers better than ordinary speech.
+Curtains drawn, then tied back.
 
-The effect was not magical. Air cavities, timber linings and metal speaking tubes did what physics allowed them to do.
+Speaking towards the wall, then across it.
 
-But the pattern was too intentional to dismiss.
+Ordinary speech, lower register, whisper, sharp handclap.
 
-Celeste had marked places where sound behaved differently.
+Claire measured time delays where she could and marked only repeatable effects. Raven House resisted neatness. A sound that travelled clearly at ten-fifteen disappeared at ten-thirty after a door upstairs was closed. A whisper reached the library better than a normal speaking voice. A handclap entered one cavity and emerged as two soft reports several metres apart.
 
-Why was another question.
+Adrian returned from an upstairs test point.
 
-At eleven, Elspeth arrived with a tray and stopped in the doorway.
+“Have you considered that Celeste built this solely to torment future owners?”
 
-Blue tape dotted the floor. Adrian stood in the far corner saying, “The rain in Spain stays mainly in the—”
+“Unlikely.”
+
+“You answered too quickly.”
+
+“She had better things to do.”
+
+“Such as?”
+
+“Architecture.”
+
+“I walked into that.”
+
+“Yes.”
+
+Claire overlaid the successful points on Celeste’s plan.
+
+The paired curves were not placed randomly.
+
+They appeared near changes in wall depth, service junctions and places where adjoining rooms almost met without visible connection.
+
+Not all of them corresponded to the brass tube Jonah had found.
+
+That mattered.
+
+If the marks simply meant *speaking tube*, the problem would already be solved.
+
+Instead they seemed to mark acoustic behaviour more generally.
+
+Adrian leaned over the plan.
+
+“Two crescents facing each other.”
+
+“Yes.”
+
+“Echoes.”
+
+“Your visual interpretation remains technically useless.”
+
+“You have drawn a blue line between them and written *possible echo route*.”
+
+Claire looked down.
+
+She had.
+
+“That is provisional.”
+
+“Of course.”
+
+“Do not sound pleased.”
+
+“I am witnessing corruption.”
+
+At eleven, Elspeth arrived with coffee and stopped in the doorway.
+
+Blue tape dotted the floor. A meter sat on a tripod. Adrian stood at the far wall saying, “The rain in Spain stays mainly in the—”
 
 “Enough,” Claire called.
 
 Elspeth looked at him.
 
-Adrian looked back.
-
-“I have been reduced to vowels.”
+Adrian lowered the card. “I have been reduced to vowels.”
 
 “You seemed overqualified for consonants,” Claire said.
 
-Elspeth placed the tray down.
+Elspeth put down the tray.
 
 “You shouldn’t encourage it.”
 
@@ -151,39 +206,45 @@ Claire set down her pencil.
 
 “Call it what you like.”
 
-“Have you heard voices here before?”
+“Have you heard voices in these walls before?”
 
 “All my life.”
 
 “From where?”
 
-Elspeth pointed towards the west wall. “Depends who is speaking.”
+“Depends who is speaking.”
 
-Claire’s interest sharpened.
+That answer was more useful than the superstition surrounding it.
 
-“Meaning?”
+Claire pulled out a chair.
 
-“Servants used to know where not to gossip.”
+“Sit down.”
 
-That was useful.
+Elspeth looked almost offended.
 
-Adrian pushed away from the wall. “You never told me that.”
+“I have work.”
 
-“You never asked.”
+“So do I. Three questions.”
 
-“Apparently everyone in this house has been saving that sentence for me.”
+“Five.”
 
-Elspeth’s expression remained neutral.
+Claire smiled. “Fine.”
 
-Claire said, “Did your mother work here?”
+Elspeth remained standing.
 
-“My father did. Steward. Thirty-eight years.”
+“Did staff use speaking tubes?”
 
-“Did he know the service voids?”
+“Some. Others were blocked before I started here.”
+
+“Did your father know the service routes?”
 
 “All of them.”
 
-“Did he ever map them?”
+“He was steward?”
+
+“Thirty-eight years.”
+
+“Did he ever map the routes?”
 
 “No.”
 
@@ -191,87 +252,51 @@ Claire said, “Did your mother work here?”
 
 “Because he knew them.”
 
-Claire understood the logic. Knowledge felt permanent until the person carrying it died.
+Claire understood the logic perfectly. Knowledge felt permanent when it lived inside a person. Then the person died and the map died too.
 
-“Who else knows them now?”
+“Who knows them now?” she asked.
 
-Elspeth looked towards the corridor.
+Elspeth glanced towards the corridor.
 
-“Miss Talia knows more than she admits.”
+“I know enough. Mr Price knows what he has opened. Miss Talia knows more than she admits.”
 
-Adrian’s face tightened.
+Adrian looked at her.
 
-Claire noticed.
+“You have all apparently agreed never to tell me anything useful.”
 
-“And you?” she asked.
+“You never asked.”
 
-“Enough.”
+“That sentence is becoming hostile.”
 
-“Enough to move through the west void?”
+Elspeth’s face did not move.
 
-Elspeth’s gaze returned to her.
+Claire asked, “Were the passages used for eavesdropping?”
 
-“Yes.”
+That earned a real reaction: one eyebrow.
 
-There was no hesitation.
+“Servants used to know where not to gossip.”
 
-Claire respected that.
+“That is not an answer.”
 
-“Recently?”
+“It is the answer you’re getting.”
 
-“Three nights ago.”
+Adrian laughed.
 
-Adrian straightened.
+Claire gave him a look.
 
-“Why?”
+“Do not encourage her.”
 
-“A pipe knocks when the heating cycles. I checked the bracket.”
+“Impossible.”
 
-“You went in there alone?”
+Elspeth turned to leave, then paused.
 
-“I have been going in there since before you were tall enough to reach the latch.”
+“If you hear a name,” she said, “make sure it was spoken by someone living before you decide who said it.”
 
-That explained some of the disturbed dust.
+Claire felt the sentence settle.
 
-Not all.
+“Has that happened?”
 
-Claire recalled the black synthetic fibre.
-
-Elspeth’s cardigan was wool.
-
-Her work trousers looked cotton.
-
-No conclusion.
-
-She wrote down the explanation.
-
-“Would you show me the route?”
-
-“No.”
-
-Claire blinked.
-
-“Why?”
-
-“Because Mr Price has opened a safe access point. Use that.”
-
-“That sounds sensible,” Adrian said.
-
-Claire looked at him.
-
-“You are enjoying this.”
-
-“Immensely.”
-
-Elspeth turned to leave.
-
-At the door, she paused.
-
-“One more thing.”
-
-Claire waited.
-
-“If you hear a name, make sure it was spoken by someone living before you decide who said it.”
+“All houses contain more people than the person listening remembers.”
 
 Then she left.
 
@@ -279,77 +304,137 @@ Adrian rubbed a hand over his face.
 
 “I apologise for Raven House.”
 
-“You are doing that a lot.”
+“You are doing that often.”
 
-“Not enough, apparently.”
+“Not often enough.”
 
-Claire looked at the plan.
+Claire poured coffee.
 
-Elspeth’s warning was theatrical, but not useless. In an acoustic network, a word could travel from a room the listener did not know was occupied. It could be delayed, distorted, detached from its source.
+Elspeth’s warning was theatrical, but physically sensible. A word could enter an acoustic route from an occupied room the listener did not know was occupied. It could be detached from context by distance, stripped to a few frequencies, delayed by indirect pathways and apparently originate somewhere else.
 
-A house did not need to remember.
+A house did not need memory.
 
-It only needed channels.
+It needed channels and people.
 
-They resumed testing after lunch.
+They tested the west stair after lunch.
 
-Claire stood at a marked point near the library while Adrian moved upstairs.
+The landing where Claire would later learn Celeste had died had unusual geometry even in daylight. Sound from the lower flight sometimes seemed to arrive from the side wall. Jonah had warned them not to open anything further until he checked the construction, so Claire confined herself to non-invasive testing.
 
-“Can you hear me?” he called.
+Adrian stood one flight below.
 
-“Barely.”
+“Sentence?” he called.
 
-“Good. I’ve always wanted a relationship with reduced bandwidth.”
+Claire looked at the card.
 
-Claire looked up at the ceiling.
+“Your house is still not haunted.”
 
-“You are confusing work with aspiration.”
+“That was not on the list.”
 
-His laugh came through the wall more clearly than his sentence.
+“I am improvising.”
 
-She marked another route.
+“Dangerous.”
 
-When he returned, she handed him the plan.
+She spoke normally.
 
-“Look.”
+Nothing returned.
 
-The blue pencil lines connecting successful transmission points formed a broken chain running from the library, past the west stair, along the service chase and towards the upper rooms.
+She whispered it.
+
+The final word came back from the wall beside her.
+
+*Haunted.*
+
+Adrian climbed the stairs slowly.
+
+“That is unpleasant.”
+
+“It is excellent.”
+
+“You and I use that word differently.”
+
+“Stand there.”
+
+He did.
+
+Claire moved him thirty centimetres at a time until the reflected sound disappeared.
+
+A very local effect.
+
+Not magic.
+
+Geometry.
+
+She marked it on the plan.
+
+“You really love this,” Adrian said.
+
+Claire did not look up. “The building?”
+
+“The solving.”
+
+“Yes.”
+
+“More than the answer?”
+
+She considered.
+
+“Sometimes the answer is disappointing.”
+
+“And the solving?”
+
+“Usually honest.”
+
+He was quiet for a moment.
+
+“You put a lot of faith in evidence.”
+
+“More than in people.”
+
+The answer came too quickly.
+
+Claire felt it expose something and disliked that he noticed.
+
+Adrian did not ask what had happened to teach her that.
+
+Instead he said, “I can probably become a document if you need me to.”
+
+She looked at him.
+
+“That was terrible.”
+
+“Still made you smile.”
+
+Unfortunately, it had.
+
+They returned to the library.
+
+By four, Claire had drawn a broken blue chain connecting the most reliable transmission points from the west corridor to the library, up towards the stair and into the first-floor service zone.
 
 Adrian studied it.
 
 “An echo line.”
 
-“That is still not a technical term.”
+“That remains not a technical term.”
 
 “You wrote it at the top.”
 
 Claire looked.
 
-She had.
+In the margin, without thinking, she had written **ECHO LINE — provisional**.
 
-He smiled.
+“Provisional,” she said.
 
-“Corruption begins.”
+“Corruption complete.”
 
-“Shut up.”
-
-“Another breakthrough.”
-
-The shared humour landed more easily now.
-
-Claire disliked how natural that felt.
-
-Professional compatibility was dangerous precisely because it could masquerade as something safer than attraction.
-
-She turned back to the wall.
+She pushed the plan away from him.
 
 “Do the library point again.”
 
-Adrian went.
+Adrian took a random book from the shelf and went into the adjoining room.
 
-This time, instead of the test sentence, he read from a random book.
+His voice came faintly through the grille.
 
-“Northumberland,” his voice came faintly through the grille, “contains a coastline of—”
+“Northumberland contains a coastline of exceptional—”
 
 The rest vanished.
 
@@ -367,11 +452,11 @@ Claire stopped writing.
 
 A word travelled through the wall.
 
-Too blurred.
+Too blurred to understand.
 
 Then again.
 
-Not a whole sentence.
+Not a sentence.
 
 A name.
 
@@ -379,7 +464,7 @@ Claire moved closer to the grille.
 
 “Adrian?”
 
-His voice came from the corridor. “What?”
+His answer came from the corridor. “What?”
 
 He was already returning.
 
@@ -389,20 +474,72 @@ This time both of them heard it.
 
 Adrian stopped in the doorway.
 
-Claire did not breathe.
-
-The sound was soft, carried from some unknown point in the house, stripped of context but not of shape.
+The sound was soft, carried from some point the route map had not yet identified, stripped of context but not of shape.
 
 Three syllables.
 
 El-ea-nor.
 
-Adrian looked at Claire.
+Claire’s first reaction was not fear.
 
-Neither spoke.
+It was irritation.
+
+They had spent an entire day turning mystery into physics and the house had responded with a proper noun.
+
+Adrian looked at her.
+
+“You heard that.”
+
+“Yes.”
+
+“Eleanor.”
+
+“It sounded like Eleanor.”
+
+“You are impossible.”
+
+“Useful.”
+
+He looked at the plan.
+
+“Can you trace it?”
+
+“Not yet.”
+
+Claire checked every room she knew connected to the route. Empty. She checked with Elspeth whether staff had been nearby. Not that Elspeth knew. She noted the time, weather, open-door state and Adrian’s location.
+
+No source established.
+
+Not *ghost*.
+
+Not *memory*.
+
+Not even *Eleanor*, technically.
+
+An unidentified female voice producing a sound both listeners understood as that name.
+
+Claire wrote exactly that.
+
+Adrian watched her.
+
+“You are logging it.”
+
+“Of course.”
+
+“You know normal people would be unsettled.”
+
+“I am unsettled.”
+
+“You look annoyed.”
+
+“They are not mutually exclusive.”
 
 The house went quiet.
 
-On Claire’s plan, the blue lines crossed beneath Celeste Vane’s unexplained paired-curve mark.
+On the plan, Claire’s blue line crossed directly beneath one of Celeste Vane’s paired-curve marks.
 
-And through the wall, from somewhere neither of them could identify, a woman’s voice had said the name Eleanor.
+Somewhere in Raven House, a living person might have spoken the name.
+
+Claire intended to find out who.
+
+Until then, the wall had said Eleanor and refused to tell her why.

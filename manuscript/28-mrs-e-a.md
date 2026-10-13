@@ -3,29 +3,28 @@ chapter: 28
 title: "Mrs E.A."
 act: "III"
 pov: "Claire Mercer"
-status: draft
+status: final-revision
 target_words: 2500
 clues: "C14, C15"
 red_herrings: "None"
-romance_beat: "Claire and Adrian resume cautious professional cooperation"
+romance_beat: "Claire and Adrian resume cautious professional cooperation without emotional shortcut"
 ---
 
 # Chapter 28: Mrs E.A.
 
 ## Chapter purpose
-The daybook records gate removal on Evelyn’s order; a pre-death photo shows the gate in place.
+The recovered carpenter’s daybook establishes that Evelyn ordered the west-stair gate removed on the morning Celeste died; an independent photograph proves the gate existed one week earlier and physical marks tie it to the dangerous opening.
 
 ## Mystery movement
 - **Clues:** C14, C15
-- **Red herrings:** None
-- Evidence must be observed before it is interpreted.
-- POV inference cannot exceed the physical/documentary record.
+- Three evidence types converge: workman’s record, photograph, surviving architecture.
+- Evelyn’s decision is established before her motive or physical role in the confrontation is known.
 
 ## Romance / relationship movement
-Claire and Adrian resume cautious professional cooperation.
+Claire and Adrian work together again because the evidence requires it, not because the rupture has been resolved.
 
 ## End hook
-Evelyn created the fatal physical condition.
+Evelyn created the fatal physical condition, but whether she caused the fall remains open.
 
 ## Draft
 
@@ -33,11 +32,51 @@ A carpenter’s note was not enough to accuse a dead woman of causing another wo
 
 Claire repeated that sentence three times before anyone else could say the opposite.
 
-The entry was clear.
+The recovered daybook lay open beneath a weighted polyester sheet.
 
 **17 Oct — west gate removed, instruction Mrs E.A. Store lower workshop.**
 
-But a gate could be decorative. It could have been removed after an accident, not before. The date could refer to a job written later. Mrs E.A. could theoretically be someone else.
+The writing was ordinary.
+
+That made it worse.
+
+No underline.
+
+No alarm.
+
+No sense that the man who wrote it believed he was recording anything beyond a morning’s work.
+
+Three days earlier he had polished the same gate.
+
+A week later, Sebastian had instructed that it not be refitted.
+
+Adrian stood on the other side of the archive table.
+
+“Mrs E.A.”
+
+“Almost certainly Evelyn Ashcombe Raven.”
+
+“Almost?”
+
+“Until we exclude another Mrs E.A. with authority over the west stair.”
+
+Sophie looked at Claire as though considering whether to throw something.
+
+“There cannot possibly be another one.”
+
+“Good. Then proving it will be easy.”
+
+Harcourt, who had become more philosophical about Claire’s sentences since the forged-deed problem appeared, said, “That is irritatingly fair.”
+
+Claire photographed the page, the facing entries and the book’s covers.
+
+A gate could be decorative.
+
+The daybook could have been written up after the fact.
+
+The date could be mistaken.
+
+Mrs E.A. could have ordered its removal for reasons unrelated to Celeste.
 
 Evidence became reliable by surviving alternatives.
 
@@ -45,7 +84,15 @@ So Claire went looking for the gate.
 
 The lower workshop had become a storage room decades earlier. Jonah and two estate staff spent the morning moving labelled timber racks while Claire checked every metal fitting large enough to belong to a stair.
 
-Nothing.
+Old hinges.
+
+Curtain rods.
+
+Fireplace fenders.
+
+A section of brass handrail from somewhere else in the house.
+
+No gate.
 
 “Could have been scrapped,” Jonah said.
 
@@ -61,17 +108,29 @@ He had asked before joining the search.
 
 That small courtesy had become part of the new terrain between them.
 
+Not intimacy.
+
+Behaviour.
+
+Claire trusted behaviour more.
+
 “Family photograph archive?” he suggested.
 
-Claire looked at him.
+She looked at him.
 
 “Why?”
 
-“The west stair appears behind people constantly. Christmas, engagements, dogs nobody remembers.”
+“The west stair is behind people constantly. Christmas. Engagements. Dogs nobody remembers. Talia likes arranging humans in front of architecture.”
 
-“Good.”
+“That is useful.”
 
-They worked together for the first time since the rupture without discussing the rupture.
+“May I write down the date?”
+
+“Do not become unbearable again.”
+
+A faint smile appeared and vanished.
+
+They worked together for the first time since Claire ended the relationship without discussing that fact.
 
 Not avoidance exactly.
 
@@ -79,49 +138,81 @@ Containment.
 
 Professional, temporary, mutually understood.
 
-Sophie joined them with boxes of prints and glass negatives.
+Sophie joined them with photograph boxes and glass-negative sleeves from the family archive.
 
-Three hours produced nothing useful.
+They built a simple image chronology of the west stair.
 
-Then she held up a newspaper clipping.
+1928 Christmas: gap partly obscured by a tree.
+
+1929 summer party: child standing too far forward to see the edge.
+
+1930 hunt dinner: gate apparently present but blurred.
+
+March 1931: brass glint at the opening.
+
+None strong enough.
+
+Then Sophie held up a newspaper clipping.
 
 “Found society being unbearable.”
 
-It showed a charity luncheon at Raven House dated 10 October 1931.
+The image showed a charity luncheon at Raven House dated 10 October 1931.
 
 One week before Celeste’s death.
 
-A group of women stood on the west stair beneath a banner supporting a hospital appeal.
+A group of women stood on the west stair beneath a banner supporting a hospital appeal. They wore hats large enough to obscure faces and small enough not to hide architecture.
 
 Claire took the clipping.
 
-Behind them, at the exposed edge of the landing, ran a waist-high brass barrier.
+Behind them, at the exposed landing edge, ran a waist-high brass barrier.
 
 Not balustrade.
 
 A removable gate spanning the opening Claire had nearly stepped through at night.
 
-Claire’s skin tightened.
+Her skin tightened.
 
-“Original newspaper?”
+“Original newspaper or reproduction?”
 
-“Clipping. But there may be a print.”
+“Clipping.”
 
-Sophie checked the reverse.
+Sophie checked the back.
 
-A photographer’s stamp survived.
+“Photographer’s stamp.”
 
-They contacted the local newspaper archive.
+Claire wrote down the name and publication.
 
-Within two hours, a high-resolution scan arrived.
+The local newspaper archive responded within two hours with a scan from the original negative.
+
+High resolution.
+
+Undated by the image itself, but tied to the published event through the negative sequence and caption book.
 
 The gate was unmistakable.
 
-Two brass uprights. Horizontal rails. Hinged at one side, latched at the other. Designed to prevent someone stepping backward through the open landing edge.
+Two brass uprights.
 
-Jonah compared the mounting points to the filled holes Claire had found in Chapter Eight.
+Three horizontal rails.
 
-“Same spacing,” he said. “I’d put money on it.”
+Hinged on the wall side, latched to a short post on the open edge.
+
+Not ornamental.
+
+A physical barrier preventing someone from stepping backwards through the landing gap.
+
+Jonah enlarged the image and compared it with Claire’s photographs from the stair.
+
+“Same fixing pattern.”
+
+“Show me.”
+
+He marked the hinge plate in the historical image, then the filled holes on the wall side.
+
+The dimensions aligned within what the photograph allowed.
+
+The latch post corresponded to the second pair of filled fixings near the surviving rail.
+
+“I would put money on it,” Jonah said.
 
 “Do not.”
 
@@ -131,21 +222,29 @@ Jonah compared the mounting points to the filled holes Claire had found in Chapt
 
 He smiled.
 
-The photograph fixed one fact.
+The photograph established one fact.
 
-On 10 October, the safety gate existed.
+On 10 October 1931, a gate closed the dangerous opening.
 
-The carpenter’s ledger fixed another.
+The carpenter’s daybook established another.
 
-On 17 October, it was removed on Mrs E.A.’s instruction.
+On 17 October, a gate at the west landing was removed on the instruction of Mrs E.A.
 
-Celeste died that evening after falling from the west stair.
+Celeste died that evening after a fall on the west stair.
 
-Claire sat at the archive table with the two pieces side by side.
+Claire put the two sources side by side.
+
+Independent evidence.
+
+Different creators.
+
+Different purposes.
+
+Same object.
 
 Adrian stood opposite.
 
-“Evelyn,” he said.
+“Evelyn.”
 
 “Almost certainly.”
 
@@ -153,15 +252,17 @@ Adrian stood opposite.
 
 “We do not know.”
 
-Talia, who had entered without Claire noticing, answered from the doorway.
+Talia answered from the doorway.
 
 “Because she hated it.”
 
 Everyone turned.
 
-Talia looked at the newspaper image.
+Talia looked at the enlarged photograph.
 
-“My grandmother thought it ruined the staircase.”
+Her face did not change, but one hand tightened around the head of her walking stick.
+
+“My grandmother thought the gate ruined the staircase.”
 
 Claire’s attention sharpened.
 
@@ -169,17 +270,27 @@ Claire’s attention sharpened.
 
 “Many times. She cared about appearances with exhausting consistency.”
 
-“Did she ever say when she had it removed?”
+“When did she tell you?”
 
-Talia’s face closed.
+“Whenever photographs of the old interior appeared. She would point out everything she believed Celeste had made too severe.”
+
+“Did she ever say she had the gate removed?”
+
+Talia’s expression closed.
 
 “No.”
 
-“Did she know Celeste died there?”
+“Did she say when it disappeared?”
+
+“No.”
+
+“Did she know Celeste fell where the gate had been?”
 
 “Everyone knew where Celeste fell.”
 
-“Did she connect the two?”
+Claire held her gaze.
+
+“Did Evelyn ever connect those facts in front of you?”
 
 Talia looked at Adrian rather than Claire.
 
@@ -189,21 +300,21 @@ Adrian’s voice was level.
 
 “That warning no longer works.”
 
-Talia’s gaze returned to the clipping.
+Talia looked back at the photograph.
 
-For the first time, Claire saw fear in her without disguise.
+For the first time, Claire saw fear without the usual layer of control.
 
 Not fear of losing property.
 
 Fear of confirmation.
 
-“Talia,” Claire said, “did Evelyn tell you anything about that night?”
+“Talia,” Claire said, “did Evelyn tell you anything about the night Celeste died?”
 
 “No.”
 
 The answer came too quickly.
 
-Claire did not challenge it yet.
+Claire did not challenge it immediately.
 
 She wrote it down.
 
@@ -215,45 +326,53 @@ Talia noticed.
 
 “Making silence visible.”
 
-“No,” Claire said. “I just refuse to let it pass for absence.”
+“No.” Claire capped her pen. “I refuse to let silence pass for absence.”
 
-Talia left.
+Talia’s mouth tightened.
+
+Then she left.
 
 Adrian remained quiet for several seconds.
 
-Then he said, “She lied.”
+“She lied.”
+
+Claire looked at him.
 
 “Yes.”
 
 “You agree that quickly now?”
 
-“Her answer contradicted her reaction. That is observable.”
+“Her statement contradicted the content and intensity of her reaction. That does not tell us what the concealed information is.”
 
 A faint smile touched his face.
 
-“Progress.”
+“There you are.”
 
-Claire almost smiled back.
+“Do not make it sentimental.”
 
-Almost.
+The smile disappeared, but not unhappily.
 
-They went to the west stair with Jonah and the enlarged photograph.
+They took the photograph, the daybook copy and Jonah’s measurements to the west stair.
 
-The physical match was exact enough to make the past feel indecently close.
+Daylight made the opening look less dangerous than it had at 1:17 in the morning.
 
-Filled fixing holes on the landing corresponded to the gate posts.
+That, Claire thought, was part of the problem.
 
-A shallow abrasion in the oak floor matched the swing arc of the lower rail.
+Danger that looked obvious after an accident rarely explained why ordinary people tolerated it before one.
 
-On the wall beside the opening, Jonah found a filled latch recess under later plaster.
+Jonah measured the filled fixing holes.
 
-“This was not ornamental,” he said. “It closed the gap.”
+A shallow abrasion in the stone aligned with the swing arc of the lower brass rail.
 
-Claire stood where Celeste must once have stood.
+On the wall, beneath later plaster, he located the outline of a filled latch plate using raking light and a non-invasive scanner.
+
+“This was functional,” he said. “Whatever else it did aesthetically, it closed this gap.”
+
+Claire stood where Celeste might have stood.
 
 The opening was behind her left shoulder.
 
-With the gate in place, a backward step would meet brass.
+With the gate in place, a backward step met brass.
 
 Without it, nothing.
 
@@ -261,27 +380,27 @@ She imagined no confrontation yet.
 
 No push.
 
-No hand on a wrist.
+No hand around a wrist.
 
 Only geometry.
 
-One week before the death, the landing had a barrier.
+A person turns.
 
-On the morning of the death, Evelyn ordered the barrier removed.
+A person steps.
 
-That evening, Celeste went through the space it had protected.
+Architecture decides whether that step is ordinary or fatal.
 
-Adrian stood a few feet away.
+Adrian stood several feet away.
 
-“Is that enough?” he asked.
+“Is that enough?”
 
 “For what?”
 
 “To say Evelyn caused it.”
 
-Claire considered the wording.
+Claire considered the sentence.
 
-“She created a dangerous condition that was present when Celeste died.”
+“She ordered the removal of a functional barrier from the landing on the day Celeste died. That created a dangerous condition present at the time of the death.”
 
 “That is not the same thing.”
 
@@ -291,12 +410,44 @@ Claire considered the wording.
 
 “Yes.”
 
-The distinction was narrow and essential.
+Sophie came down the upper flight slowly.
 
-Evelyn had not yet become Celeste’s killer.
+“What if Evelyn had no idea Celeste would be here?”
 
-But for the first time, the fatal architecture had a human decision attached to it.
+“We do not know what Evelyn knew that morning,” Claire said.
 
-Mrs E.A. had ordered empty space where safety had been.
+“What if she only cared that the gate was ugly?”
 
-And Raven House had kept the screw holes.
+“Then vanity created the hazard rather than a plan.”
+
+“Does that make her less responsible?”
+
+“Morally? Ask me when we know the rest. Historically, we state what happened. Legally, none of us is prosecuting a woman dead for forty years.”
+
+Sophie looked at the open drop.
+
+“She had a baby by then.”
+
+“Julian,” Adrian said.
+
+“Yes.”
+
+The observation sat beside the evidence without excusing anything.
+
+Evelyn had been a young mother in a marriage whose foundation might already have been collapsing under secrets she had not created.
+
+Celeste had been a mother fighting to stop her daughter being erased.
+
+Sebastian had arranged his fear between them.
+
+The story was becoming less interested in villains than consequences.
+
+Claire looked one more time at the daybook copy.
+
+**instruction Mrs E.A.**
+
+For the first time the fatal architecture had a human decision attached to it.
+
+Evelyn had ordered empty space where safety had been.
+
+And Raven House had kept the screw holes long after the family forgot to mention the gate.

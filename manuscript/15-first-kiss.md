@@ -3,45 +3,44 @@ chapter: 15
 title: "First Kiss"
 act: "IIA"
 pov: "Claire Mercer"
-status: draft
+status: final-revision
 target_words: 2550
 clues: "C9 setup"
 red_herrings: "None"
-romance_beat: "First deliberate kiss"
+romance_beat: "First deliberate kiss after explicit mutual choice"
 ---
 
 # Chapter 15: First Kiss
 
 ## Chapter purpose
-A hollow drawing tube contains a key. Claire and Adrian talk honestly about reliance and trust.
+A weighted drawing tube produces a key and a joinery sketch that reveals Celeste’s concealed desk compartment. Claire and Adrian speak plainly about trust before choosing their first kiss.
 
 ## Mystery movement
 - **Clues:** C9 setup
-- **Red herrings:** None
-- Evidence must be observed before it is interpreted.
-- POV inference cannot exceed the physical/documentary record.
+- The desk concealment is mechanically plausible and discovered from documentary/joinery evidence rather than intuition.
+- A second protected compartment sets up the certified marriage copy.
 
 ## Romance / relationship movement
-First deliberate kiss
+The first kiss follows consent, honesty and deliberate choice rather than danger or adrenaline.
 
 ## End hook
-The key opens a decorative desk drawer.
+A second compartment inside the desk contains tightly rolled paper.
 
 ## Draft
 
 The drawing tube had no reason to be heavy.
 
-Claire noticed it because she had lifted eleven others before it.
+Claire noticed because she had lifted eleven others before it.
 
-The first ten were pasteboard cylinders wrapped in linen tape, each containing rolled plans that smelled of dust and sizing. The eleventh—labelled only **WEST / DETAILS**—landed in her hand with a disproportionate weight at one end.
+The first ten were pasteboard cylinders wrapped in linen tape, each holding rolled plans that smelled of dust, sizing and old graphite. The eleventh—labelled **WEST / DETAILS**—landed in her hand with a disproportionate weight at one end.
 
 She turned it slowly.
 
-Adrian looked up from the inventory.
+Adrian looked up from the inventory spreadsheet.
 
 “What?”
 
-“Either Celeste stored lead in her drawings or this is wrong.”
+“Either Celeste stored lead with her drawings or this is wrong.”
 
 “That sounds promising.”
 
@@ -49,161 +48,215 @@ Adrian looked up from the inventory.
 
 She placed the tube on a foam cradle.
 
-The end cap had been glued at some point, but the adhesive was brittle. Jonah had already shown her how several tubes were constructed: thin board, reinforced rims, wooden plugs in expensive examples.
+The end cap had been shellacked at some point, but the joinery was finer than the cardboard tubes around it. A wooden plug sat inside the reinforced rim. Under magnification, Claire saw a tiny circular repair in the grain.
 
-This one sounded different when tapped.
-
-Claire put on gloves.
+She did not poke it.
 
 “Get Jonah.”
 
-Adrian did not argue.
+Adrian was already standing.
 
-Ten minutes later, Jonah Price stood beside them with a magnifier and the expression of a man being asked to admire a badly fitted drain.
+“Progress.”
+
+“Do not become proud of basic obedience.”
+
+Ten minutes later Jonah Price stood beside them with a magnifier and the expression of a man being asked to admire a badly fitted drain.
 
 “Hollow plug,” he said.
 
 Claire looked at him. “You can tell?”
 
-“Because whoever made it drilled through the grain and filled the opening afterwards.”
+“Because whoever made it drilled through the end grain and filled the access afterwards.”
 
-He pointed to a tiny circle almost lost beneath old shellac.
+He pointed to the tiny circle.
 
-“Can you open it without damage?”
+“Can you open it reversibly?”
 
 Jonah gave her a wounded look.
 
-“I’m going to pretend you didn’t ask.”
+“I am going to pretend you asked whether I wanted tea.”
 
-He worked for nearly twenty minutes.
+Adrian said, “Milk?”
 
-The plug separated along a fine seam.
+“None.”
+
+Claire stared at both of them.
+
+Jonah worked for nearly twenty minutes, softening old wax and lifting the fill without cutting the surrounding wood.
+
+The plug separated along a seam too fine to see before the pressure released.
 
 Something metallic slid into his palm.
 
 A key.
 
-Small. Brass. Narrow shaft. Old enough that the bow had softened at its edges from handling.
+Small. Brass. Narrow shaft. Old enough that the bow had softened at its edges from repeated handling.
 
-Adrian said, “That is offensively theatrical.”
+Adrian looked at it.
+
+“That is offensively theatrical.”
 
 Claire smiled despite herself.
 
-“Celeste designed acoustic voids into a country house. She was allowed one key in a tube.”
+“Celeste designed acoustic service routes into a country house. She is allowed one key hidden in a drawing tube.”
 
-Jonah handed it to Claire.
+“One?” Jonah said. “Optimistic.”
 
-“No markings.”
+He handed the key to Claire on a tray.
 
-She photographed it, measured it and logged the find.
+No markings.
 
-The plan inside the tube was less dramatic: west-wing joinery details, section lines, service-wall dimensions. But one corner contained a pencil sketch of a desk front.
+She photographed it, measured it, logged its location and returned to the tube.
 
-Claire bent over it.
+The plan inside was less dramatic at first glance.
 
-Adrian came beside her.
+West-wing joinery details.
 
-The desk was familiar.
+Door sections.
 
-Celeste’s desk in the drafting room.
+Panel mouldings.
 
-Not the one they had already searched in the obvious sense. The one with six shallow drawers, three on each side, and a central decorative panel.
+Desk elevation.
+
+Claire stopped.
+
+“Adrian.”
+
+He came beside her.
+
+The desk drawn in the lower corner was familiar.
+
+Celeste’s drafting-room desk had six visible shallow drawers, three either side of a central decorative panel.
 
 The drawing showed seven compartments.
 
-Claire looked at Adrian.
+Claire traced the pencil line without touching the sheet.
 
 “Where is the seventh?”
 
-He was already reaching for the keys to the drafting room.
+Adrian was already reaching for the drafting-room key.
 
-They found the desk exactly where they had left it, beneath the north window.
+They did not rush.
 
-Jonah examined the central panel.
+Claire made them scan the drawing first.
 
-“There’s a lock behind this moulding.”
+Adrian complained exactly once.
 
-“Visible?” Claire asked.
+“You have never ruined a discovery with excitement.”
 
-“Only if you know it should be.”
+“That is why discoveries survive me.”
 
-The small brass key fitted.
+The drafting room was colder than the library, its narrow north window taking little afternoon sun. Celeste’s desk stood where they had left it beneath the window, now surrounded by labelled conservation trays.
+
+Jonah inspected the central decorative panel.
+
+“There.”
+
+He angled a light beneath the moulding.
+
+A small brass escutcheon hid behind a sliding strip of wood.
+
+“Visible if you know it exists,” Claire said.
+
+“Barely.”
+
+The key fitted.
 
 It turned once.
 
-Nothing opened.
+Nothing happened.
 
 Adrian crouched.
 
 “Broken?”
 
-“No,” Jonah said. “Released something.”
-
-He pressed the panel.
+“No.” Jonah pressed the central panel. “Released something.”
 
 A narrow drawer moved forward by less than a centimetre.
 
-Claire felt the peculiar rush that came when architecture, object and intention aligned.
+Claire felt the peculiar rush that came when architecture, furniture and intention aligned across a century.
 
-“Stop,” she said.
+“Stop.”
 
-Jonah stopped.
+Jonah froze.
 
 “Photographs first.”
 
-Adrian leaned against the desk.
+Adrian leaned against the drafting table.
 
-“You have never once ruined a revelation with enthusiasm.”
+“I am beginning to think you say that in your sleep.”
 
-“That is why revelations survive me.”
+“That would imply I sleep.”
 
-They documented the drawer closed, released and partially opened.
+They documented the panel closed, unlocked and partially released. Claire recorded the key dimensions and the mechanism before drawing the drawer fully open.
 
-Then Claire drew it out.
-
-Inside were envelopes tied with faded blue tape, a second short length of rolled paper and a flat leather wallet.
+Inside were envelopes tied with faded blue tape, a short roll of paper and a flat leather wallet.
 
 No one touched anything for several seconds.
 
 Jonah cleared his throat.
 
-“I assume you no longer need me to stand here looking decorative.”
+“I assume I am no longer required to stand here looking decorative.”
 
 “No,” Claire said.
 
-“Good. My rates increase for decoration.”
+“Good. My rate increases for decoration.”
 
 He left.
 
-Claire and Adrian remained in the drafting room.
+Adrian watched him squeeze back through the service opening.
 
-The find sat between them.
+“You like him.”
 
-“Do we open it now?” Adrian asked.
+“He is competent.”
 
-“Yes. But methodically.”
+“That is not the same thing?”
 
-“That word has destroyed more excitement than most wars.”
+“For me it is dangerously close.”
 
-“You can leave.”
+The words escaped before Claire could retrieve them.
 
-“I would rather die.”
+Adrian looked at her.
 
-Claire recorded the order of the contents.
+She turned to the drawer.
 
-The top envelopes were addressed in Celeste’s hand but never stamped. Miriam. A solicitor. One to S. Raven.
+“Work.”
 
-The leather wallet contained receipts and two train tickets.
+“Coward.”
 
-The rolled paper would not easily uncoil, so Claire left it humidification-ready for later.
+“Client.”
 
-Nothing immediately explained the civil register entry.
+That made him smile.
 
-But the drawer itself proved something important.
+Claire recorded the order of the contents before removing anything.
 
-Celeste had built concealment into furniture as deliberately as she had built voids into walls.
+The top envelopes were addressed in Celeste’s hand but never stamped.
 
-By evening, they had catalogued only half the contents.
+Miriam.
+
+Edward Pell.
+
+One marked only **S. Raven**.
+
+The leather wallet contained receipts, two train tickets and a brass hotel tag from York. The short rolled paper resisted uncoiling, so Claire set it aside for gradual humidification.
+
+Nothing immediately said marriage.
+
+Nothing immediately said Eleanor.
+
+That was good.
+
+Real archives rarely arranged themselves around chapter endings.
+
+But the hidden drawer proved something important about Celeste.
+
+She had built privacy into furniture with the same intelligence she brought to the house. Not melodramatic concealment. Compartmentalisation.
+
+Things meant to be found by people who knew where to look.
+
+Things meant to survive people who did not.
+
+By evening they had catalogued only half the contents.
 
 Claire removed her gloves and flexed her fingers.
 
@@ -211,13 +264,13 @@ Adrian sat on the edge of the drafting table.
 
 “You look disappointed.”
 
-“I’m tired.”
+“I am tired.”
 
 “That too.”
 
-“We found a concealed drawer.”
+“We found a concealed drawer containing private correspondence.”
 
-“And no marriage certificate.”
+“And not the certificate.”
 
 “Yet.”
 
@@ -229,17 +282,13 @@ Adrian sat on the edge of the drafting table.
 
 Claire looked at him.
 
-“Yet?”
-
-“Yes.”
-
-“It keeps archives alive.”
+“Yet keeps archives alive.”
 
 He smiled.
 
-The room had gone blue with evening. No rain now. Only wind moving through the eaves.
+Evening had turned the room blue. Wind moved against the high pane. For the first time all day, there was no family member, contractor, solicitor or century-old document demanding interpretation.
 
-Claire began putting away pencils.
+Claire began putting pencils away.
 
 Adrian said, “Can I ask you something without it becoming evidence?”
 
@@ -249,15 +298,19 @@ Adrian said, “Can I ask you something without it becoming evidence?”
 
 She stopped.
 
-“I told you why.”
+“I told you why I stepped back.”
 
-“You told me why you stepped back. Not whether you still wanted to.”
+“You told me timing mattered.”
 
-Claire looked at him.
+“Yes.”
 
-His tone was deliberately neutral. He had put the question down and left it there.
+“You did not tell me whether you still wanted to.”
 
-She could ignore it.
+His tone was deliberately neutral.
+
+No invitation disguised as assumption.
+
+Claire could have refused the question.
 
 Instead she said, “Yes.”
 
@@ -265,19 +318,19 @@ He did not move.
 
 “That was dangerously direct.”
 
-“I’m experimenting.”
+“I am experimenting.”
 
 “With me?”
 
-“Don’t flatter yourself.”
+“Do not flatter yourself.”
 
 “Too late.”
 
 Claire leaned against the table opposite him.
 
-“Why did you hire me?” she asked.
+“Why did you hire me?”
 
-The question came from somewhere she had not intended.
+The question came from somewhere she had not planned.
 
 Adrian’s expression changed by a degree.
 
@@ -287,15 +340,13 @@ Adrian’s expression changed by a degree.
 
 “No.”
 
-“Then?”
-
 “My father wanted Celeste’s archive dealt with properly. Your work on Lydon House was the best comparable project I found.”
 
-That was true. She could hear it.
+The answer sounded true.
 
-But something about the answer had the polished completeness of a door closed quietly.
+It also sounded complete in the way a door could look complete after being closed carefully.
 
-Claire filed the discomfort without naming it.
+Claire noticed that feeling and did not yet know what to do with it.
 
 “Do you trust me?” Adrian asked.
 
@@ -311,11 +362,11 @@ She almost laughed.
 
 “It is the answer you get.”
 
-He nodded as though he had expected it.
+He nodded as if he had expected it.
 
-Claire felt suddenly tired of her own armour.
+Claire found herself tired of the elegance of her own defences.
 
-“I trust that you have not tried to control the conclusions,” she said. “I trust that when I tell you something is professionally necessary, you usually listen. I trust that you are more interested in the truth than I expected.”
+“I trust that you have not tried to control my conclusions,” she said. “I trust that when I tell you something is professionally necessary, you usually listen. I trust that you are more interested in the truth than I expected an owner trying to sell this house to be.”
 
 “Usually?”
 
@@ -323,9 +374,9 @@ Claire felt suddenly tired of her own armour.
 
 “And personally?”
 
-She met his eyes.
+Claire met his eyes.
 
-“Personally, I don’t know you well enough.”
+“Personally, I do not know you well enough.”
 
 “Fair.”
 
@@ -333,7 +384,7 @@ She met his eyes.
 
 Silence.
 
-This time it did not belong to the house.
+This time it did not belong to Raven House.
 
 Adrian stood.
 
@@ -349,19 +400,61 @@ He stopped an arm’s length away.
 
 He waited anyway.
 
+The waiting mattered.
+
 So she closed the distance.
 
 The first kiss was not dramatic.
 
-No thunder. No door opening somewhere in the walls. No archive box falling at the correct symbolic moment.
+No thunder.
+
+No door opened in the walls.
+
+No archive box fell at the correct symbolic moment.
 
 It was warm and careful and, for several seconds, almost unbearably restrained.
 
 Then Claire put one hand against his chest and restraint became less convincing.
 
-Adrian’s hand came to her waist, stopped there, and the simple fact that he still seemed to be asking made her answer by pulling him closer.
+Adrian’s hand came to her waist and stopped there.
 
-When they separated, Claire realised she was smiling.
+Still asking.
+
+Claire answered by pulling him closer.
+
+The second kiss was different.
+
+Less careful.
+
+More honest.
+
+It ended because Claire was smiling against his mouth and that became impossible to disguise as professionalism.
+
+Adrian looked at her.
+
+“You are smiling.”
+
+“Do not record it.”
+
+“I intend to have it notarised.”
+
+“That was worse than the evidence joke.”
+
+“I am out of practice.”
+
+“At kissing?”
+
+“At being happy in this room.”
+
+The answer caught her.
+
+Before she could ask what he meant, he touched her face once with the back of his fingers, then dropped his hand.
+
+No possession in it.
+
+No expectation.
+
+Claire liked that too much.
 
 “That was poorly timed,” she said.
 
@@ -375,7 +468,7 @@ When they separated, Claire realised she was smiling.
 
 “Cruel.”
 
-She kissed him again, shorter this time.
+She kissed him once more, shorter.
 
 “There. Now work.”
 
@@ -383,36 +476,54 @@ Adrian looked genuinely offended by the efficiency of it.
 
 They returned to the drawer.
 
-Near the back, behind the envelopes, Claire found a narrow brass plate fixed to the timber base.
+Claire removed the leather wallet and photographed the exposed timber base.
 
-At first she thought it was structural.
+A narrow brass strip ran along the rear edge.
 
-Then she saw another keyhole.
+At first she assumed it reinforced the drawer.
 
-Not the outer lock.
+Then she saw the second keyhole.
 
-A second mechanism.
+Adrian leaned in.
 
-She touched the small key they had found in the drawing tube.
+“You are joking.”
 
-“Surely not,” Adrian said.
+Claire touched the brass key they had found in the drawing tube.
 
-Claire inserted it.
+“Same key?”
 
-It turned.
+“Let us find out.”
 
-A section of the drawer base lifted on a concealed hinge.
+It fitted.
 
-Underneath lay another cylindrical compartment no wider than two fingers.
+A quarter turn released a concealed hinge in the false bottom.
+
+The timber panel lifted by a few millimetres.
+
+Claire stopped before opening it fully and photographed the mechanism.
+
+Adrian made a wounded noise.
+
+“Photographs first,” she said.
+
+“I said nothing.”
+
+“You thought loudly.”
+
+When the false bottom finally rose, it revealed a cylindrical recess no wider than two fingers.
 
 Inside was the end of tightly rolled paper.
+
+Not the short roll from the upper drawer.
+
+A second document, protected inside the desk itself.
 
 Claire looked at Adrian.
 
 He did not smile this time.
 
-Neither of them needed to say what they were thinking.
+Neither needed to say what they were thinking.
 
-Celeste had hidden one thing behind another.
+Celeste had hidden one layer behind another.
 
-And they had only just reached the second layer.
+And whatever she had protected most carefully had not yet been read.

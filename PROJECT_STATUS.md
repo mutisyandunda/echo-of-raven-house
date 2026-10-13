@@ -1,65 +1,75 @@
 # Project Status
 
-## Completed foundation
-- Master story bible
-- Canon rules
-- Full core cast
-- Raven/Vane/Mercer family tree
-- Celeste historical timeline
-- Death-night reconstruction
-- 23-clue ledger
-- 10-red-herring ledger
-- Evidence chains
+## Foundation
+Complete:
+- Master story bible and canon rules
+- Full core cast and family tree
+- Celeste historical timeline and death-night reconstruction
+- 23-clue ledger and 10-red-herring ledger
+- Evidence chains and reveal ladder
 - Romance architecture
-- Reader-belief map
-- Character-knowledge matrix
-- Object tracker
-- Plot-thread tracker
-- Scene dependencies
-- Raven House location canon
-- Mermaid diagrams
-- 35 metadata-rich chapter shells
-- Style guide + Vale starter rules
-- Basic continuity checker
-- Pandoc/Calibre-oriented export notes
+- Reader-belief and character-knowledge tracking
+- Object, plot-thread and scene-dependency trackers
+- Raven House location canon and diagrams
+- Thirty-five canonical chapter sources
+- Style / Vale starter rules
+- Manuscript QA and clean-build tooling
+- Export guidance
 
-## Manuscript progress
-- Chapters 1–35 — **FIRST DRAFT COMPLETE**.
-- Act I: Chapters 1–9 drafted.
-- Act IIA: Chapters 10–18 drafted.
-- Act IIB: Chapters 19–27 drafted.
-- Act III: Chapters 28–35 drafted.
+## Manuscript status
 
-## Major reveal chain now present in prose
-- C1/C2: dimensional discrepancy and acoustic routes.
-- C3/C4: child evidence and proof Celeste remained at Raven House into 1931.
-- C5: Celeste’s ownership.
-- C6/C7/C8/C9/C10: infant photograph, daughter letter, civil index, certified marriage copy and Eleanor birth record.
-- C11/C20: Marcus/Talia knowledge of the Mercer line.
-- C12: post-death 1932 transfer deed.
-- C21/C22/C23: Felix’s debt, passage evidence and stolen archive box; present-day sabotage resolved.
-- C14/C15: safety gate photographed in place and removed on Evelyn’s instruction.
-- C13/C16: wrist bruising and Evelyn’s recorded confession establish physical restraint.
-- C17/C18/C19: Witness Room, Celeste’s solicitor letter and Sebastian’s 1956 confession complete the historical mechanism.
-- R7 resolves: Sebastian’s diary line referred to ending a reconciliation attempt, not murder.
-- R10 remains deliberately unresolved in Chapter 35.
+**Chapters 1–35: complete.**
 
-## Romance arc status
-- Friction → professional respect → attraction → first kiss → relationship.
-- Adrian’s concealed hiring context creates the planned professional/personal betrayal.
-- Separation is maintained through the investigation climax.
-- Reconciliation occurs only after Adrian chooses full disclosure and independent process regardless of whether Claire forgives him.
-- Ending preserves Claire’s legal, professional and residential independence.
+**Serious developmental revision: complete on branch `serious-revision`.**
+
+The revision covered the full manuscript rather than adding new plot. Major work included:
+- restoring the intended Mercer / Claire reveal ladder;
+- strengthening clue seed-to-payoff fairness and independent corroboration;
+- separating Felix’s present-day sabotage from the 1931 historical guilt;
+- correcting English property/title, civil-record, guardianship, police and evidence-handling logic;
+- making the acoustic and service-space architecture physically plausible;
+- repairing Claire’s safety logic in the passage sequence;
+- deepening Talia, Evelyn and Sebastian without excusing their choices;
+- rebuilding Adrian’s betrayal around informed consent and professional integrity;
+- preserving the breakup through the climax and earning reconciliation through costly action plus sustained changed behaviour;
+- rationalising the earlier apparent hauntings while reserving one final unclassified auditory event for Chapter 35;
+- expanding underdeveloped investigation, relationship and aftermath scenes;
+- removing known production-code leakage and generic gothic shortcuts;
+- fixing the export pipeline so production notes cannot enter the reader manuscript.
+
+Detailed findings: `continuity/SERIOUS_REVISION_AUDIT.md`.
+
+## Reader build / QA
+
+- `python tools/continuity_check.py` — structural/prose QA and Draft-only word-count reporting.
+- `python tools/build_manuscript.py` — compiles only chapter headings + `## Draft` prose into `export/the-echo-of-raven-house.md`.
+- Pull-request QA runs both steps before the serious revision is merged to `main`.
+
+## Story endpoint preserved
+
+The final historical mechanism is supported across multiple evidence classes:
+- architecture and surviving fixing marks;
+- photographs;
+- civil records;
+- carpenter’s daybook;
+- coroner’s notes;
+- Evelyn’s authenticated tape;
+- Celeste’s final solicitor letter;
+- Sebastian’s 1956 confession;
+- historic title papers.
+
+The ending remains **truth without annihilation**: the Raven family survives, the false family myth does not, Celeste regains authorship, the title question enters independent legal/preservation process, and Claire remains legally, professionally and residentially independent.
 
 ## Current production stage
-**First-draft drafting is complete.** Do not add more plot before revision unless a continuity audit identifies a genuine structural gap.
 
-Next pass should be a full manuscript revision in this order:
-1. Continuity and chronology audit across all 35 chapters.
-2. Clue/red-herring seed-to-payoff audit.
-3. Character-knowledge and POV audit.
-4. Architectural/legal plausibility research pass.
-5. Romance pacing and emotional causality pass.
-6. Prose-level voice, repetition, cliché and line-edit pass.
-7. Word-count balancing and scene expansion/cutting.
-8. Final beta-read package, copy edit and export.
+**Developmental manuscript work is complete.**
+
+Next publication-stage sequence:
+1. Merge `serious-revision` into `main` after repository QA passes.
+2. Generate the clean reader manuscript.
+3. External beta read.
+4. Copy edit.
+5. Proofread.
+6. DOCX / EPUB / print-layout production and final device/page proofing.
+
+Do not add new plot unless beta reading exposes a genuine story problem.

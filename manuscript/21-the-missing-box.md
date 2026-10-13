@@ -3,43 +3,53 @@ chapter: 21
 title: "The Missing Box"
 act: "IIB"
 pov: "Claire Mercer"
-status: draft
+status: final-revision
 target_words: 2600
 clues: "C22, C23 seed"
 red_herrings: "R8"
-romance_beat: "Claire refuses accusation without evidence"
+romance_beat: "Claire refuses to treat Adrian’s key as guilt; trust becomes methodological rather than sentimental"
 ---
 
 # Chapter 21: The Missing Box
 
 ## Chapter purpose
-An archive box disappears. Adrian’s duplicate key makes him briefly suspect; modern passage prints point to a human intruder.
+A precisely relevant archive box disappears. Adrian’s duplicate key creates a fair suspicion, but physical evidence points towards recent use of the service routes and a deliberate security interruption.
 
 ## Mystery movement
 - **Clues:** C22, C23 seed
 - **Red herrings:** R8
-- Evidence must be observed before it is interpreted.
-- POV inference cannot exceed the physical/documentary record.
+- Chain-of-custody procedures tighten before the forged deed enters the story.
+- Felix is placed near the estate office without yet making him the only possible culprit.
 
 ## Romance / relationship movement
-Claire refuses accusation without evidence.
+Claire distinguishes suspicion from accusation even after the personal trust rupture, and Adrian voluntarily gives up access rather than asking to be believed.
 
 ## End hook
-Sophie saw Felix near the estate office.
+Sophie places Felix at Raven House during the removal window despite his claim to be elsewhere.
 
 ## Draft
 
 The missing box announced itself by leaving a rectangle of dust.
 
-Claire stood in the archive room doorway and counted twice.
+Claire stood in the archive-room doorway and counted twice.
 
-One, two, three, four, gap, six.
+One.
 
-The shelf label beneath the gap read:
+Two.
+
+Three.
+
+Four.
+
+Gap.
+
+Six.
+
+The shelf label beneath the empty space read:
 
 **HOUSE / MAINTENANCE / 1928–1934**
 
-She did not touch anything.
+She did not enter.
 
 “Adrian.”
 
@@ -49,29 +59,45 @@ He was in the corridor within a minute.
 
 “Box five is gone.”
 
-He looked at the shelf.
+He looked past her at the shelf.
 
 “When did you last see it?”
 
-“Yesterday morning.”
+“Yesterday at seventeen thirty when I replaced the roofing ledger.”
 
-“Could Imogen have—”
+“Could Imogen have taken—”
 
-“No. We logged everything that left the room.”
+“No. Everything leaving this room is logged.”
 
-He reached for the door handle.
+Adrian reached for the door handle.
 
 “Don’t.”
 
-Adrian stopped.
+He stopped.
 
-Claire photographed the room before anyone entered. Door. Lock. Shelf. Dust outline. Window latch. Floor.
+Claire took out her phone and began photographing from the threshold.
 
-Only then did she cross the threshold.
+Door.
 
-The archive room had one modern lock and no external window access. Claire held the key. Adrian held a duplicate.
+Lock.
 
-That fact arrived between them without invitation.
+Handle.
+
+Floor.
+
+Shelves.
+
+The empty rectangle.
+
+Window latch.
+
+Only after she had a complete visual record did she cross the threshold.
+
+The archive room had one modern key lock. Claire held a key.
+
+Adrian held the duplicate.
+
+That fact entered the room before either of them mentioned it.
 
 He said it first.
 
@@ -85,246 +111,356 @@ He said it first.
 
 “Claire.”
 
-“I am not accusing you.”
-
-“You would be entitled to consider me.”
-
 “I am considering everyone with access.”
 
 “That includes me.”
 
 “Yes.”
 
-He took the keyring from his pocket and placed the archive key on the table outside the room.
+The answer hurt him.
+
+Good methodology often did.
+
+Adrian took his keyring from his pocket, removed the archive key and placed it on the table outside the room.
 
 “Keep it.”
 
 Claire looked at him.
 
-The gesture was sensible and still made something in her chest tighten.
-
-“This does not prove anything.”
+“This does not prove you did not remove the box.”
 
 “I know.”
 
-“Neither does refusing it.”
+“It also does not prove anything if I refuse to take it.”
 
 “I know that too.”
 
-Good.
+He did not say *trust me*.
 
-She examined the lock.
+That mattered.
 
-No obvious damage.
+Claire bagged the key and recorded the voluntary transfer time.
 
-The floor near the shelf showed overlapping shoe prints from normal work. Nothing useful.
+Then she examined the lock.
 
-But the skirting behind the missing box had a fresh scuff, as though something had struck it while being lifted.
+No scoring around the cylinder.
+
+No bent plate.
+
+No wood splintering.
+
+Either the person had a key, found the door unlocked, or used a method too neat to leave obvious damage.
+
+The floor offered little. Claire, Imogen, Adrian, Elspeth and two contractors had all entered recently. Shoe impressions overlapped into meaninglessness.
+
+But the missing box had left a fresh scuff along the back skirting as though its lower corner had struck the wall while being lifted.
+
+Beneath the shelf lay a pale fleck of plaster.
 
 Claire crouched.
 
-A pale fleck of plaster lay beneath the shelf.
+The archive-room plaster was warm cream and fine.
 
-Not from the wall behind it.
-
-Different colour.
+The fleck was grey with coarse aggregate.
 
 She bagged it.
 
-“West passage plaster,” she said.
+“West passage repair,” she said.
 
 Adrian frowned.
 
-“You can tell from one fleck?”
+“You can tell from that?”
 
-“I can tell it is greyer than this wall and contains coarse aggregate. The service passage repairs are grey lime. We compare before deciding.”
+“I can tell it does not match this room. Jonah can compare it properly.”
 
-Jonah arrived an hour later and agreed it was consistent.
+“That is less satisfying.”
 
-“Could come from boots,” he said. “Someone in the passage, then in here.”
+“Reality often is.”
 
-“Or transferred another way,” Claire said.
+Jonah arrived before noon and compared the fragment under a hand lens with loose samples from documented repair debris near the west service route.
 
-“Or that.”
+“Consistent,” he said. “Grey lime, same coarse aggregate. Not unique enough to identify a wall.”
+
+“Transfer from footwear?” Claire asked.
+
+“Possible. Clothing. Box edge. Tool. Lots of ways.”
 
 Adrian leaned against the corridor wall.
 
-“Who has been in the passage?”
+“So someone came from the passage.”
 
-“Elspeth,” Claire said. “Jonah. Me. You.”
+Claire looked at him.
 
-“Sophie went in once,” Jonah added. “Felix?”
+“Someone or something carrying this plaster later entered the archive.”
 
-Adrian shook his head. “Not with us.”
+“You enjoy making sentences worse.”
 
-Not with us.
+“I make them defensible.”
 
-The phrase mattered.
+They went to the west access point without entering the passage.
 
-Claire returned to the west void with Jonah.
+Jonah removed only the protective outer board he had installed after the previous inspection. Fresh disturbance crossed the dust near the threshold.
 
-At the access panel, the dust showed a fresh heel edge over their older marks.
+A heel edge overlaid one of their documented older marks.
 
-Inside, farther than Elspeth normally went to check the pipes, a partial shoe print lay in a patch of fine debris.
-
-Modern tread.
+Farther inside, under a clear cover, remained the partial shoe print Claire had photographed days earlier.
 
 Large.
 
-The same passage had shown recent disturbance days earlier.
+Modern tread.
 
-Now the archive box was gone.
+Angular channels.
 
-“Human ghost,” Jonah said.
+The same general size as the impression in the cleaning cupboard below the west stair.
 
-“Human presence,” Claire corrected.
+Not enough for identification.
 
-“You take all the fun out of language.”
+Enough to establish that someone had used the route beyond Elspeth’s ordinary pipe-checking branch.
 
-“Only when it becomes evidence.”
+Claire looked at Adrian.
 
-Back in the library, Sophie arrived to find Adrian changing the archive lock.
+“Who has keys to the old service access?”
+
+“Elspeth. Jonah for work. I have estate masters.”
+
+“Talia?”
+
+“Some old keys, probably.”
+
+“Sophie?”
+
+“Could borrow one.”
+
+“Felix?”
+
+Adrian hesitated.
+
+“He should not.”
+
+“That is different from cannot.”
+
+“Yes.”
+
+Claire wrote down the distinction.
+
+Back at the archive room, she changed procedure immediately.
+
+No one entered alone.
+
+A paper access log began at the door.
+
+The duplicate key Adrian surrendered went into a sealed evidence envelope until the lock could be replaced.
+
+Every box received a shelf photograph at the end of the day.
+
+Imogen, called by video, approved with the severity of a disappointed regulator.
+
+“Also stop assuming the theft is about the most dramatic material,” she said.
+
+“The missing range includes 1932.”
+
+“Yes. It also includes plumbers’ invoices, gardener’s bills and probably dead mice.”
+
+“Noted.”
+
+“Could be someone grabbing the years they think matter without knowing what is in the box.”
+
+Claire looked at Adrian.
+
+That possibility felt right enough to distrust immediately.
+
+At two, Elspeth came to the archive room and inspected the new access log.
+
+“About time.”
+
+“You could have suggested it earlier.”
+
+“I thought your archive people knew how to lock cupboards.”
+
+Claire chose not to answer.
+
+“Did you enter this room last night?”
+
+“No.”
+
+“Did you use the west service route?”
+
+“No. Not since the pipe check.”
+
+“Did you lend anyone a service key?”
+
+“No.”
+
+Elspeth’s indignation was not proof.
+
+It was still convincing.
+
+Talia denied taking the box with less emotion.
+
+“If I intended to destroy history, Dr Mercer, I have had sixty-eight years to become better at it.”
+
+“That is not reassuring.”
+
+“It was not meant to be.”
+
+Sophie had spent the previous evening photographing rain over the south lawn.
+
+Harcourt had been in Newcastle with the conveyancing team and provided the least romantic alibi Claire had ever heard: six timed emails, a conference-room attendance log and takeaway ordered to the office.
+
+Felix did not answer his phone.
+
+Claire wrote that down and refused to give it meaning by itself.
+
+At four, the estate security company arrived.
+
+The archive corridor camera had failed for forty-three minutes the previous evening.
+
+Power interruption.
+
+No other camera on that floor failed.
+
+The electrician opened the local consumer unit in Claire’s presence.
+
+“No fault recorded,” he said. “Breaker was reset manually.”
+
+“Can you tell when?”
+
+“System log says eighteen oh-seven off, eighteen fifty back on.”
+
+“Could a surge do that?”
+
+“Possible, but then I would expect fault indication or other circuits affected.”
+
+Adrian stared at the breaker.
+
+“Someone knew which circuit.”
+
+“Or opened the labelled cabinet and read,” Claire said.
+
+The breaker was, in fact, labelled **ARCHIVE CORR / CAM**.
+
+Adrian looked at her.
+
+“Thank you for saving the criminal mastermind from unnecessary genius.”
+
+“You are welcome.”
+
+Her phone buzzed.
+
+Imogen.
+
+**Separate issue: historical abstract points to a 1932 Vane-to-Raven conveyance. The active file only has later abstract wording. Ask Harcourt to retrieve the predecessor deed packet/original if it survives. Do not infer forgery from the abstract.**
+
+Claire read it twice.
+
+The missing box covered 1932.
+
+So did the title abstract.
+
+Adrian read over her shoulder.
+
+“You are going to tell me not to call that a coincidence.”
+
+“I am going to tell you it might be why somebody selected that date range. We do not know whether the person knew what the box actually contained.”
+
+“Fine.”
+
+He was learning to say the word without sounding injured.
+
+Harcourt was called and began arranging retrieval of dormant predecessor papers from off-site storage.
+
+The problem had become two parallel questions.
+
+What happened to Celeste’s property in 1932?
+
+And who in 2026 was frightened enough by that year to remove an archive box?
+
+At five-thirty, Sophie appeared in the library and found Adrian changing the archive lock under the locksmith’s supervision.
 
 “What happened?”
 
 “Box missing,” he said.
 
-Sophie’s face lost its humour.
-
 “Which box?”
 
-“Maintenance, 1928 to 1934.”
+“Maintenance. 1928 to 1934.”
 
-“That sounds inconveniently specific.”
+Sophie’s expression sharpened.
 
-“It is.”
+“That is inconveniently specific.”
 
-Sophie looked at Claire.
+“Yes.”
+
+She looked at Claire.
 
 “You think someone stole it?”
 
 “I think it was removed without being logged.”
 
-“That is archivist for stolen.”
+“That is archivist for stole it.”
 
 “Yes.”
 
-Talia denied taking it. Elspeth looked personally offended by the suggestion. Harcourt had not been on site since the family dinner.
+Sophie watched Adrian hand the locksmith his old key.
 
-Felix did not answer his phone.
+“Is he a suspect?”
 
-That fact was noted, not elevated.
+Claire answered before Adrian could.
 
-By late afternoon, the estate security log produced another problem.
+“He had access. That is not the same thing.”
 
-The archive-room corridor camera had been offline for forty-three minutes the previous evening.
+Sophie looked between them.
 
-Power interruption.
+“Given everything else, that is impressively calm.”
 
-No other cameras failed.
+“It is my job.”
 
-Adrian stared at the log.
+Adrian said nothing.
 
-“Someone knew the circuit.”
+Claire felt the personal meaning anyway.
 
-“Or got lucky.”
+Trust was not pretending evidence did not apply to someone because you loved them.
 
-“You really will not give me one dramatic conclusion.”
+Perhaps she did not love Adrian.
 
-“No.”
+Not yet.
 
-The electrician confirmed the breaker had been switched manually.
+But the principle stood.
 
-Claire’s phone buzzed.
+Sophie frowned suddenly.
 
-Imogen.
-
-**Do not let anyone minimise chain-of-custody now. Photograph everything. Separate keys. Written access log. Also: I found something on 1932 title transfer. Call me.**
-
-Claire showed Adrian.
-
-His expression hardened.
-
-“The missing box covers 1932.”
-
-“Yes.”
-
-“And Imogen just found something in 1932.”
-
-“Yes.”
-
-“That is not coincidence.”
-
-“We do not know that.”
-
-“Claire.”
-
-“Adrian.”
-
-He exhaled.
-
-“Fine. We don’t know.”
-
-She called Imogen.
-
-The title transfer, Imogen explained, appeared to rely on a deed dated months after Celeste’s death.
-
-Claire wrote the date down.
-
-“We need the original or certified copy.”
-
-“Harcourt may have it,” Imogen said. “Ask before you accuse the house of generating posthumous signatures.”
-
-After the call, Claire looked at the empty shelf.
-
-Whoever removed the maintenance box might know what was inside.
-
-Or might only know the years mattered.
-
-Adrian said, “I’m going to ask Felix where he was.”
-
-“Ask. Do not accuse.”
-
-“You think I need supervision?”
-
-“At present, yes.”
-
-“That sounded almost affectionate.”
-
-“It was risk management.”
-
-Sophie, who had been standing by the doorway, made a small sound.
-
-Both turned.
+“Wait.”
 
 “What?” Adrian asked.
 
-She hesitated.
-
 “I saw Felix yesterday.”
-
-“Where?”
-
-“The estate office corridor.”
 
 Claire’s attention sharpened.
 
+“Where?”
+
+“The estate-office corridor.”
+
 “What time?”
 
-“About six. Maybe quarter past.”
+“About six. Quarter past, maybe.”
 
 “Did you speak to him?”
 
-“No. I was on the phone outside. He came out through the side door.”
+“No. I was outside on a call. He came through the side door and walked towards the coach sheds.”
 
-Adrian frowned. “He told me he was in Newcastle yesterday.”
+Adrian frowned.
+
+“He told me he was in Newcastle all day.”
 
 Sophie looked at him.
 
 “Well,” she said. “He wasn’t.”
 
-Claire wrote the time down.
+Claire wrote the approximate time down.
 
 The missing box had not yet told them who took it.
 
-But the number of people who could plausibly have done so had just become smaller.
+But for the first time, a living person’s account of where he had been had collided directly with another witness.
+
+And the rectangle of dust on the archive shelf had begun to look less like absence than selection.

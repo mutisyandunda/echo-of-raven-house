@@ -3,49 +3,50 @@ chapter: 9
 title: "The Drafting Room"
 act: "I"
 pov: "Claire Mercer"
-status: draft
+status: final-revision
 target_words: 2500
 clues: "C6"
 red_herrings: "None"
-romance_beat: "Strong physical tension"
+romance_beat: "Strong physical tension grounded in shared competent work"
 ---
 
 # Chapter 9: The Drafting Room
 
 ## Chapter purpose
-A narrow void leads to Celeste’s sealed work niche and a photo of Celeste, Miriam and an infant.
+The service route reveals Celeste’s sealed work niche, a photograph of Celeste and Miriam with an infant, and the first physical evidence that the child mattered intimately to them.
 
 ## Mystery movement
 - **Clues:** C6
-- **Red herrings:** None
-- Evidence must be observed before it is interpreted.
-- POV inference cannot exceed the physical/documentary record.
+- The drafting room connects the Chapter 1 bricked doorway to a practical workspace rather than a gothic secret chamber.
+- The infant photograph is emotionally suggestive but not yet proof of parentage.
 
 ## Romance / relationship movement
-Strong physical tension
+Claire and Adrian’s attraction becomes undeniable in a cramped space, but they keep the investigation ahead of it.
 
 ## End hook
-Photo inscription references 'our little E.'
+The photograph bears the partially erased inscription: “Our little E.”
 
 ## Draft
 
 Jonah arrived with a borescope, a folding rule and the expression of a man who had been told about a secret panel before breakfast and resented the house for making his day interesting.
 
-“This,” he said, staring into the west-stair cupboard, “is why old buildings should be required to submit paperwork before changing their minds.”
+“This,” he said, staring into the west-stair cleaning cupboard, “is why old buildings should be required to submit paperwork before changing their minds.”
 
-Claire liked him immediately.
+Claire liked him immediately, which by then had become a recurring problem.
 
-Adrian, standing behind them with coffee, said, “You two are going to become unbearable.”
+Adrian stood behind them with three coffees.
+
+“You two are going to become unbearable.”
 
 “We already have standards,” Claire said.
 
-Jonah pressed a thin blade into the joint around the proud timber panel.
+Jonah pressed a thin blade into the joint around the timber panel Claire had noticed the night before.
 
-“No nails. Pivoted from inside.”
+“No nails. Pivot point here. Old mechanism.”
 
 “Original?” Claire asked.
 
-“Panel looks twenties. Mechanism maybe later. Hard to tell without opening.”
+“Panel looks twenties. Catch may have been repaired later.”
 
 Adrian held out one mug.
 
@@ -59,99 +60,59 @@ Claire accepted it without looking.
 
 Jonah glanced between them and wisely returned to the panel.
 
-The catch yielded with a soft wooden click.
+Before opening anything, he inspected the cupboard services, checked for live electrical runs and compared the location with the estate’s asbestos register. The known asbestos-containing board in the west wing was farther north and sealed behind a later riser; none was listed at this panel.
+
+“Still treat unknown board as suspect if we encounter it,” Jonah said.
+
+Claire nodded.
+
+Adrian said, “You have both become much less entertaining.”
+
+“That is because survival is repetitive,” Claire replied.
+
+The catch yielded with a wooden click.
 
 Behind it was not a room.
 
 It was a slot of darkness.
 
-Forty centimetres wide, perhaps fifty at most, running between the masonry wall and the finished panelling.
+Fifty-two centimetres at the opening, Jonah measured, narrowing to forty-six before widening again beyond the stair wall. A timber maintenance walkway ran along the base. Brass tubes and pipes followed the framing.
 
-Jonah shone a work light inside.
+Jonah put the borescope in first.
 
-A timber maintenance walkway extended into the void.
+No loose debris. No animal nest. No obvious cable damage. Air movement enough to reassure him the route connected with other service cavities.
 
-Claire leaned closer.
+He looked at Claire.
 
-“Ventilation?”
+“You can enter as far as the first widened bay. Helmet, mask. I go first. Nobody squeezes past damaged lining.”
 
-“Partly. Pipe access. Maybe speaking-tube route.”
+Adrian said, “Thank you.”
 
-“Can we enter?”
+Claire looked at him.
 
-Jonah looked at her.
+“For what?”
 
-“You can.”
+“Being the person who says the sensible thing before she argues.”
 
-Adrian said, “No.”
+“I was not going to argue.”
 
-Claire turned.
+Jonah made a noncommittal sound.
 
-“I beg your pardon?”
-
-“You nearly fell off a staircase six hours ago.”
-
-“And now we have daylight, a surveyor and a maintenance route.”
-
-“Still no.”
-
-Jonah looked at the ceiling.
-
-Claire set down the coffee.
-
-“Adrian, you do not get to commission an architectural investigation and then forbid the investigator from entering architecture.”
-
-“I can if the architecture is forty centimetres wide and full of nails.”
-
-“Fifty-two centimetres,” Jonah said.
-
-“Thank you, Jonah.”
-
-“I was correcting the measurement, not taking sides.”
-
-Claire folded her arms.
-
-Adrian looked at her for three seconds.
-
-Then he sighed.
-
-“Helmet.”
-
-“Fine.”
-
-“Mask.”
-
-“Fine.”
-
-“Jonah goes first.”
-
-“Obviously.”
-
-“And if he says stop—”
-
-“I stop.”
-
-Adrian handed her the coffee again.
-
-“Infuriating.”
-
-“Efficient.”
+Claire ignored him.
 
 The void smelled of dry timber, lime dust and old metal.
 
-Jonah crawled first, then Claire. Adrian followed after a pause long enough to imply that he had reconsidered every decision that had led to owning Raven House.
+Jonah went first, then Claire. Adrian followed after a pause long enough to imply that he had reconsidered every decision that had led to owning Raven House.
 
-The maintenance walkway was narrow but sound. Vertical battens divided the space. Brass tubes, no wider than a thumb, ran upward and disappeared behind plaster.
+The maintenance walkway held under Jonah’s weight. Vertical battens divided the space. Brass tubes no wider than a thumb ran upward and disappeared behind plaster.
 
-Claire pointed.
+Claire photographed junctions as she went.
 
-“Acoustic.”
+“Acoustic?”
 
-Jonah nodded.
+“Some,” Jonah said. “Others may be conduit. We trace before naming.”
 
-“Could be speaking tubes. Could also just be conduit repurposed later.”
-
-She photographed every junction.
+“You are spending too much time with her,” Adrian said behind them.
 
 Three metres in, the void widened.
 
@@ -161,21 +122,27 @@ Beyond it was a shallow chamber.
 
 Not hidden so much as omitted.
 
-A room built into the thickness of the house.
+A room built into the thickness of Raven House and abandoned when its original access was sealed.
 
 Jonah entered first and swept the light across it.
 
-A drafting table stood against one wall.
+A drafting table stood against the wall.
 
 Claire stopped moving.
 
-There were moments in archival work when discovery arrived loudly: signatures, sealed boxes, names where no name should be.
+There were discoveries that announced themselves loudly: signatures, deeds, sealed packets, names where no names should be.
 
-And there were moments when a room simply waited until somebody noticed it had been left behind.
+And there were discoveries that simply waited until somebody noticed they had been left behind.
 
 This was the second kind.
 
-The chamber was no more than three metres by two. High window slit. Built-in shelves. A wall-mounted drawing rail. A stool. Dust covered everything evenly enough that no one had entered recently.
+The chamber measured a little more than three metres by two. A narrow high window slit faced north. Built-in shelves occupied one wall. A drawing rail remained fixed above the desk. A stool lay on its side beneath a century of dust.
+
+No footprints crossed the main floor.
+
+No recent smears marked the table.
+
+Whatever modern person had used the service route did not appear to have entered this niche recently.
 
 On the drafting table lay a wooden T-square.
 
@@ -185,63 +152,71 @@ Adrian heard her.
 
 “How do you know?”
 
-“I don’t.”
+“I do not.”
 
 She stepped closer.
 
-The table surface carried knife marks, compass points and ink stains. At the upper right corner someone had scratched initials into the wood.
+Knife marks, compass points and ink stains covered the desk surface. At the upper right corner someone had scratched two initials into the timber.
 
-C.V.
+**C.V.**
 
-Claire closed her eyes briefly.
+Claire closed her eyes for half a second.
 
 Then she began documenting.
 
-No touching before photographs.
+Wide photographs first.
 
-No assumptions before sequence.
+Room orientation.
+
+Doorway.
+
+Shelves.
+
+Desk.
+
+Initials.
+
+No touching before the sequence existed.
 
 The discipline steadied her.
 
-On the shelves were tracing-paper rolls, a tin of drawing pins, two ledgers, a dried bottle of black ink and a stack of envelopes fused at the edges by damp.
+Adrian stayed in the doorway because the chamber was too small for all three of them to work without colliding.
 
-Adrian stood in the doorway because there was not enough room for all three of them comfortably.
+“This room is not on any plan I have seen.”
 
-“This room isn’t on any plan I’ve seen.”
+“It may be represented as wall thickness,” Claire said. “Or removed from later drawings after access was sealed.”
 
-“It may be on Celeste’s originals,” Claire said. “Or represented as wall thickness.”
+“Why hide her workspace?”
 
-“Why would she hide her own workspace?”
-
-“Maybe she didn’t. Later alterations may have cut off access.”
+“Maybe no one hid it initially.”
 
 Jonah examined the opposite wall.
 
-“There was a proper door once. Filled from the corridor side.”
+“There was a proper door.”
 
-“The bricked doorway,” Claire said.
+Claire turned.
 
-He nodded.
+He pointed to the masonry line.
 
-Chapter one’s anomaly resolved one layer deeper.
+“Timber frame removed. Infill later. Corridor side should be that bricked opening you found on day one.”
 
-The blocked opening had not led into nowhere.
+The first anomaly settled into place.
+
+The blocked doorway had not led into nowhere.
 
 It had led here.
 
-Adrian stepped inside, turning sideways to pass her.
+A drafting room, not a crypt.
 
-His chest brushed her shoulder.
+Claire found the ordinariness more satisfying than any gothic alternative.
 
-Neither spoke.
+They recorded the room before handling contents.
 
-The room was too small for graceful distance.
+On the shelves were rolls of tracing paper, a tin of drawing pins, two ledgers, a dried bottle of black ink and a stack of envelopes fused at the edges by damp. One lower shelf held a biscuit tin whose lid had rusted around the rim.
 
-Claire moved to the table.
+A shallow desk drawer resisted at first, then moved when Jonah showed Claire how the warped runner caught.
 
-A shallow drawer resisted at first, then opened with a dry scrape.
-
-Inside lay graphite sticks, paper clips, two photographs and a folded sheet of tissue.
+Inside lay graphite sticks, paper clips, two photographs and a folded sheet of fine tracing paper.
 
 Claire put on gloves.
 
@@ -249,9 +224,21 @@ The first photograph showed Raven House under construction: scaffolding, bare ma
 
 Celeste.
 
-Even without a label, Claire knew her face from published images.
+Claire knew the published portrait everyone used—Celeste in profile, severe hair, eyes turned away from the camera. Here she was younger, wind pushing hair loose around her face, one trouser leg muddy to the knee.
 
-The second photograph was smaller.
+Adrian came nearer.
+
+“She looks happy.”
+
+Claire looked at him.
+
+“That is not cataloguing.”
+
+“No. It is looking.”
+
+She returned the photograph to its support.
+
+The second was smaller.
 
 Three figures.
 
@@ -259,63 +246,63 @@ Celeste seated on a low garden wall.
 
 Another woman standing beside her.
 
-A baby in Celeste’s arms.
+An infant in Celeste’s arms.
 
 Claire’s pulse changed.
 
 Adrian leaned closer.
 
-“That’s Celeste.”
+“That is Celeste.”
 
 “Yes.”
 
-“And?”
+“And the woman?”
 
-“I don’t know the woman.”
+“I do not know.”
 
 Claire turned the photograph over.
 
-Nothing on the back except a faded pencil mark.
+A single faded pencil letter remained visible.
 
-M.
+**M.**
 
 “Miriam?” Adrian asked.
 
-“Possibly.”
+“Possible.”
 
 “And the baby?”
 
 Claire looked at him.
 
-He said it before she did.
+He did not say Eleanor this time.
 
-“E.”
+Learning.
 
-She did not answer.
+She appreciated it.
 
-The evidence was becoming dense enough that restraint required effort.
+Instead he said, “The E room.”
 
-A nursery marked E.
+“Maybe.”
 
-A brush engraved E.V.
+The evidence was becoming dense enough that restraint required active effort.
 
-A photograph of Celeste holding an infant.
+A room marked E.
 
-Talia’s reaction to the name Eleanor.
+A period brush engraved E.V.
 
-Still, none of it yet established maternity.
+Talia reacting to Eleanor.
 
-Claire set the photo down.
+Celeste holding an infant beside a woman whose name might begin with M.
 
-“What is the tissue?” Adrian asked.
+Still, none of it established maternity.
+
+Claire placed the photograph down.
+
+“What is the tracing?” Adrian asked.
 
 She unfolded it carefully.
 
-It was not tissue.
-
-A scrap of tracing paper.
-
-On it, Celeste had sketched a child’s hand in graphite.
+A child’s hand drawn in graphite.
 
 Five small fingers.
 
@@ -323,23 +310,25 @@ No face.
 
 No name.
 
+The drawing was not technically accomplished in the way Celeste’s architectural sketches were. It was quick and intimate, the kind of mark made because a moment mattered rather than because a client needed it.
+
 Adrian was silent.
 
-Claire looked away before the image became sentimental evidence in her own mind.
+Claire looked away before tenderness became evidence in her own mind.
 
 Jonah had moved to the rear shelves.
 
-“There’s another cavity.”
+“There’s a recess here.”
 
-Claire joined him.
+A timber flap sat flush with the masonry.
 
-A narrow recess had been cut into the masonry and closed by a timber flap.
+He photographed it, then opened it after checking the hinge.
 
-Inside sat a biscuit tin.
+Inside was the rusted biscuit tin Claire had seen from the side.
 
 Empty.
 
-Dust outlined where papers had once been stacked inside it.
+Dust outlined where papers or envelopes had once been stacked inside it.
 
 “Removed before the room was sealed?” Claire asked.
 
@@ -347,33 +336,37 @@ Dust outlined where papers had once been stacked inside it.
 
 “Or after.”
 
-Adrian looked back towards the access void.
+Adrian looked back towards the service route.
 
-“You think someone else knows this room exists?”
+“You think Marcus knew this room?”
 
-Claire thought of the modern shoe print.
+The question was new.
 
-“Someone knows the service routes.”
+Claire thought about his father’s late-life interest in Celeste’s papers.
 
-“That isn’t the same thing.”
+“No evidence yet.”
+
+“But someone used the service system recently.”
+
+“Yes.”
+
+“That is not the same thing.”
 
 “No.”
 
-But the distinction no longer comforted her.
+The distinction offered less comfort each day.
 
-They spent two hours inventorying the room in place.
+They spent two hours inventorying in place.
 
-By noon, Claire’s knees ached and dust had settled into the creases of her gloves.
-
-Adrian stayed longer than necessary.
-
-He held lights, moved nothing without being asked, and once caught the corner of a rolled plan before it slid from a shelf.
+By noon, Claire’s knees ached and dust had worked into the creases of her gloves. Adrian stayed longer than any owner needed to. He held lights, wrote labels in the format Claire dictated and once caught the corner of a rolled plan before it slid from a shelf.
 
 His competence was becoming inconvenient.
 
-So was the way he fit into the narrow room.
+So was the room.
 
-At one point Claire stepped backward from the table and collided with him.
+There was not enough space for graceful distance.
+
+Claire stepped backward from the desk and collided with him.
 
 His hand closed around her elbow.
 
@@ -385,13 +378,13 @@ His hand closed around her elbow.
 
 “This room is six square metres.”
 
-“Seven point two,” he said.
+“Seven point two.”
 
 She stared at him.
 
 He smiled.
 
-“Jonah told me.”
+“Jonah measured it.”
 
 Claire should have moved.
 
@@ -399,11 +392,19 @@ She did not.
 
 His hand remained at her elbow.
 
-The air between them held the quiet pressure of something both of them had noticed and neither had permitted.
+The attraction they had been treating as a joke became physical fact in the small room.
 
-Then Jonah called from the void, “I can leave if the architectural survey has become private.”
+No danger.
 
-Claire stepped away so quickly she hit the drafting stool.
+No midnight rescue.
+
+Just two people who liked working together standing too close.
+
+Then Jonah called from the passage.
+
+“I can leave if the architectural survey has become private.”
+
+Claire stepped away quickly enough to catch the drafting stool with her heel.
 
 Adrian laughed under his breath.
 
@@ -413,27 +414,29 @@ Mostly.
 
 Back in the library, Claire scanned the photographs at high resolution.
 
-The infant image enlarged beautifully.
+The infant image enlarged cleanly.
 
-Celeste looked younger than Claire had expected. Not soft, exactly. Unarmoured.
+Celeste looked younger than in her professional portraits. Not softer, exactly. Less defended.
 
-The woman beside her had one hand resting on Celeste’s shoulder.
+The woman beside her rested one hand on Celeste’s shoulder.
 
-On the garden wall behind them, partly obscured by the baby’s blanket, someone had written in chalk.
+Claire magnified the visible pencil mark on the reverse.
 
-Claire magnified the scan.
+M remained M.
 
-No use.
+Then she changed the scan angle using the raking-light photograph she had made in the drafting room.
 
-She flipped the image digitally and increased contrast on the reverse.
-
-A second pencil inscription emerged beneath the visible M, almost erased by handling.
+A second line of graphite emerged beneath surface wear.
 
 Three words.
 
-Adrian leaned over her chair.
+Almost erased by handling.
 
-Claire read them twice before speaking.
+Claire leaned closer.
+
+Adrian came over her shoulder.
+
+She read them twice before speaking.
 
 “Our little E.”
 
@@ -441,38 +444,38 @@ He went still.
 
 Not *the baby*.
 
-Not *Evelyn*.
+Not merely an initial.
 
-Our little E.
+*Our little E.*
 
 Claire looked at the woman marked M.
 
 Miriam, perhaps.
 
-Then at Celeste holding the infant.
+Then at Celeste holding the infant with one hand supporting the head in an easy, familiar way.
 
-The house had given them a child.
+The house had already given them evidence of a child.
 
 Now it had given them affection.
 
-Not proof of parentage.
+Not parentage.
 
-But something harder to dismiss than an initial on a plan.
+Not yet.
+
+But something much harder to dismiss as accidental notation.
 
 Adrian straightened slowly.
 
 “My family says Celeste had no children.”
 
-Claire saved the scan.
+Claire saved the scan and created a second backup before answering.
 
 “Your family says many things.”
 
-He did not defend them.
+This time he did not defend them.
 
-On the screen, Celeste’s hand supported the baby’s head with effortless familiarity.
-
-Claire looked again at the inscription.
+On the screen, the infant slept in Celeste’s arms beneath an inscription nobody had thought worth preserving clearly.
 
 Our little E.
 
-The letter no longer felt abstract.
+The letter had stopped feeling abstract.

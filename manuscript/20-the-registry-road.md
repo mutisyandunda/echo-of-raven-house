@@ -3,35 +3,41 @@ chapter: 20
 title: "The Registry Road"
 act: "IIB"
 pov: "Claire Mercer"
-status: draft
+status: final-revision
 target_words: 2600
-clues: "C10/C11 develop"
+clues: "C10 develops; C11 context"
 red_herrings: "None"
-romance_beat: "First full physical intimacy"
+romance_beat: "First full physical intimacy after explicit consent and unresolved trust is acknowledged"
 ---
 
 # Chapter 20: The Registry Road
 
 ## Chapter purpose
-Claire and Adrian verify records away from the estate; warmth returns briefly.
+Claire and Adrian verify Eleanor’s parentage and childhood record away from Raven House. The Mercer possibility remains personal but unproved, while their relationship briefly deepens without erasing the rupture over Marcus’s note.
 
 ## Mystery movement
-- **Clues:** C10/C11 develop
-- **Red herrings:** None
-- Evidence must be observed before it is interpreted.
-- POV inference cannot exceed the physical/documentary record.
+- **Clues:** C10 develops; C11 context
+- Eleanor’s civil birth entry names Celeste and Sebastian.
+- Her 1956 marriage record leaves the father field blank and establishes Vane-to-Mercer identity continuity.
+- Surviving childhood records place Eleanor in Miriam’s practical care without inventing automatic legal guardianship.
 
 ## Romance / relationship movement
-First full physical intimacy.
+Claire chooses physical intimacy on her own terms and explicitly refuses to treat it as forgiveness.
 
 ## End hook
-Eleanor’s next of kin is Miriam, not Sebastian.
+Every surviving childhood record places Eleanor with Miriam, not the Raven household.
 
 ## Draft
 
 The registry office occupied a building designed to discourage revelation.
 
-Low ceiling. Grey carpet. Plastic chairs bolted into groups of four.
+Low ceiling.
+
+Grey carpet.
+
+Plastic chairs bolted into groups of four.
+
+A ticket machine whose screen had been repaired with transparent tape.
 
 Claire approved of it immediately.
 
@@ -43,157 +49,243 @@ Claire approved of it immediately.
 
 “Records improve when they stop performing.”
 
-He carried two coffees and the sealed document wallet containing copies of what they already had. Since Marcus’s note, they had been careful with each other in a way that felt less comfortable than anger and more honest than pretending nothing had changed.
+He carried two coffees and the document wallet containing copies of what they already had. Since Marcus’s note, they had been careful with each other in a way that felt less comfortable than anger and more honest than pretending nothing had changed.
 
 The drive had taken ninety minutes.
 
 They had spoken mostly about evidence.
 
-Claire had appreciated the restraint.
+Claire appreciated the restraint.
 
 She had also missed him.
 
 That irritated her enough to become useful.
 
-A registrar named Mrs Bell brought them three certified extracts and one photocopy of an older administrative card.
+Mrs Bell, the registrar helping with historical copies, brought them three certified documents and a note from the local archive.
 
-“Original register access is restricted,” she said, “but these are the entries you requested.”
+“The original register itself is not open for handling,” she said, “but these are certified copies of the entries you requested.”
 
 Claire began with Eleanor’s birth record.
 
 **Eleanor Miriam Vane. Born 14 February 1926.**
 
-Mother: Celeste Miriam Vane, architect.
+Mother: **Celeste Vane, architect.**
 
-Father: Sebastian Arthur Raven.
+Father: **Sebastian Arthur Raven.**
 
 Claire stopped.
 
 Adrian read over her shoulder.
 
-There was no ambiguity to manage now.
+For once there was no useful ambiguity to preserve.
 
 Sebastian was named as father.
 
 Celeste as mother.
 
-The child had been born within two years of their registered marriage.
+The child had been born after their 1924 marriage.
+
+The family’s absence of Eleanor was no longer merely a suspicious silence around an initial and a photograph.
+
+A civil record had named her.
 
 Claire made herself continue.
 
-Place of birth: an address near Hexham belonging, according to electoral records, to Miriam Vane.
+Place of birth: an address outside Hexham.
+
+Imogen had already established the address belonged to Miriam Vane.
 
 Informant: **Miriam Vane, aunt, present at birth.**
 
 Adrian said quietly, “Why wasn’t Sebastian the informant?”
 
-“We don’t know.”
+“We do not know.”
 
-Mrs Bell had also supplied a later annotation card created during a records correction request in the 1950s.
-
-Eleanor’s surname remained Vane.
-
-No later re-registration under Raven.
-
-No public acknowledgment in the family records.
-
-Claire photographed the documents with permission.
-
-Then came Eleanor’s 1956 marriage record.
-
-**Eleanor Miriam Vane to Thomas James Mercer.**
-
-Her father’s field was not blank.
-
-It read:
-
-**Sebastian Arthur Raven, deceased — crossed through.**
-
-Beside it, in different ink:
-
-**father not declared by bride; supplied from supporting birth entry and not retained on final certificate.**
-
-Adrian frowned.
-
-“He was alive in 1956.”
+“He was the father.”
 
 “Yes.”
 
-Sebastian had lived until 1966.
+“And her husband.”
+
+“Yes.”
+
+“That is not normal.”
+
+“Not normal is not a motive.”
+
+Mrs Bell hid a smile.
+
+Adrian noticed.
+
+“You enjoy her too.”
+
+“I admire procedural restraint,” Claire said.
+
+“No later re-registration?” she asked Mrs Bell.
+
+“None in the records supplied with your request.”
+
+The child remained Eleanor Vane.
+
+No Raven surname appeared in the civil trail they had located.
+
+Claire photographed the certified copy with permission for her working record and sealed the official paper back into its protective wallet.
+
+Then came the 1956 marriage entry.
+
+**Eleanor Miriam Vane to Thomas James Mercer.**
+
+Claire read down the columns.
+
+The line for Eleanor’s father was blank.
+
+Not Sebastian Raven.
+
+Not deceased.
+
+Nothing.
+
+Adrian frowned.
+
+“She left him out.”
 
 Mrs Bell adjusted her glasses.
 
-“That correction note is unusual. It may mean the clerk entered the father from the birth record, then the bride refused to have it carried forward.”
+“The register tells you what was recorded. It does not tell you why a detail was not supplied.”
 
-Claire stared at the line.
+Claire looked at her with immediate affection.
 
-Eleanor had known enough to refuse him.
+“Exactly.”
 
-Or enough to fear the name.
+Adrian sighed.
 
-The third record was Margaret Mercer’s birth.
+“You have found your people.”
 
-Mother: Eleanor Miriam Mercer, formerly Vane.
+Claire pointed to the blank field.
 
-Father: Thomas James Mercer.
+“We know the 1926 birth entry names Sebastian. We know this 1956 marriage entry does not. We do not know whether Eleanor withheld the name deliberately, whether it was omitted for some procedural reason or whether the registrar simply recorded what was supplied.”
 
-Margaret’s date of birth matched Claire’s mother exactly.
+“So I am not allowed to interpret resentment.”
 
-The chain was now documentary.
+“You are allowed privately. Not in the evidence log.”
 
-Not complete to Celeste’s death, not complete to title, but complete enough that Claire no longer needed to call the family connection a hypothesis.
+“That sounds almost generous.”
 
-Eleanor Vane had become Eleanor Mercer.
+The marriage record did prove something else cleanly.
 
-Eleanor Mercer had been Margaret Mercer’s mother.
+The Eleanor Vane from the 1926 birth trail was the same woman who married Thomas Mercer.
 
-Margaret Mercer had been Claire’s.
+Birth date.
 
-She sat back.
+Middle name.
 
-Adrian said, “Are you all right?”
+Address continuity.
+
+Mother’s details in the supporting record.
+
+The surname changed in 1956.
+
+What did not exist yet was a documentary bridge from that Mercer household to Claire.
+
+Claire wrote the distinction in her notebook before her own name could do the reasoning for her.
+
+**Eleanor Vane → Eleanor Mercer established. Connection to Claire Mercer not established.**
+
+Adrian watched her.
+
+“You are writing yourself a warning.”
+
+“Yes.”
+
+“Do you need one?”
+
+“Especially now.”
+
+The final certified item concerned Margaret Mercer only indirectly: a later index reference Imogen had identified but had not yet confirmed as Claire’s mother. The dates were plausible, but Claire refused to let plausibility become ancestry without the next records.
+
+She put it aside.
+
+“Not enough.”
+
+Adrian did not argue.
+
+That pleased her more than it should have.
+
+They left the registry office with the certified copies in a sealed document wallet and walked two blocks to a café before the drive north.
+
+Adrian waited until they were seated before speaking.
+
+“Are you all right?”
+
+Claire stared into her coffee.
 
 “No idea.”
 
 A truthful answer.
 
-Mrs Bell left them for several minutes.
+“Does the blank father line upset you?”
 
-Claire looked again at Eleanor’s birth record.
+“No.”
 
-At the bottom, beneath the registration details, was a notation for next of kin supplied during a later administrative query.
+“The Mercer name?”
 
-**Miriam Vane.**
+“Yes.”
 
-Not Sebastian.
+“Because you think she might be—”
 
-Not any Raven.
+Claire looked at him.
 
-Miriam.
+He stopped.
 
-Claire touched the edge of the paper.
+“Sorry.”
 
-“She took her.”
+“Thank you.”
 
-Adrian said, “Away from him.”
+He leaned back.
 
-“Probably.”
+“What can I ask?”
 
-“Claire.”
+The question was simple and, after the note, unexpectedly moving.
 
-She looked at him.
+“You can ask what I am thinking. You cannot tell me what the evidence means about my family before I know.”
 
-He had not touched her because the room was public and because he had been careful since the note.
+“What are you thinking?”
 
-She reached for his hand first.
+“That if this Eleanor is connected to me, my mother either did not know or did not tell me.”
 
-His fingers closed around hers.
+“Which is worse?”
 
-For once, she did not translate the gesture into anything else.
+“I do not know.”
 
-They left with certified copies in a tamper-evident envelope and drove north under a clean, hard sky.
+Adrian considered.
 
-Halfway back, Adrian said, “There is a hotel in Alnwick with very bad paintings and decent food.”
+“Your professional betrayal.”
+
+Claire looked up.
+
+“What about it?”
+
+“You said someone took your research and made you an assistant in your own work.”
+
+“Yes.”
+
+“If your mother knew something about your family and decided not to tell you, would it feel like the same kind of theft?”
+
+Claire had not framed it that way.
+
+She did not like how close he came.
+
+“Possibly.”
+
+He nodded.
+
+No advice.
+
+No defence of the dead.
+
+They drove north under a clean, hard sky.
+
+Halfway back, Adrian said, “There is a hotel in Alnwick with terrible paintings and decent food.”
 
 Claire looked at him.
 
@@ -209,15 +301,15 @@ Not because Marcus’s omission disappeared.
 
 Because Adrian did not ask it to.
 
-At dinner they spoke about things that had nothing to do with Raven House.
+At dinner they spoke about things Raven House had not touched.
 
-Claire told him about the first building she had ever loved: a municipal library in Leeds whose concrete stair had made her understand that usefulness could be beautiful.
+Claire told him about the first building she had ever loved: a municipal library in Leeds whose concrete stair made her understand that usefulness could be beautiful.
 
-Adrian told her he had studied economics because his father considered art history insufficiently defensive against bankruptcy.
+Adrian told her he had studied economics because Marcus considered architecture insufficiently defensive against bankruptcy.
 
-“You wanted art history?”
+“You wanted architecture?”
 
-“Architecture, actually.”
+“For about five years.”
 
 Claire stared at him.
 
@@ -228,6 +320,34 @@ Claire stared at him.
 “It is practically evidence tampering.”
 
 He smiled.
+
+“What stopped you?”
+
+“My father.”
+
+“That simple?”
+
+“No. I let my father stop me. Different sentence.”
+
+Claire heard the responsibility in the correction.
+
+“What did he want?”
+
+“Something useful to the estate. Economics, law, land management. He never ordered me. He simply made every other choice sound adolescent.”
+
+“That was efficient.”
+
+“He was an efficient man.”
+
+“Did you resent him?”
+
+“Sometimes.”
+
+“Do you now?”
+
+Adrian looked at his glass.
+
+“Now I want to know what he was afraid of when he wrote *find Mercer*.”
 
 After dinner they walked through cold streets to the hotel.
 
@@ -249,15 +369,43 @@ Claire looked at him.
 
 “That is reassuring.”
 
-She took his hand.
+He did not move closer.
+
+Claire took his hand.
 
 “I am here because I want to be.”
 
+Adrian searched her face.
+
+“Even though you are still angry.”
+
+“Yes.”
+
+“I do not want tonight to become evidence that you forgave me.”
+
+Claire’s throat tightened.
+
+“That may be the best thing you have said all week.”
+
+“Very low bar.”
+
+“Yes.”
+
 The room was warm, anonymous and blessedly free of family history.
 
-They kissed slowly at first, then without the patience they had exercised in Raven House. Claire felt the relief of being wanted without being interpreted, and of wanting someone without needing to turn the feeling into a conclusion.
+They kissed slowly at first.
 
-Later, the lights were off and the city beyond the curtains had gone quiet.
+Not the careful discovery-room kiss.
+
+Something with less curiosity and more recognition.
+
+Claire felt the relief of being wanted without being interpreted, and of wanting someone without having to convert the feeling into a conclusion.
+
+When Adrian paused, she was the one who drew him back.
+
+The choice remained hers each time.
+
+Later, the city beyond the curtains had gone quiet.
 
 Adrian lay beside her.
 
@@ -265,7 +413,7 @@ Adrian lay beside her.
 
 “Yes.”
 
-“You’re very soothing.”
+“You are very soothing.”
 
 “I was not hired for soothing.”
 
@@ -273,36 +421,72 @@ He laughed softly.
 
 Claire turned onto her side.
 
-“I’m not promising that I’m over the note.”
+“I am not promising I am over the note.”
 
 “I know.”
 
+She gave him a look.
+
+He corrected himself.
+
+“I hear you.”
+
+“Better.”
+
 “I may become angrier when I understand more.”
 
-“I know that too.”
+“I hear that too.”
 
 “And if the legal position changes—”
 
-“We get independent advice.”
+“We get independent advice. Your solicitor, not mine. Evidence copied outside Raven House.”
 
-She studied him in the dark.
+Claire studied him in the dark.
 
 “Good.”
 
 He reached for her hand under the sheet.
 
-In the morning, Imogen sent the full set of identity-continuity references.
+In the morning, Imogen sent the identity-continuity references she had been tracing outside the civil register.
 
-One line mattered most.
+School admission rolls.
 
-**Eleanor’s next of kin throughout childhood: Miriam Vane. No Raven guardian appears in the records located so far.**
+A doctor’s ledger.
 
-Claire read it while Adrian made coffee.
+A wartime evacuation list prepared later, when Eleanor was a teenager.
+
+An electoral address once she was old enough to appear.
+
+Every surviving childhood record Imogen had found placed Eleanor at Miriam’s address. Where an adult contact was named, it was Miriam Vane.
+
+No Raven adult appeared.
+
+A second message followed.
+
+**This proves who was caring for her in practice, not who a court would have treated as guardian. With Sebastian alive, do not collapse those questions. Checking for court/guardianship records.**
+
+Then a third.
+
+**Post-1956 Mercer descendants still being traced. Nothing yet responsibly connects Eleanor to you. Leave it alone until I can prove or disprove it.**
+
+Claire read all three while Adrian made coffee.
 
 Miriam had not merely helped.
 
-She had functioned as Eleanor’s family in law and practice.
+She had been the adult who appeared whenever Eleanor’s ordinary life required one.
 
-Whatever Sebastian had been privately, he had left no public fatherhood behind.
+Whether a court had ever formalised the arrangement was separate.
 
-The omission was becoming less like accident and more like architecture.
+Whatever Sebastian had been privately, he had left almost no visible fatherhood in Eleanor’s surviving childhood record.
+
+And whatever the surname Mercer might eventually mean to Claire, the record did not yet belong to her.
+
+That uncertainty was uncomfortable.
+
+It was also honest.
+
+For now, the more important fact was simpler.
+
+Eleanor had been raised outside the Raven household by the woman who stood beside Celeste in the photograph.
+
+The omission was beginning to look less like accident and more like design.

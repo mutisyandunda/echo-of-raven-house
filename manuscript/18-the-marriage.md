@@ -3,33 +3,32 @@ chapter: 18
 title: "The Marriage"
 act: "IIA"
 pov: "Claire Mercer"
-status: draft
+status: final-revision
 target_words: 2550
-clues: "C10"
+clues: "C10 seed; Mercer surname convergence"
 red_herrings: "None"
-romance_beat: "They openly choose investigation and relationship"
+romance_beat: "They openly choose investigation and relationship while establishing conflict boundaries"
 ---
 
 # Chapter 18: The Marriage
 
 ## Chapter purpose
-Imogen authenticates the marriage; a linked birth index identifies Eleanor Vane, born 1926.
+Imogen authenticates the certified marriage copy, follows the likely daughter into civil records, and proves that Eleanor Vane later becomes Eleanor Mercer without yet linking that Mercer line to Claire.
 
 ## Mystery movement
-- **Clues:** C10
-- **Red herrings:** None
-- Evidence must be observed before it is interpreted.
-- POV inference cannot exceed the physical/documentary record.
+- **Clues:** C10 seed; Mercer surname convergence
+- The child clue becomes a civil-record trail.
+- Claire’s personal ancestry remains unproved until Chapter 23.
 
 ## Romance / relationship movement
-They openly choose investigation and relationship.
+Claire and Adrian choose to continue personally only after naming the professional conditions that may eventually separate their interests.
 
 ## End hook
-Eleanor later carries surname Mercer.
+The same Eleanor Vane becomes Eleanor Mercer; Claire’s surname is now a live question rather than an answer.
 
 ## Draft
 
-Imogen arrived at Raven House with two laptops, a scanner and the expression of someone preparing to disappoint several dead people.
+Imogen arrived at Raven House with two laptops, a portable scanner and the expression of someone preparing to disappoint several dead people.
 
 Claire met her in the entrance hall.
 
@@ -47,75 +46,97 @@ Adrian appeared from the library.
 
 “I may revise my opinion.”
 
-They worked in the library.
+Claire took one of Imogen’s bags.
 
-Imogen examined the certified marriage copy under magnification, compared seals and typography against known examples, checked the registrar’s name, paper stock and issue format.
+“You are not enjoying this.”
 
-“It is not a modern fabrication,” she said eventually.
+“I am enjoying your discomfort with the phrase *may have been*.”
+
+“That is different.”
+
+They worked in the library under conditions Claire trusted more because Imogen was there to distrust them with her.
+
+The certified marriage copy came first.
+
+Imogen examined paper, seal impression, typography, registrar name, issue format and signatures against reference material she had brought. She checked the certificate number against the civil index and photographed details beneath magnification.
+
+“It is not a modern fabrication,” she said after nearly an hour.
 
 Claire leaned on the table.
 
 “How far will you go?”
 
-“Far enough to say this is consistent with a genuine certified copy issued from a 1924 marriage entry. Final authentication should still go through an archival conservator and the register office if we can establish provenance.”
+“Far enough to say it is consistent in every material and documentary feature I can check with a genuine certified copy issued from the 1924 entry. I still want the GRO’s modern copy when it arrives and a paper conservator’s report for the file.”
 
 Adrian said, “But?”
 
-“No but.” Imogen looked at him. “Celeste Vane and Sebastian Raven married in 1924.”
+Imogen looked at him.
 
-Claire felt the sentence settle differently when spoken by someone outside the house.
+“No but. Celeste Vane and Sebastian Raven married in September 1924.”
+
+Claire felt the sentence settle differently when spoken by someone who did not live in the house and had no emotional interest in what Raven history preferred.
 
 Raven House had stopped being the only witness.
 
-Imogen opened another file.
+Adrian sat back.
 
-“And since you enjoy making my weekends difficult, I followed the daughter.”
+Imogen continued.
 
-Claire sat down.
+“And since you enjoy turning my weekends into genealogical litigation, I followed the child.”
 
-“Eleanor.”
+Claire sat down too.
 
-“Eleanor Miriam Vane. Birth registered first quarter 1926.”
+“The E?”
+
+“The likely E. Eleanor Miriam Vane. Birth registered first quarter 1926.”
 
 Adrian moved closer.
 
-“Father?”
+“Mother?”
 
-“The public index does not display the full entry. But the mother’s maiden name field is blank in the way expected where the mother’s registered surname is Vane and the parents’ status needs the full certificate to interpret. I ordered a copy.”
+“The index is consistent with Vane. I have ordered the full certificate. Until it arrives, we do not pretend an index tells us more than it does.”
 
-“When?”
+Claire gave her a look.
 
-“Yesterday.”
+“You are becoming unbearable.”
 
-“You work quickly.”
+“I learned from you.”
 
-“Unlike the dead, I answer email.”
+Imogen turned the laptop.
 
-Claire ignored the joke.
+The birth-index entry matched the name, quarter and district she had located through Celeste’s correspondence and Miriam’s address trail.
 
-“Anything else?”
+No Raven surname attached to the child.
 
-Imogen’s eyes flicked to her.
+No public family record Claire had seen contained her.
 
-“Yes.”
+“Any school record?” Claire asked.
 
-She turned the laptop.
+“Too early. I am tracing addresses through electoral registers and local directories first.”
 
-A later index line appeared on screen.
+“Good.”
+
+Adrian said, “You two sound happiest when you have homework.”
+
+Neither answered.
+
+Imogen opened the next record.
 
 **Eleanor Vane — marriage, 1956. Spouse: Mercer.**
 
-Claire did not understand at first.
-
-Then the surname reached her.
-
-Mercer.
+Claire did not move.
 
 Adrian looked at her.
 
-Imogen said nothing.
+Imogen watched both of them with the expression of a scientist observing people touch a hot object after being warned.
 
-Claire leaned closer to the screen as if proximity could change the letters.
+Mercer.
+
+Not proof of Claire.
+
+Still, after Talia’s letter to M. Mercer, Marcus’s unexplained note and the burned genealogy, the surname had stopped being background noise.
+
+Claire leaned closer.
 
 “Where?”
 
@@ -125,243 +146,291 @@ Claire leaned closer to the screen as if proximity could change the letters.
 
 “Thomas Mercer.”
 
-Claire’s grandmother Eleanor had married a Thomas Mercer.
+“Age?”
 
-She knew that.
+“Consistent with Eleanor’s 1926 birth. Address continuity is promising. I have ordered the marriage certificate and I am checking post-marriage electoral rolls.”
 
-Not from records. From family photographs and a few stories her mother had told without much context.
+“Do not call them the same woman yet,” Claire said.
 
-Grandad Tom. Died before Claire was born.
+“I was about to tell you not to.”
 
-Grandmother Eleanor, who had disliked being photographed and kept letters in biscuit tins.
+Adrian looked between them.
 
-Claire sat very still.
+“You both realise this is becoming absurd.”
 
-“There are many Eleanor Mercers.”
+“No,” Claire said. “It is becoming specific.”
 
-“Of course,” Imogen said.
+Her surname appeared at the bottom of every professional report she had filed from Raven House.
 
-It was the right response. No false reassurance.
+That did not make Eleanor hers.
 
-Claire searched her memory.
+Mercer was common enough. Thomas was common enough. A woman born in 1926 marrying a Mercer in 1956 could belong to a family story unrelated to Claire’s.
 
-“My grandmother was born in 1926.”
+But Talia had reacted to Claire’s name before any of them knew Eleanor’s later surname.
 
-Adrian’s face changed.
+That mattered.
 
-“Claire.”
+“Do not make the leap,” Claire said.
 
-“She died in 2001.”
+Adrian’s mouth tightened. “I was not going to.”
 
-Imogen typed.
+“You were looking at me.”
 
-The death index appeared.
+“You are called Mercer.”
 
-**Eleanor Mercer. Birth date: 14 February 1926.**
+“So are thousands of other people.”
 
-The same birth date attached to Eleanor Miriam Vane in the registration search.
+Imogen said, “Claire is right. At this stage we have convergence, not ancestry.”
 
-Claire stared.
+“Thank you.”
 
-Not proof of parentage yet.
+“I was speaking to both of you.”
 
-But no longer coincidence worth dismissing.
+They returned to the marriage certificate.
 
-Imogen said quietly, “I found one more thing. Margaret Mercer’s birth registration, 1958. Mother’s maiden surname listed as Vane.”
+Imogen had widened the dissolution search to national divorce indexes, reported proceedings and likely jurisdictions connected with Sebastian’s travel. Nothing had appeared.
 
-Claire closed her eyes.
+“So bigamy?” Adrian asked.
 
-Her mother.
+“Probable,” Imogen said. “Not yet the only legally possible explanation.”
 
-Margaret.
+Claire smiled.
 
-Mother’s maiden name of the mother: Vane.
+Adrian pointed at her. “You have infected her.”
 
-Eleanor Vane Mercer had been Margaret Mercer’s mother.
+“She was worse when I met her.”
 
-Claire’s grandmother.
+The humour helped, but only briefly.
 
-The room seemed suddenly full of every time Talia had looked at Claire’s surname.
+Claire put Celeste’s 1924 certificate beside the 1928 newspaper photograph of Sebastian and Evelyn.
 
-Every pause.
+The contrast was indecent.
 
-Every refusal.
+The legal marriage: quiet, civil, two witnesses, almost invisible.
 
-Every sentence about inheritance.
+The public marriage: white roses, society pages, family names printed in bold, photographs preserved in albums for generations.
 
-Adrian sat beside her.
+One relationship had been recorded by the state and erased by the family.
 
-He did not touch her immediately.
+The other had been recorded by the family so thoroughly that everyone later mistook publicity for legitimacy.
 
-“Do you want us to stop?” he asked.
+Adrian stared at the two documents.
 
-“No.”
+“My grandmother may not have known.”
 
-The answer was instinctive.
+Claire looked at him.
 
-Claire opened her eyes.
+“That is possible.”
 
-“No. We verify.”
+“Or she knew and married him anyway.”
 
-Imogen nodded.
+“Also possible.”
 
-“That is what I expected you to say.”
+“Which do you think?”
 
-The birth certificate for Eleanor would matter. The hidden photograph would matter. Celeste’s letter about Sebastian’s blood would matter. Nothing alone would be allowed to carry the whole claim.
+“I think wanting one answer because it makes her easier to forgive is not a method.”
 
-But the shape was there.
+He exhaled.
 
-Claire’s own family had entered Raven House long before she did.
+“That was deserved.”
 
-Adrian said, “My father’s note.”
+Imogen glanced between them.
 
-Claire turned to him.
+“I see the holiday romance is going well.”
 
-“Yes.”
+Claire gave her a warning look.
 
-He stood.
+Adrian said, “It is not a holiday.”
 
-“I’ll get it.”
+“Even worse.”
 
-This time she did not let him delay.
+They broke for lunch only when Elspeth arrived and informed them that coffee did not qualify as food simply because it contained milk.
 
-“Now.”
+Imogen took Claire outside under the excuse of needing air.
 
-He nodded.
+They walked along the terrace where the stone was still damp from overnight rain.
 
-When he left, Imogen watched the doorway.
+“You and Adrian?” Imogen said.
 
-“You are sleeping with him yet?”
+Claire looked at her.
 
-Claire stared at her.
+“What about us?”
 
-“No.”
+“You have the expression.”
 
-“Kissed?”
+“What expression?”
 
-“That is not relevant.”
+“The one competent people get when they have made a decision they would advise clients not to make.”
 
-“So yes.”
+Claire folded her arms.
+
+“We kissed.”
+
+“Only kissed?”
 
 “Imogen.”
 
-“I am asking because you may be a potential claimant to property he is trying to sell.”
+“I am not gossiping. Well, I am, but I am also asking because Mercer has moved from coincidence to potentially material fact.”
 
-That stripped the humour out of it.
+“Potentially.”
 
-Claire looked at the marriage index again.
-
-“I know.”
-
-“Do you?”
-
-“Yes.”
-
-“Then establish professional boundaries now. Independent advice if this becomes legal. Written disclosure. No decisions about evidence because of the relationship.”
-
-Claire felt irritation and gratitude arrive together.
+“Yes. If evidence ever links you personally to Eleanor, you need independent legal advice immediately. Not after feelings become useful excuses.”
 
 “I know how conflicts work.”
 
 “I know you know. Knowing is not immunity.”
 
-Claire said nothing.
+Claire disliked the sentence because it was correct.
 
-Imogen softened.
+“Nothing links me to Eleanor.”
 
-“Also, for the record, I like him.”
+“Not yet.”
 
-“You have spoken to him for forty minutes.”
+There was the word again.
 
-“I am capable of recklessness in low-stakes matters.”
+Claire looked towards the house.
 
-Adrian returned carrying a sealed envelope.
+“Adrian has not interfered with the archive.”
 
-He placed it on the table.
+Imogen’s expression sharpened.
 
-“My father’s handwriting.”
+“That is not the same as transparency.”
 
-Claire did not reach for it.
+Claire thought of Marcus’s note.
 
-“Before we open that,” she said, “we need to say something out loud.”
+Still unseen.
 
-Adrian glanced at Imogen, then back at Claire.
+Of Adrian admitting Mercer had caught his attention before she arrived.
 
-“All right.”
+Of Talia wishing the note had been burned.
 
-“If Eleanor Vane Mercer is my grandmother, and if she is Celeste and Sebastian’s daughter, then I may have an interest in what happens to Raven House beyond being your archivist.”
+“That conversation is unfinished,” she said.
+
+“Then finish it before your interests become harder to separate.”
+
+Back inside, Adrian had moved the certified marriage copy into its protective sleeve and completed the chain-of-custody entry without being asked.
+
+Claire noticed.
+
+He noticed her noticing.
+
+“You look worried.”
+
+“I am thinking.”
+
+“More dangerous.”
+
+“Imogen says if Mercer ever becomes personal, I need independent advice.”
 
 “Yes.”
 
-“That means I need independent legal advice if the evidence gets that far.”
+The answer was immediate.
+
+“You agree?”
+
+“Of course.”
+
+“My work remains independent of whatever this is between us.”
 
 “Yes.”
 
-“You do not get to ask me to protect you from findings.”
+“You do not ask me to protect you from findings.”
 
 “I won’t.”
 
-“And whatever this is between us does not change that.”
+“And you do not decide that uncertain information affecting me is better withheld until you understand it.”
 
-Adrian held her gaze.
+Something moved across his face.
 
-“No.”
+Claire saw it.
 
-Claire heard the truth in it.
+Stored it.
 
-Not certainty about the future. A decision about conduct.
+“No,” he said.
+
+The word was quiet.
 
 “Good.”
 
-Imogen said, “Very romantic.”
+The afternoon brought one more piece.
 
-Neither of them looked at her.
+Imogen found electoral continuity after 1956.
 
-Later, after Imogen left with scans and a promise to chase Eleanor’s full birth certificate, Claire found Adrian in the library doorway.
+Eleanor Vane at the York marriage address became Eleanor Mercer at the same address the following year, then moved with Thomas Mercer to Leeds in 1959.
 
-The sealed note from Marcus remained unopened on the table.
+Same birth year.
 
-“We can wait until tomorrow,” he said.
+Same middle initial.
 
-“No. But I need five minutes where I am not someone’s possible descendant.”
+Same woman beyond reasonable genealogical doubt.
+
+Claire wrote:
+
+**Eleanor Miriam Vane → Eleanor Mercer, identity continuity established. Relationship to Claire Mercer: unknown.**
+
+Adrian read the note upside down.
+
+“You wrote unknown in capitals.”
+
+“Because my brain keeps trying to cheat.”
+
+“You think she might be related to you.”
+
+“I think the pattern is strong enough to require me not to trust my instinct.”
 
 He nodded.
 
+“That is a very strange form of self-awareness.”
+
+“It is effective.”
+
+Imogen packed up after six with scans, notes and a promise to chase the full birth certificate.
+
+At the front door she hugged Claire and said quietly, “Make him show you the note.”
+
+“I will.”
+
+“Before you sleep with him.”
+
+Claire stared at her.
+
+Imogen smiled and left.
+
+Adrian appeared behind Claire.
+
+“What did she say?”
+
+“That she admires your coffee.”
+
+“Terrifying woman.”
+
 They went outside.
 
-The rain had cleared completely. Evening lay bright over the western lawn, and Raven House looked almost simple from a distance.
+Evening lay bright over the western lawn, and Raven House looked almost simple from a distance.
 
 Claire hated it a little for that.
 
 Adrian stood beside her.
 
-“I’m sorry,” he said.
+“This could become ugly,” he said.
 
-“For what?”
+“Yes.”
 
-“For bringing you into this without understanding what it might be.”
+“If Eleanor Mercer is connected to you—”
 
-“You could not have understood.”
-
-“I knew the name Mercer mattered.”
-
-“That conversation is coming.”
+“We do not know that.”
 
 “I know.”
 
+“But if she is, we change the professional structure immediately.”
+
+“Yes.”
+
+“Independent advice. Written conflict management. Evidence copied outside the house.”
+
+“Yes.”
+
 Claire looked at him.
-
-“This could become ugly.”
-
-“Yes.”
-
-“You could lose the house.”
-
-“Yes.”
-
-“I might discover my family was harmed by yours.”
-
-“Yes.”
 
 “You still want me here?”
 
@@ -369,21 +438,37 @@ His answer came without performance.
 
 “Yes.”
 
-Claire stepped closer.
-
 “And personally?”
 
 “Yes.”
 
-This time when she kissed him there was no hesitation about whether it belonged to the investigation.
+She stepped closer.
+
+“This is a choice with incomplete information.”
+
+“Most choices are.”
+
+“That is not an excuse to withhold the information you do have.”
+
+His expression tightened.
+
+“No.”
+
+“Tomorrow, Marcus’s note.”
+
+“Tomorrow.”
+
+Claire kissed him.
+
+There was no hesitation about whether the kiss belonged to the investigation.
 
 It did not.
 
-It belonged to two people making a choice while understanding, at least partly, why the choice might become difficult.
+It belonged to two people choosing each other while acknowledging that evidence might later make the choice difficult.
 
 When they separated, Adrian touched his forehead to hers.
 
-“Terrible professional judgement,” he said.
+“Terrible professional judgement?”
 
 “Potentially.”
 
@@ -393,14 +478,14 @@ She smiled.
 
 “Yet.”
 
-Back inside, Claire opened her laptop one more time.
+Back inside, Claire opened her laptop one last time.
 
 Imogen had sent a final message.
 
-**Found electoral roll continuity after marriage. Eleanor Vane becomes Eleanor Mercer. Same woman. Working on link to Margaret.**
+**Confirmed: Eleanor Vane and Eleanor Mercer are the same woman. No evidence yet that she belongs to your Mercer line. Do not cheat.**
 
 Claire read it twice.
 
-The name Mercer had not wandered into Raven House by accident.
+Then she looked at her own surname in the corner of the screen.
 
-It had come out of it.
+For the first time, Mercer felt less like the name she had brought into Raven House than a question the house had been waiting decades to ask.

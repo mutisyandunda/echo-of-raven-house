@@ -3,29 +3,28 @@ chapter: 8
 title: "The West Stair"
 act: "I"
 pov: "Claire Mercer"
-status: draft
+status: final-revision
 target_words: 2500
 clues: "C14/C15 seed, C22"
 red_herrings: "R1"
-romance_beat: "Physical closeness without kiss"
+romance_beat: "Physical closeness without a kiss; Adrian respects Claire’s competence after catching her"
 ---
 
 # Chapter 8: The West Stair
 
 ## Chapter purpose
-Claire follows footsteps at night and nearly falls at the oddly open landing. Filled screw holes show a missing fitting.
+Claire follows plausible human movement at night, nearly steps through the unprotected west-stair opening, and establishes that a substantial barrier once occupied the gap.
 
 ## Mystery movement
 - **Clues:** C14/C15 seed, C22
 - **Red herrings:** R1
-- Evidence must be observed before it is interpreted.
-- POV inference cannot exceed the physical/documentary record.
+- The modern footprint keeps the present-day mystery human even while the house manipulates sound.
 
 ## Romance / relationship movement
-Physical closeness without kiss
+Danger creates physical closeness, but attraction is not mistaken for trust or consent.
 
 ## End hook
-The stair was designed to have something where empty space now is.
+The stair was designed to have a protective fitting exactly where open air now begins.
 
 ## Draft
 
@@ -35,15 +34,17 @@ Not loud ones.
 
 That was what made them difficult to dismiss.
 
-A board answered somewhere beyond her bedroom wall, then another farther away. A pause. Two more steps. The pattern was irregular but purposeful, as though someone were trying not to be heard and had underestimated how efficiently Raven House carried small sounds.
+A board answered somewhere beyond her bedroom wall. Then another farther away. A pause. Two more steps.
+
+The pattern was irregular but purposeful, as though someone were trying not to be heard and had underestimated how efficiently Raven House carried small sounds.
 
 Claire opened her eyes.
 
-The bedside clock read 1:17.
+1:17.
 
-Rain had stopped. Without it, the house felt acoustically naked.
+Rain had stopped sometime after midnight. Without it, the house felt acoustically exposed. Pipes ticked inside walls. Timber settled. Somewhere far below, a door moved against a draught and found its latch.
 
-She lay still and listened.
+She lay still.
 
 Nothing.
 
@@ -51,61 +52,107 @@ Then a soft impact travelled through the wall behind the wardrobe.
 
 Claire sat up.
 
-She had spent enough of the week demonstrating to Adrian that unexplained noises were not ghosts. Timber contracted. Pipes moved. Wind found pressure differences. A building of this size contained a permanent orchestra of physical causes.
+She had spent the better part of two days demonstrating that unexplained noises were not evidence of ghosts. Air changed pressure. Old pipes knocked. Speaking tubes detached sound from source. People forgot who was in which room.
 
 But pipes did not usually pause outside doors.
 
-She pulled on trousers and a jumper, slipped her phone into one pocket and a small torch into the other.
+She pulled on trousers and a jumper, slipped her phone into one pocket and a torch into the other.
 
-The corridor was unlit.
+At the bedroom threshold she hesitated.
 
-She left her door open by three inches.
+The sensible choice was obvious.
 
-Professional paranoia, she told herself. Or simply not being stupid.
+Wake Elspeth. Call Adrian. Wait.
+
+Then another board moved in the corridor, followed by the faintest click of a service latch.
+
+The archive occupied rooms below and west of her. Someone had already been using the concealed routes recently. If the sound belonged to a person entering those spaces, time mattered.
+
+Claire left her door open three inches and sent Adrian a message before moving.
+
+**Heard movement west side. I’m checking from corridor only. Awake?**
+
+The message showed delivered but unread.
+
+Better than disappearing without trace.
+
+She took the main corridor towards the west stair.
+
+The hall was unlit except for low emergency lights at the central landing. Raven House had plenty of electricity and still managed to feel designed for candles when everyone else was asleep.
 
 At the stair hall she stopped.
 
 A floorboard shifted below.
 
-Claire aimed the torch towards the sound.
+Claire aimed the torch downwards.
 
-The west stair descended in two broad flights around an open central void. By day, it was one of the house’s most elegant spaces: pale stone treads, a black-painted iron balustrade, a long vertical window filtering northern light through old glass.
+The west stair descended in two broad flights around an open void. By day it was one of the house’s most controlled spaces: pale stone treads, black-painted ironwork, a long vertical window filtering northern light through old glass.
 
 At night, the geometry changed.
 
-Her torch reduced the staircase to fragments: railing, landing, wall, darkness between.
+Her beam reduced the stair to fragments.
 
-Another step.
+Rail.
 
-Below her.
+Landing.
+
+Wall.
+
+Darkness between.
+
+Another step sounded below.
 
 “Hello?”
 
 No answer.
 
-The sensible thing was to go back to her room, lock the door and call Adrian.
+Claire remained on the upper landing.
 
-Claire took one step downward.
+The lower sound came again, followed by the almost inaudible scrape of something crossing stone.
 
-She told herself she was not following a ghost. She was establishing whether someone had entered an area containing an unprocessed archive.
+Her phone vibrated.
 
-Three steps later, she heard movement across the lower landing.
+Adrian.
 
-She quickened.
+**Awake. Stay where you are. Coming.**
 
-The torch beam caught the edge of a door closing.
+Claire nearly smiled at the command and disliked that she did.
+
+She did not intend to obey the wording.
+
+She did intend to wait long enough not to make herself impossible to locate.
+
+Then her torch caught movement at the lower landing.
+
+Not a person.
+
+The edge of a door closing.
 
 “Wait.”
 
-She reached the intermediate landing, turned sharply and put her right foot where she expected another strip of floor.
+Claire went down three steps, still within the balustrade.
 
-There wasn’t one.
+The door vanished from view.
 
-Her body moved before thought.
+She took two more.
 
-One hand struck the wall. The other found nothing.
+The intermediate landing turned more sharply than the upper flight. Claire followed the wall with the torch, trying to relocate the service door.
 
-For half a second she was balanced over open air.
+She heard a footstep below and quickened by one pace.
+
+Her right foot went where the visual line of the railing told her floor should continue.
+
+There was nothing there.
+
+The world changed instantly from architecture to gravity.
+
+Her boot met the edge of stone and slid.
+
+One hand struck the wall.
+
+The other found air.
+
+For half a second Claire’s weight tipped beyond the landing.
 
 Then an arm locked around her waist and pulled her backward hard enough that her shoulder hit a chest behind her.
 
@@ -117,11 +164,11 @@ Claire did not breathe.
 
 Adrian’s hand was spread against her ribs.
 
-“Don’t move.”
+“Do not move.”
 
-His voice was low and close to her ear.
+His voice was low beside her ear.
 
-“I wasn’t planning to.”
+“I had reached that conclusion.”
 
 “You nearly went over.”
 
@@ -133,11 +180,19 @@ The use of her name held more anger than volume.
 
 She looked down.
 
-The landing did not end where the upper balustrade taught the body to expect it to end. A section roughly a metre wide opened directly onto the void above the lower flight. No rail. No post. No gate. Just stone edge.
+The landing did not end where the upper balustrade trained the body to expect it to end. A section roughly a metre wide opened directly onto the void above the lower flight.
 
-In daylight it might have read as an architectural oddity.
+No rail.
 
-At night, approaching from the wrong angle, it became a trap.
+No post.
+
+No gate.
+
+Just stone edge and several metres of air.
+
+In daylight, approached straight on, the opening read as an eccentricity.
+
+At night, turning quickly, it became a trap created by expectation.
 
 Adrian released her slowly.
 
@@ -145,17 +200,21 @@ The absence of his hand registered more strongly than its presence had any right
 
 “What are you doing here?” she asked.
 
-“I heard my houseguest walking around at one in the morning.”
+“You messaged me.”
 
-“You heard me?”
+“That was less than a minute ago.”
 
-“I heard someone. Then I saw your door open.”
+“My room is twenty metres away.”
 
-Claire bent to retrieve the torch.
+“You run quietly.”
+
+“I heard you move before the message.”
+
+Claire bent towards the fallen torch.
 
 Adrian caught her wrist.
 
-“Stay where you are.”
+“Stay there.”
 
 She looked at his hand.
 
@@ -165,29 +224,27 @@ He let go immediately.
 
 “No. That one was justified.”
 
-He crouched instead and picked up the torch.
+He crouched instead and retrieved the torch.
 
-The beam illuminated the empty section of landing.
+The beam illuminated the open edge.
 
 Adrian stared at it.
 
-“I hate that,” he said.
+“I hate that.”
 
 “You knew it was there.”
 
-“I know the stair. I don’t usually approach it in the dark while following noises.”
+“I know the stair. I do not usually approach the landing in the dark while somebody else is moving through it.”
 
 Claire looked at him.
 
-He returned the look.
+“Point taken.”
 
-“Point taken,” she said.
-
-“Record the date.”
+“Please record the date.”
 
 Despite herself, she laughed once.
 
-The sound travelled oddly through the void.
+The sound travelled into the stairwell.
 
 A fraction of it returned from somewhere below, delayed and thinner.
 
@@ -203,13 +260,13 @@ Adrian heard it too.
 
 “I hate it when you use it.”
 
-She took the torch from him and directed it along the landing edge.
+She took the torch and directed it along the landing edge.
 
 The stone was worn, but not uniformly.
 
-Near the wall were two circular patches about the width of a pencil eraser, filled with material slightly lighter than the surrounding stone. Another pair marked the outer edge near the surviving railing post.
+Near the wall were two circular patches, filled with material slightly lighter than the surrounding stone. Another pair marked the outer edge near the surviving railing post.
 
-Claire crouched carefully, keeping well back.
+Claire crouched well back from the opening.
 
 “Look.”
 
@@ -217,7 +274,9 @@ Adrian lowered himself beside her.
 
 Four filled holes.
 
-Not cracks. Not natural inclusions.
+Not natural inclusions.
+
+Not random repairs.
 
 Fixing points.
 
@@ -229,13 +288,13 @@ Claire moved the light across them.
 
 “A barrier.”
 
-“A railing?”
+“A rail?”
 
-“Maybe. Gate, removable rail, decorative screen. Something fixed here.”
+“Could be. Gate. Removable screen. Something fixed at both sides.”
 
-Adrian looked into the void.
+Adrian looked through the gap.
 
-“Why remove it?”
+“Why remove a barrier from here?”
 
 “That is not the first question.”
 
@@ -243,145 +302,137 @@ Adrian looked into the void.
 
 “When.”
 
-She photographed each hole, then the landing in context.
+She photographed the filled points, then the whole landing in context.
 
-The repaired points were old enough that their filler had discoloured, but not old enough to be original finish. At the outer post, a rectangular shadow in the paint suggested something metal had once sat against it.
+At the outer post, a rectangular shadow in the paint suggested metal had once sat against it. The adjacent plaster showed a less-faded patch at waist height.
 
-Claire examined the adjacent wall.
+Claire held the light across the surface.
 
-There, at waist height, was a narrow patch of plaster less faded than the surrounding surface.
+“Hinge plate, perhaps.”
 
-She traced the outline without touching.
+“Perhaps?”
 
-“Hinge plate,” she said.
+“Yes. You are learning my vocabulary.”
 
-“You’re sure?”
+“I hate it.”
 
-“No.”
+“You will survive.”
 
-“But.”
+Adrian looked at the opening again.
 
-“But I would be surprised if it were anything else.”
+“Could the fitting have been removed recently?”
 
-Adrian sat back on his heels.
+“No. The repairs are old. Decades at least, I would think, but Jonah can date the alteration more intelligently in daylight.”
 
-His face had gone still.
+Claire stood.
 
-“Could this have been removed recently?”
+Adrian did too.
 
-“No. Decades, I’d say. We’ll ask Jonah in daylight.”
+The landing suddenly contained too little space.
 
-She stood.
-
-Adrian did the same.
-
-They were too close again.
-
-The stair narrowed the available space without apology. Claire could smell soap, wool, the faint mineral damp of the stone wall behind him.
+He was close enough that she could smell soap, wool and the cold night air that had followed him from his room. His hand had been around her waist less than two minutes earlier. Her body, infuriatingly, remembered where.
 
 Neither moved first.
 
-Then Adrian said, “You were following someone.”
+Then a sound below returned the world to useful categories.
 
-The sentence returned the world to useful categories.
+A door latch.
 
-“Yes.”
+Claire turned.
 
-“Who?”
+“The person I was following.”
 
-“I didn’t see.”
+“Person?”
 
-“Where?”
+“Movement. Lower landing.”
 
-“Lower landing. I saw a door move.”
+“That is better.”
 
-“There isn’t a door there.”
-
-Claire turned the torch downward.
-
-A service door sat beneath the lower flight, almost invisible because it had been painted the same grey as the wall.
-
-“That one.”
-
-Adrian frowned.
-
-“That’s a cupboard.”
-
-“Good. Then cupboards now walk.”
+“Do not sound pleased.”
 
 They descended together.
 
-The service door was shut.
+The service door beneath the lower flight was nearly invisible because it had been painted the same grey as the wall.
 
-Adrian tried the handle.
+Adrian frowned.
+
+“That is a cleaning cupboard.”
+
+“Good. Then cleaning cupboards have learned to move.”
+
+He tried the handle.
 
 Unlocked.
 
-Inside were mops, buckets, two old tins of floor wax and a vertical run of exposed pipework.
+Inside were mops, buckets, old floor wax and a vertical pipe run.
 
 No person.
 
-Claire shone the torch across the floor.
+Claire kept herself at the threshold until Adrian switched on the cupboard light.
 
-Dust lay thick at the rear wall.
+Dust lay thick along the rear floor.
 
-Near the threshold, however, a partial shoe print interrupted it.
+Near the entrance, however, a partial shoe impression interrupted it.
 
 Modern tread.
 
-Deep heel, cross-hatched forefoot.
+Broad heel.
+
+Angular forefoot pattern.
 
 Claire crouched.
 
-Adrian remained in the doorway.
-
 “That yours?”
 
-He looked at his shoes.
+Adrian lifted one foot.
 
-Smooth leather soles.
+Smooth leather sole.
 
 “No.”
 
 “Mine neither.”
 
-She photographed the print.
+She photographed the print with scale and without.
 
-It was not enough to identify anyone. House staff, contractor, family member, delivery worker. But it was recent enough that the edges had not softened.
+It could belong to anyone with access. Staff. Contractors. Family. Delivery worker.
 
-On the wall behind the mop handles, one timber panel sat fractionally proud of the others.
+But it was recent enough that the edges remained sharp.
+
+Behind the mop handles, one timber panel sat fractionally proud of the wall.
 
 Claire pressed it lightly.
 
 It moved.
 
-Adrian swore under his breath.
+Adrian swore.
 
 “Do not open it.”
 
-“I wasn’t going to.”
+“I was not going to.”
 
-“I know. I’m reinforcing my own sanity.”
+“I know. I am reinforcing my own sanity.”
 
-She stood.
+She examined only what was visible.
 
-“Tomorrow. Jonah. Proper light.”
+The panel edges carried old wear and one newer scrape near the bottom.
+
+A route, possibly, into the same service network Jonah had found.
+
+“Tomorrow,” Claire said. “Jonah. Proper light. We log this and leave it.”
 
 “Agreed.”
 
 They closed the cupboard.
 
-As they turned back towards the stair, the house made a sound above them.
+As Adrian turned the handle, three distinct footsteps sounded above them.
 
-Three distinct steps.
-
-Adrian looked up.
+He looked up.
 
 Claire did too.
 
 No one stood on the landing.
 
-Another step sounded from farther away.
+Another step sounded farther away.
 
 Then one behind them.
 
@@ -389,59 +440,59 @@ Adrian’s expression changed.
 
 “Still pipes?”
 
-“Possibly transmission through the floor void.”
+“Could be transmission through the floor void.”
 
-“That was not a convincing answer.”
+“That was not convincing.”
 
-“It wasn’t meant to be.”
+“It was not meant to be.”
 
-They climbed.
+They climbed slowly this time.
 
-At the dangerous landing Claire stopped again, now seeing it differently.
+At the intermediate landing Claire stopped again, seeing the gap differently.
 
 Not as absence.
 
 As removal.
 
-A missing object left evidence. Fixings. Paint shadows. Wear. Changes in how bodies moved through a space.
+A missing object left evidence: filled fixings, paint shadows, abrasion, changes in the way bodies moved through a space.
 
 Architecture remembered subtraction.
 
 Adrian stood beside her.
 
-“My grandfather said Celeste fell on this stair.”
+“My grandfather said Celeste fell on the west stair.”
 
 Claire turned.
 
-It was the first time anyone had located the death precisely.
+It was the first time anyone had located the death with even that much precision.
 
-“You told me only that she died in the house.”
+“You told me only that she died at Raven House.”
 
-“That is what the family says. Accident on the west stair. I never thought the exact landing mattered.”
+“That is the family version. Accident. Stair. I never thought the exact landing mattered.”
 
 “It matters now.”
 
 His gaze went to the open edge.
 
-“Do you think she fell through there?”
+“Do you think she fell there?”
 
 Claire answered carefully.
 
-“I think this landing once had a protective fitting. I think Celeste died somewhere on this stair. I do not yet know whether those facts belong in the same sentence.”
+“I think this landing once had a substantial fitting across the gap. I think Celeste died somewhere on the west stair. I do not yet know whether those facts belong in the same sentence.”
 
 Adrian nodded.
 
-She appreciated that he did not press.
+He did not push her to make the story larger.
+
+She appreciated that more than she wanted to.
 
 They walked back along the corridor.
 
-At her bedroom door, Claire stopped.
+At Claire’s door she stopped.
 
 “Thank you.”
 
 “For what?”
-
-She looked at him.
 
 He looked genuinely surprised.
 
@@ -449,42 +500,52 @@ He looked genuinely surprised.
 
 “That seemed preferable to the alternative.”
 
-“I’m serious.”
+“I am serious.”
 
 “So am I.”
 
-Something in his face shifted again.
-
 The corridor was quiet.
-
-Claire became acutely aware that they were alone, that it was after one in the morning, that his hand had been around her waist and that she could still remember exactly where.
 
 Adrian’s eyes dropped once to her mouth.
 
 Only once.
 
-Then he stepped back.
+Claire felt the answering pull and refused to convert adrenaline into permission.
+
+He stepped back before she needed to.
 
 “Lock the door.”
 
 “From ghosts?”
 
-“From archivists with poor self-preservation.”
+“From archivists with selective self-preservation.”
 
-“Those come through walls.”
+“I sent you a message.”
 
-He smiled.
+“That improved your score from catastrophic to merely irritating.”
 
-“Apparently.”
+“Good night, Adrian.”
 
-Claire closed the door after him.
+“Good night, Claire.”
 
-She did lock it.
+She closed and locked the door.
 
-But sleep did not return quickly.
+Sleep did not return quickly.
 
-Her mind kept reconstructing the landing: filled holes, paint shadow, missing metal, open drop.
+Her mind kept rebuilding the landing.
 
-Celeste Vane had died on the west stair.
+Four filled holes.
 
-And the west stair had been designed to have something exactly where the danger now was.
+A paint shadow.
+
+A missing metal fitting.
+
+An open drop.
+
+A modern shoe print below.
+
+And Celeste Vane, according to the family, dead somewhere on that stair.
+
+Raven House had not merely been designed with something where the danger now was.
+
+Someone had chosen to take it away.
