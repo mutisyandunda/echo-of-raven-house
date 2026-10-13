@@ -3,7 +3,7 @@ chapter: 26
 title: "The Wrong Raven"
 act: "IIB"
 pov: "Claire Mercer"
-status: draft
+status: final-revision
 target_words: 2600
 clues: "C21"
 red_herrings: "None"
@@ -13,7 +13,7 @@ romance_beat: "Adrian supports from a respectful distance"
 # Chapter 26: The Wrong Raven
 
 ## Chapter purpose
-Claire and Sophie reconstruct movements; Felix’s story fails and his debts emerge.
+Claire and Sophie reconstruct movements; Felix’s story fails and his financial dependence on the sale becomes documented without implausible access to private banking records.
 
 ## Mystery movement
 - **Clues:** C21
@@ -25,7 +25,7 @@ Claire and Sophie reconstruct movements; Felix’s story fails and his debts eme
 Adrian supports from a respectful distance.
 
 ## End hook
-Felix borrowed against expected sale proceeds.
+Felix has treated a future Raven House distribution as money already spent.
 
 ## Draft
 
@@ -33,194 +33,237 @@ Felix’s first problem was time.
 
 His second was money.
 
-Claire preferred time because it could be proved without asking anyone to confess motive.
+Claire preferred time. Time could be reconstructed without asking anyone what sort of man they believed Felix Raven to be.
 
-She and Sophie built the previous week across the library wall using paper strips.
+She and Sophie used the library wall as a chronology board.
 
 Monday.
+
 Tuesday.
+
 Wednesday.
+
 Thursday.
 
-Security logs, phone photographs, meal times, vehicle movements, contractor sign-ins.
+Security logs went first. Then contractor sign-ins, meal times, photographs with metadata, messages, vehicle movements and the archive access log Claire had begun after the missing box.
 
-Sophie stepped back.
+Sophie stepped back and looked at four days of paper strips.
 
 “This is either excellent detective work or the beginning of a breakdown.”
 
-“Both can be well indexed.”
+“Both can be properly indexed.”
 
-Adrian, at the far table, said nothing.
-
-He had offered access to everything and then deliberately removed himself from the centre of the inquiry.
+Adrian sat at the far table with Harcourt’s title papers. He had offered every estate record he could lawfully provide, answered questions, and then removed himself from the centre of the exercise.
 
 Claire noticed.
 
-She did not reward it.
+She did not reward him for behaving correctly.
 
 She appreciated it anyway.
 
-Felix had claimed he spent the day the archive box disappeared in Newcastle meeting an investor.
+Felix had told Adrian that he spent the day the maintenance box disappeared in Newcastle meeting a prospective investor.
 
-His car had entered the Raven House service drive at 17:41.
+At 17:41, the service-drive camera recorded Felix’s car entering Raven House.
 
-Sophie saw him near the estate office around six.
+At approximately six, Sophie saw him leaving the estate-office corridor.
 
-The corridor camera failed at 18:07.
+At 18:07, the archive-corridor camera lost power.
 
-The archive box was present at 17:30 and missing the next morning.
+At 18:22, a photograph Sophie had taken of rain over the south lawn happened to capture Felix’s car beside the old coach shed.
 
-Claire wrote:
+The archive box had been present at 17:30.
 
-**Opportunity: significant.**
+By the following morning, it was gone.
+
+Claire wrote on the chronology sheet:
+
+**Opportunity: substantial. Explanation inconsistent.**
 
 Not guilt.
 
-Sophie held up her phone.
+Sophie pointed to the phrase.
 
-“I found a photo from that evening.”
+“You know normal people would just write suspicious.”
 
-It showed rain over the south lawn. In the far background, partly obscured by a yew hedge, Felix’s car sat beside an outbuilding.
+“Normal people are not preparing notes that may end up in a police file.”
 
-Timestamp 18:22.
+“That is the least romantic thing anyone has ever said in this house.”
 
-Claire added it.
+“Good.”
 
-“Why would he steal old maintenance records?” Sophie asked.
+They moved to motive.
 
-“If he knew they threatened the sale.”
+Harcourt arrived with a slim folder rather than the thick banking material Claire had half expected after Adrian mentioned Felix’s debts.
 
-“Did he?”
+“What can you actually show us?” she asked.
 
-“We need evidence.”
+“Documents received by the estate office, public company filings, and correspondence Felix himself copied to Adrian.”
 
-Sophie sighed. “You really are consistent.”
+“Not his private bank records.”
 
-They moved to money.
+“No.” Harcourt gave her a dry look. “I remain a solicitor.”
 
-That part arrived through Harcourt, reluctantly.
+“Reassuring.”
 
-Felix had asked the family office three times in six months when sale proceeds would be distributed.
+The public record was bad enough.
 
-He had no guaranteed entitlement to a specific amount, but the informal family plan assumed several relatives would receive negotiated settlements from the sale.
+Felix’s events company had registered two charges in eighteen months. One lender had security over company assets. A restructuring notice showed arrears. A county-court judgment against a related company had been satisfied late.
 
-Felix had apparently treated expectation as liquidity.
+None proved desperation.
 
-Adrian brought the documents in a folder and placed them near Claire.
+Then Harcourt opened the estate-office correspondence.
 
-“He authorised me to show you these after I told him police are involved.”
+Three months earlier, Felix had asked whether any family distribution from a Raven House sale could be paid directly to a named lender when completion occurred.
 
-“Thank you.”
+The request included a draft payment direction signed by Felix.
 
-Adrian nodded and returned to the far side of the room.
+Harcourt’s reply was clipped and lawyerly:
 
-Sophie watched him go.
+**No distribution is presently due or guaranteed. The estate cannot acknowledge an assignment of proceeds that do not yet exist and whose amount, if any, has not been determined.**
 
-“You two are painful.”
+Sophie read it twice.
 
-“Work.”
+“He tried to assign money before he had it.”
 
-“I am working. I’m also suffering.”
+“He tried to create a payment route if he received it,” Claire said. “That is slightly different.”
 
-Claire opened the folder.
+“Is it better?”
 
-Bank correspondence.
+“No.”
 
-A failed business refinancing.
+A later email from Felix was less careful.
 
-Two personal guarantees.
+**The house transaction is expected this quarter. My share will clear the bridge facility in full. I only need written confirmation that the family intends to distribute after completion.**
 
-A short-term loan secured against what the lender described as **anticipated family distribution following disposal of Raven House**.
+Harcourt had refused again.
 
-Claire read the line twice.
+Adrian came over from the far table.
 
-“He borrowed against money he did not have.”
+“Felix told me he had a short-term facility. He did not tell me he had represented the sale as his repayment event.”
 
-Sophie’s face tightened.
+“Did you ever promise him a share?” Claire asked.
 
-“How much?”
+“No. We discussed that family members might receive negotiated distributions if there was a net surplus after liabilities and tax. Nothing fixed.”
 
-“Enough.”
+“Did he know that?”
 
-The maturity date was six weeks away.
+“Yes.”
 
-The proposed Raven House sale had been expected to complete before then.
+Sophie folded her arms.
 
-Until Claire’s work complicated title.
+“So he heard *possible* and borrowed against *certain*.”
 
-There was motive.
+Harcourt said, “That is an uncharitable but not inaccurate summary.”
 
-Not for the historical crime.
+Claire added the documents to the timeline.
+
+The maturity date on the bridge facility appeared in Felix’s own payment-direction request.
+
+Six weeks away.
+
+Raven House had originally been expected to complete before it.
+
+Then Claire arrived.
+
+First the archive complicated provenance.
+
+Then Celeste’s ownership complicated title.
+
+Then the 1932 deed stopped the sale from behaving like a sale at all.
+
+For Felix, historical truth had acquired a repayment date.
+
+That was motive.
+
+Not for Celeste’s death.
+
+Not for the forged deed.
 
 For pressure now.
 
-For missing records.
+For a missing archive box.
 
-For staged phenomena designed to discredit the investigation or frighten Claire away.
+For staged disturbances designed to make Claire look fanciful or make her leave.
 
-Claire remembered the footsteps.
+Sophie was staring at the service-route plan.
 
-Moved objects.
+“What?” Claire asked.
 
-The copied access pattern.
+“Felix knew the tubes.”
 
-The human tread in the service void.
+Adrian looked up.
 
-Sophie said, “Felix loves ghost stories.”
+Sophie continued. “When we were children, he used them to scare guests. He knew which bedroom could hear the morning room and which cupboard carried sound to the west stair.”
 
-Claire looked up.
+“That would have been useful information two weeks ago,” Adrian said.
 
-“What?”
+“You were at university being superior.”
 
-“When we were children he used to scare guests by using the old speaking tubes. He knew which walls carried sound.”
-
-That mattered.
-
-“Did he know the west passage?”
-
-“Parts of it. We all did, vaguely. It was a dare when we were teenagers.”
-
-Adrian heard from across the room.
-
-“You never told me that.”
-
-“You were twenty and unbearable.”
-
-“I was at university.”
+“I was twenty.”
 
 “Exactly.”
 
-Claire wrote it down.
+Claire ignored the sibling detour.
 
-The wrong Raven.
+“Did Felix know the west passage itself?”
 
-For weeks suspicion had drifted towards Adrian because he possessed keys, towards Talia because she possessed knowledge, towards Harcourt because he possessed documents.
+“Parts. We all did, vaguely. Elspeth’s father used to chase us out. Felix was the one who kept going back.”
 
-Felix possessed something simpler.
+“Why?”
 
-Urgency.
+“He liked knowing routes other people didn’t.”
 
-They did not confront him immediately.
+Claire wrote the sentence, then drew a line through it.
 
-Police first requested a voluntary interview.
+Sophie noticed.
 
-Felix replied that he was travelling.
+“Why remove that?”
 
-His phone location, Sophie learned through an entirely improper family contact and therefore unusable as formal evidence, suggested he was twenty miles away.
+“Character description. I want actions.”
 
-Claire refused to include it.
+“Your notebooks must hate adjectives.”
 
-Sophie groaned.
+“They survive.”
 
-“You are no fun.”
+The investigation had spent weeks generating suspicion around the wrong kinds of possession.
 
-“Correct.”
+Adrian possessed keys.
 
-That evening Adrian approached Claire in the library.
+Talia possessed knowledge.
+
+Harcourt possessed documents.
+
+Felix possessed something simpler and, in the present tense, more dangerous.
+
+A deadline.
+
+The police officer handling the passage incident asked for the timeline and copies of the documents Felix had sent to the estate office. Claire provided them through Harcourt so provenance remained clear.
+
+Felix was invited to a voluntary interview.
+
+He replied through a text to Adrian that he was away and would speak when he returned.
+
+Sophie said, “He is twenty miles from here.”
+
+Claire looked at her.
+
+“How do you know?”
+
+“A friend saw his car.”
+
+“Then a friend saw his car.”
+
+“Claire.”
+
+“We are not turning family gossip into location evidence.”
+
+“You are exhausting.”
+
+“Consistently.”
+
+That evening Adrian approached Claire while she was copying the chronology into a clean evidential note.
 
 “I have a question.”
-
-She looked up.
 
 “Ask.”
 
@@ -234,11 +277,11 @@ She looked up.
 
 “Thought so.”
 
-“Police need access. We need the missing box. If he thinks we know everything, he may destroy it.”
+“If he thinks everyone knows exactly what he did, he may destroy the box or anything else he moved. Let the police contact him. Preserve the access logs. Keep the coach shed and service rooms secured but do not start searching private storage without authority.”
 
 Adrian nodded.
 
-Then he said, “Are you sleeping?”
+Then, after a pause, “Are you sleeping?”
 
 Claire’s first instinct was irritation.
 
@@ -246,17 +289,21 @@ Her second recognised the care in the question.
 
 “Poorly.”
 
-“I can have someone sit outside your corridor.”
+“I can put security outside your corridor.”
 
 “No.”
 
-“Security, not me.”
+“Not me.”
 
-She almost smiled.
+“I understood.”
 
-“Still no. Change the locks. Keep cameras working. Nobody enters the archive alone.”
+He waited.
 
-“All done.”
+Claire softened the refusal by one degree.
+
+“Change the locks. Keep the cameras live. Two-person rule for archive and service access. That will help.”
+
+“Already done.”
 
 “Good.”
 
@@ -268,42 +315,50 @@ He stopped.
 
 “Thank you for giving me space.”
 
-A pause.
-
 “You asked for it.”
 
 “Yes.”
 
+His face tightened briefly.
+
 “That should have been enough the first time I had information that affected your choices.”
 
-Claire felt the sentence more sharply than an apology.
+Claire felt the sentence more sharply than another apology.
 
-Because he was finally connecting the lesson to action.
+It connected what he had done wrong to what he was doing differently now.
 
 She nodded.
 
 He left.
 
-Near midnight, Sophie knocked on Claire’s door carrying another printout.
+Near midnight, Sophie knocked on Claire’s door with a printout from Companies House and the copy of Felix’s payment direction.
 
-“What now?”
+“I know you already have these,” she said, “but look at the dates together.”
 
-“Felix’s business charge register. Public filing.”
+Claire did.
 
-Claire took it.
+The company charge had been created three days before Claire arrived at Raven House.
 
-The document listed a lender with security over Felix’s company assets and a personal side agreement referenced in a later filing.
+The payment direction was sent the next morning.
 
-Attached was an email from Felix to the lender.
+Felix had not reacted impulsively to the later title dispute.
 
-**Raven House completion expected this quarter. My distribution will clear the bridge in full.**
+He had entered the month already dependent on a sale he did not control.
 
-Dated three days before Claire arrived.
+Claire laid the two documents beside the chronology.
 
-The picture had become coherent enough to confront.
+For the first time, the present-day disturbances formed a complete practical shape.
 
-Felix had not merely hoped for sale proceeds.
+Knowledge of the passages.
 
-He had borrowed as though the money were already his.
+Opportunity at the archive.
 
-And Claire’s investigation had turned his expected rescue into a title dispute.
+A false account of his whereabouts.
+
+A financial deadline.
+
+And a transaction whose failure could take his business with it.
+
+The wrong Raven was no longer merely possible.
+
+He was ready to be asked the right questions.
