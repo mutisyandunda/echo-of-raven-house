@@ -3,29 +3,28 @@ chapter: 13
 title: "If He Will Not Name Her"
 act: "IIA"
 pov: "Claire Mercer"
-status: draft
+status: final-revision
 target_words: 2550
 clues: "C7"
 red_herrings: "None"
-romance_beat: "Almost-kiss; Claire pulls back"
+romance_beat: "Almost-kiss; Claire chooses timing and Adrian accepts the boundary"
 ---
 
 # Chapter 13: If He Will Not Name Her
 
 ## Chapter purpose
-Celeste’s letter to Miriam reveals she will name the child if Sebastian will not.
+Celeste’s letter to Miriam establishes that Sebastian is the father of a concealed daughter and that Celeste retained a register copy capable of proving something he might later deny.
 
 ## Mystery movement
 - **Clues:** C7
-- **Red herrings:** None
-- Evidence must be observed before it is interpreted.
-- POV inference cannot exceed the physical/documentary record.
+- The child’s sex and Sebastian’s paternity become much stronger, but Eleanor is not yet fully identified by civil record.
+- The register reference drives Chapter 14.
 
 ## Romance / relationship movement
-Almost-kiss; Claire pulls back
+Claire and Adrian’s attraction becomes explicit, but Claire steps back because the moment matters to her ethically as well as emotionally.
 
 ## End hook
-Letter references a registry copy.
+Celeste’s letter points to a registry copy she believed sufficient to defeat Sebastian’s denial.
 
 ## Draft
 
@@ -33,17 +32,27 @@ The letter was not hidden.
 
 That bothered Claire more than if it had been.
 
-It sat in the third box of correspondence, between an invoice for drawing paper and a note about chimney dimensions, folded twice and catalogued twenty years earlier as **personal, undated**.
+It sat in the third box of ordinary correspondence between an invoice for drawing paper and a note about chimney dimensions, folded twice and catalogued twenty years earlier as **personal, undated**.
 
 Someone had seen it.
 
 Someone had decided it was unimportant.
 
-Claire unfolded it beneath the library lamp.
+That was how women vanished from archives most effectively, Claire had learned. Not always through destruction. Often through classification.
 
-The paper was thin cream stock, the ink browned but legible.
+Personal.
 
-No formal salutation.
+Domestic.
+
+Undated.
+
+Peripheral.
+
+The words that made a document easy to ignore.
+
+Claire unfolded the letter beneath the library lamp.
+
+Thin cream stock. Browned ink. No formal salutation.
 
 Only one word.
 
@@ -51,17 +60,19 @@ Only one word.
 
 Claire stopped.
 
-Adrian, working opposite her, looked up.
+Adrian, working opposite her through a stack of survey invoices, looked up.
 
 “What?”
 
-She held up one finger.
+She lifted one finger.
 
 He waited.
 
-The letter was four pages long.
+That had become one of the things she liked about him, which was irritating. He had learned that silence around a document was sometimes work rather than drama.
 
-Celeste’s handwriting changed as it progressed: controlled at first, then increasingly compressed, lines crowding the lower margins.
+The letter ran four pages.
+
+Celeste’s handwriting changed as it progressed: controlled on the first sheet, compressed on the second, then opening again on the final page as if anger had passed through and left decision behind.
 
 Claire read silently.
 
@@ -69,13 +80,15 @@ Sebastian had failed to come.
 
 His father had threatened him again.
 
-There had been an argument about money, respectability and “the arrangements for E.”
+There had been arguments about money, reputation and “the arrangements for E.”
 
-Then, halfway down the second page, one sentence removed several possibilities at once.
+Celeste was tired of waiting for courage to arrive in another person.
+
+Halfway down the second page, one sentence removed several possibilities at once.
 
 Claire read it again.
 
-Adrian said, “Claire.”
+Adrian said softly, “Claire.”
 
 She looked at him.
 
@@ -83,9 +96,7 @@ She looked at him.
 
 He came around the table.
 
-Claire moved the letter between them and pointed to the line.
-
-Celeste had written:
+Claire placed the letter between them and pointed.
 
 **If he will not name her, I will.**
 
@@ -103,67 +114,57 @@ Because it was simple.
 
 “Yes.”
 
-“Eleanor.”
+He did not say Eleanor.
 
-Claire did not correct him this time.
+Claire noticed that too.
 
-Not immediately.
+The previous chapters had trained him out of premature nouns.
 
-She continued reading.
+She continued.
 
-Celeste did not use the child’s full name anywhere. She referred to “E.” twice and “her” repeatedly.
+Celeste referred to the child as E twice and as *her* repeatedly. She described Miriam caring for her “while Sebastian decides whether his fear is more important than his daughter.”
 
-But the letter was unmistakably about a daughter whose public identity depended on Sebastian doing something he had not done.
+That was stronger.
 
-Adrian read over Claire’s shoulder.
-
-His hand rested on the table beside hers.
-
-“So Sebastian was the father.”
-
-“Likely.”
-
-“Likely?”
-
-Claire pointed farther down.
+Claire read the next line aloud.
 
 **He cannot expect me to preserve his name while he refuses it to his own blood.**
 
-Adrian went quiet.
+Adrian sat down.
 
-Claire said, “That is much stronger.”
+“His daughter.”
 
-“His own blood.”
+“In context, yes.”
 
-“Yes.”
+“You are allowing that?”
 
-“Celeste is saying Sebastian fathered the child.”
+“I am allowing what the document actually says.”
 
-“She is saying the child is his blood. In context, that is the reasonable reading.”
-
-“Thank you for allowing one reasonable reading.”
+“Historic day.”
 
 “Do not become smug near primary sources.”
 
-“I wouldn’t dare.”
+“I would never.”
 
-She kept reading.
+Claire read on.
 
-The letter referred to Miriam keeping E away from Blackmere “until matters are settled.” Celeste complained that Sebastian wanted patience while enjoying the benefits of delay.
+Celeste wrote that Miriam must keep E away from Blackmere “until matters are settled.” She complained that Sebastian wanted patience while receiving every benefit of delay.
 
-Then came the line that made Claire sit back.
+Then came the sentence that made Claire lean back.
 
 **I have been patient with secrecy because I believed it temporary. I will not let it become her inheritance.**
 
-Claire felt the sentence in a place she preferred evidence not to reach.
+Claire felt the words in a place she preferred evidence not to reach.
 
 Inheritance.
 
-Not property, exactly.
+Not land.
+
+Not money.
 
 Silence.
 
-A child inheriting concealment.
+A child inheriting concealment as though secrecy were blood.
 
 Adrian read it too.
 
@@ -171,13 +172,13 @@ Adrian read it too.
 
 His voice had gone flat.
 
-Claire looked at him.
+Claire folded her hands.
 
-“That is not yet established.”
+“That is not yet established across generations.”
 
-“You don’t need to defend them.”
+“You do not need to defend them.”
 
-“I’m not.”
+“I am not.”
 
 “It sounds like it.”
 
@@ -189,13 +190,37 @@ He stepped away from the table.
 
 The sharpness surprised her.
 
-Claire folded her hands.
+Claire waited.
 
-“What did you want me to say?”
+Adrian stared through the window at the west lawn, then said, “Do you know what is strange?”
 
-“That my great-grandfather hid a child?”
+“Many things.”
 
-“We do not yet know your great-grandfather hid her from history.”
+“I have spent my entire life hearing that Sebastian was weak with money, charming with women and useless with responsibility. The family tells stories about his flaws because it makes us feel honest.”
+
+Claire said nothing.
+
+“But a hidden child never appears. A wife never appears. Celeste becomes a difficult architect who left.”
+
+He looked at the letter.
+
+“That is not forgetting. That is editing.”
+
+“Probably.”
+
+He laughed without humour.
+
+“You finally say probably when I want you to stop.”
+
+Claire understood his anger better than she wanted to. He was not angry at her caution. He was angry because caution prevented him from converting disgust into certainty.
+
+“What did you want me to say?” she asked.
+
+“That Sebastian deliberately hid his daughter and everyone after him helped?”
+
+“Yes.”
+
+“We do not know everyone after him helped.”
 
 “We know enough.”
 
@@ -205,15 +230,17 @@ Adrian turned back.
 
 “Do you ever let yourself know something before the paperwork permits it?”
 
-Claire felt the question land somewhere he had not aimed.
+The question landed somewhere he had not aimed.
+
+Claire looked at the letter.
 
 “Yes.”
 
 “When?”
 
-“When it’s my life.”
+“When it is my life.”
 
-“And this isn’t?”
+“And this is not?”
 
 “It is my work.”
 
@@ -223,7 +250,7 @@ Claire felt the question land somewhere he had not aimed.
 
 Silence.
 
-The house seemed to listen through its walls.
+The house seemed to collect it.
 
 Claire regretted the hardness first.
 
@@ -233,79 +260,113 @@ He sat down again.
 
 “Sorry.”
 
-“You’re allowed to care.”
+“You are allowed to care.”
 
-“That sounds dangerously humane.”
+“That sounded dangerously humane.”
 
-“Don’t spread it around.”
+“Do not spread it around.”
 
-He smiled faintly.
+A faint smile returned.
 
-They returned to the letter.
+They went back to the letter.
+
+The third page contained details about money Celeste wanted kept available for E, not through Sebastian. It mentioned school fees and a bank account in Miriam’s name “for the child.”
+
+Claire photographed those lines separately.
+
+“Could we trace that?” Adrian asked.
+
+“Perhaps. Bank archives are inconsistent at this age. But it gives us another independent route if records survive.”
+
+“What would it prove?”
+
+“That Celeste was providing for a child through Miriam. Possibly identity, depending on the paperwork.”
+
+Adrian nodded.
+
+No dramatic conclusion this time.
+
+Claire felt an absurd flash of approval.
 
 The final page concerned documents.
 
-Celeste wrote that Miriam must keep one copy safe and that she herself retained another “with the registry papers.”
+**Keep one copy safe with you. I retain another with the registry papers.**
 
 Claire leaned closer.
 
-“What registry?” Adrian asked.
+Adrian read over her shoulder.
 
-“Could be birth. Could be marriage. Property registry. Professional registration. We need context.”
+“Registry.”
 
-“Does she say where?”
+“Yes.”
 
-“No.”
+“Birth?”
 
-The next sentence was smudged.
+“Could be.”
 
-Claire adjusted the lamp and used angled light.
+“Marriage?”
+
+“Could be.”
+
+“Property?”
+
+“Could be.”
+
+“You are enjoying my pain.”
+
+“Only your uncertainty.”
+
+“That is worse.”
+
+The next sentence had been smeared by water or a damp thumb.
+
+Claire adjusted the lamp and photographed the sheet at a low angle.
+
+The pressure marks survived where ink had blurred.
 
 Several words emerged.
 
-**...the copy from the register is sufficient if he denies what was done...**
+**…the copy from the register is sufficient if he denies what was done…**
 
 Adrian read it twice.
 
 “What was done?”
 
-“I don’t know.”
+“I do not know.”
 
-“Marriage?”
+“Marriage.”
 
-“Possibly.”
+“Possible.”
 
-“Birth registration?”
+“Birth registration.”
 
-“Possibly.”
+“Possible.”
 
-“You are enjoying this.”
+“What does a woman in 1920s England obtain a certified copy of that a man might later deny?”
 
-“Not your uncertainty. Mine.”
+Claire looked at him.
 
-“That is worse.”
+“That is a better question.”
 
-Claire photographed the sheet under raking light.
+“Progress.”
 
-At the bottom Celeste had signed only C.
+The letter was undated, but its paper watermark matched stock Celeste used between 1927 and 1930. One reference to Sebastian’s father “still holding the inheritance over him” suggested a period after Eleanor’s birth and before the public marriage to Evelyn had settled into whatever arrangement the family later told itself was normal.
 
-No date.
-
-But the paper watermark matched stock used in letters from 1927 to 1930.
-
-Claire made a note.
+Claire added the dating range rather than choosing a year she could not prove.
 
 Adrian leaned against the table.
 
-“If E was Eleanor, and Sebastian was her father, why is she absent from every family record?”
+“If E was his daughter, why is she absent from every Raven genealogy?”
 
-“Because family records are curated.”
+“Because genealogies are edited.”
 
 “By whom?”
 
-“Usually the people who survive.”
+“The people who inherit the need for a clean story.”
 
-He looked towards the windows.
+“That sounded like an accusation.”
+
+“It was a general principle.”
 
 “Talia survives very efficiently.”
 
@@ -315,7 +376,7 @@ Claire closed the folder.
 
 “You defend her too?”
 
-“No. I am refusing to simplify her before we understand the cost she thought she was preventing.”
+“No. I am refusing to simplify her before we understand what she thought silence protected.”
 
 Adrian watched her.
 
@@ -325,33 +386,33 @@ Adrian watched her.
 
 “Refuse to simplify them.”
 
-“When I’m being paid.”
+“When I am being paid.”
 
-“And when you’re not?”
+“And when you are not?”
 
-Claire looked down at the letter.
+Claire looked down at Celeste’s letter.
 
 “Less successfully.”
 
-He was close enough that she could feel the shift in the air when he moved nearer.
+He moved closer.
 
-Not touching.
+Not much.
 
-Almost.
+Enough that the shift in air became noticeable.
 
 “You know,” he said, “for someone who dislikes assumptions, you make quite a few about yourself.”
 
-She looked up.
+Claire looked up.
 
 His face was inches from hers.
 
 There was no ambiguity this time.
 
-Not in his expression.
+Not in him.
 
-Not in hers, probably.
+Probably not in her.
 
-The attraction they had kept filing under banter and inconvenience had become physical fact.
+The attraction they had spent a week filing under irritation, competence and unfortunate proximity had become physical fact.
 
 Adrian’s eyes dropped to her mouth.
 
@@ -359,61 +420,75 @@ Claire did not move away.
 
 His hand came to rest on the table beside her hip.
 
-Still not touching.
+Not touching.
 
-Giving her room.
+Not cornering.
+
+Leaving the distance hers to close.
 
 That made it harder.
 
-She could have closed the distance.
+She wanted to.
 
-Part of her wanted to with an immediacy that annoyed her.
+Immediately, annoyingly, without any archival qualification.
 
-Then her eyes fell to Celeste’s letter between them.
+Then her eyes fell to the open page between them.
 
-A woman writing about secrecy, recognition and the cost of being named by a man who controlled what the world knew.
+A woman writing to her sister about a man controlling what could be acknowledged.
+
+A daughter whose identity depended on adults deciding when secrecy ended.
+
+A sentence about inheritance that was not about property at all.
 
 Claire stepped back.
 
-Not because Adrian had done anything wrong.
+Adrian’s expression changed, but he did not follow.
 
-Because timing mattered.
+“I am sorry,” she said.
 
-His expression changed but he did not follow.
-
-“I’m sorry,” she said.
-
-“Don’t be.”
+“Do not be.”
 
 “I wanted to.”
 
 “That does not improve my dignity.”
 
-“It wasn’t meant to.”
+“It was not meant to.”
 
 A breath of laughter passed between them.
 
-Then Adrian nodded towards the letter.
+He nodded towards the letter.
 
-“Work?”
+“Timing?”
+
+“Yes.”
+
+“Understood.”
+
+No wounded performance.
+
+No bargaining.
+
+Claire felt something in her relax even as she moved back to her chair.
+
+“Work?” he asked.
 
 “Work.”
 
 They sat on opposite sides of the table again.
 
-The distance felt both safer and completely artificial.
+The distance felt safer and completely artificial.
 
 Claire reread the final page.
 
 There it was.
 
-Not just a daughter.
+Not only a concealed daughter.
 
-Not just a father refusing public recognition.
+Not only a father refusing public recognition.
 
-A registry document Celeste believed could prove something Sebastian might deny.
+A register document Celeste believed could prove something Sebastian might deny.
 
-Claire opened the archive catalogue and began searching references.
+Claire opened the archive catalogue, then the civil-record research notes Imogen had already sent.
 
 Adrian said, “What are you looking for?”
 
