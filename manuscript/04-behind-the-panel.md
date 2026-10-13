@@ -3,17 +3,17 @@ chapter: 4
 title: "Behind the Panel"
 act: "I"
 pov: "Claire Mercer"
-status: revision-1
+status: final-revision
 target_words: 2500
 clues: "C4, C22 seed"
 red_herrings: "R2"
-romance_beat: "Adrian shifts toward ally"
+romance_beat: "Adrian shifts from client to working ally"
 ---
 
 # Chapter 4: Behind the Panel
 
 ## Chapter purpose
-Claire and Jonah remove paneling and find Celeste’s initials dated 1931. Disturbed dust suggests recent passage use.
+Claire and Jonah open the least invasive access point, find Celeste’s 1931 initials and establish that at least one living person has used the service void recently.
 
 ## Mystery movement
 - **Clues:** C4, C22 seed
@@ -22,16 +22,16 @@ Claire and Jonah remove paneling and find Celeste’s initials dated 1931. Distu
 - POV inference cannot exceed the physical/documentary record.
 
 ## Romance / relationship movement
-Adrian shifts toward ally
+Adrian begins standing beside Claire’s investigation rather than between it and the family.
 
 ## End hook
-Someone has been inside the wall void recently.
+The historical void has a modern user.
 
 ## Draft
 
 Jonah Price arrived carrying three cases of tools and the expression of a man who expected old buildings to be guilty until proven otherwise.
 
-He was broad-shouldered, greying at the temples and unimpressed by the repaired wall before Claire finished explaining it.
+He was broad-shouldered, greying at the temples and unimpressed by the repaired wall before Claire had finished explaining it.
 
 “Not original plaster,” he said.
 
@@ -41,7 +41,7 @@ He was broad-shouldered, greying at the temples and unimpressed by the repaired 
 
 “To tell me what is behind it without letting me damage anything important.”
 
-He looked at Adrian. “You hired another one.”
+Jonah looked at Adrian. “You hired another one.”
 
 Adrian folded his arms. “Apparently.”
 
@@ -55,57 +55,105 @@ Jonah crouched at the skirting. “Same disease. Better vocabulary.”
 
 Claire liked him immediately.
 
-They began with non-invasive inspection: moisture meter, borescope through an existing cable hole, tapping patterns across plaster, thermal camera against the colder morning air. Jonah worked without ceremony. Claire photographed every stage. Adrian stayed, despite having no practical reason to, and held the light when asked.
+The repaired strip at the end of the west corridor was almost exactly the width of the doorway Claire thought she had found on her first afternoon. Jonah began with the least dramatic options because, as he told Adrian, dramatic building work was usually another name for expensive stupidity.
 
-The borescope showed darkness, timber and a narrow vertical space.
+Moisture meter.
 
-Not a solid wall.
+Thermal camera.
+
+Tap survey.
+
+Borescope through an existing cable penetration rather than a new hole.
+
+Claire photographed each stage, logged the instrument readings and made Adrian stand out of the way until Jonah asked him to hold a light.
+
+“You see?” Adrian said. “Already useful.”
+
+“Do not make this about you.”
+
+“I own the torch.”
+
+“For now.”
+
+Jonah did not look up. “If you two are going to flirt, wait until I’ve finished checking the electrical run.”
+
+“We are not,” Claire said.
+
+Adrian said nothing.
+
+That was worse.
+
+The borescope entered through the old cable hole and showed darkness, timber and a narrow vertical gap.
+
+Not solid masonry.
+
+Jonah rotated the camera.
+
+An old copper pipe crossed the frame. Behind it, timber studs disappeared into shadow.
 
 “How wide?” Claire asked.
 
-“Hard to tell. Thirty centimetres here. Maybe more farther in.”
+“Thirty centimetres here. More farther north, I’d guess.”
 
-“That aligns with the service chase.”
+“Enough to account for the survey discrepancy?”
+
+“Partly. Not all of it.”
+
+Claire looked towards the outer wall.
+
+The seventy-eight centimetres had not vanished into one neat cavity. The house was more interesting than that: layers of wall, service runs, structural pockets and later closures accumulating into a modern plan that simply flattened them.
 
 Jonah withdrew the scope.
 
-“Possibly.”
+“There’s a cleaner access point in the morning room panelling. I saw modern screws under two period caps.”
 
-Claire glanced at Adrian. “I approve of him.”
+“Reversible?” Claire asked.
 
-“His life is complete.”
+“Should be.”
 
-Jonah gave neither of them the satisfaction of looking up.
+Adrian said, “You both use that word as if the house is a patient.”
 
-The least intrusive access point was not the repaired corridor wall but a section of oak panelling in the adjacent room. Two lower boards had been re-fixed with modern screws beneath period caps. Jonah removed them carefully and set them on padded trestles.
+“It is older than you and less replaceable,” Claire said.
 
-Behind the boards lay lath, then a shallow cavity, then the edge of a narrow maintenance void.
+“Comforting.”
 
-Claire leaned forward.
+They moved into the adjacent room.
 
-Air moved from it.
+The oak panelling looked continuous until Jonah showed Claire the two small caps concealing cross-head screws—modern fixings disguised beneath older joinery. He removed the boards onto padded trestles and labelled their positions before touching anything behind them.
 
-Not much. Enough to carry the smell of old timber, dry mortar and dust.
+Lath.
 
-“Original?” Adrian asked.
+A shallow cavity.
 
-“The framing is,” Jonah said. “Later closure here.”
+Then the edge of a maintenance void.
 
-Claire lifted the light.
+Air moved through it.
 
-A timber upright bore pencil marks.
+Not enough to be a draught. Enough to carry the dry smell of old timber, mortar and metal.
 
-At first they looked like carpenters’ calculations: short strokes, a number, a diagonal line.
+Claire leaned closer.
 
-Then Claire saw the initials.
+“Original framing?” Adrian asked.
 
-C.V.
+“The studs are,” Jonah said. “Closure is later.”
 
-Below them: 17.3.31.
+Claire lifted the work light.
 
-She did not speak.
+A timber upright carried pencil marks.
 
-Jonah noticed first.
+At first they looked like carpenters’ calculations: a short line, a number, two diagonal strokes.
+
+Then she saw the initials.
+
+**C.V.**
+
+Below them:
+
+**17.3.31**
+
+Claire did not speak.
+
+Jonah noticed the change in her first.
 
 “Yours?”
 
@@ -113,175 +161,159 @@ Jonah noticed first.
 
 Adrian stepped closer.
 
-Claire photographed the mark straight on, then under raking light.
+The date sat in the timber grain with the casual permanence of something its writer had never expected to become evidence.
 
-The pencil had aged into the grain. No fresh abrasion. No obvious reason to doubt it.
+Claire photographed it straight on, then under raking light, then with a scale.
+
+The graphite had sunk into the surface dirt and grain. No bright modern abrasion. No obvious sign of recent imitation.
 
 “Celeste Vane,” Adrian said.
 
-“Possibly.”
+“Very likely.”
 
-He gave her a look.
+He looked at her.
 
-“Very possibly,” Claire amended.
+“That is practically certainty from you.”
 
-“Talia said she left in nineteen twenty-eight.”
+“Do not abuse it.”
 
-“She said she believed she did.”
+“Talia said Celeste left in 1928.”
 
-“Then revised to twenty-nine.”
+“She said she believed she did. Then she offered 1929.”
 
-“Yes.”
+“This says 1931.”
 
-Jonah looked between them. “Should I be pretending this is normal?”
+“This appears to be Celeste’s initials beside a 1931 date. We verify the hand and material before turning it into a biography.”
+
+Jonah looked between them. “Should I be pretending any of this is normal?”
 
 “No,” Claire said.
 
 Adrian said, “Probably.”
 
-Claire ignored him.
+Claire opened her notebook.
 
-A dated signature inside the building did not prove residence, ownership, intimacy or conspiracy. It proved only presence. But presence in March 1931 mattered because the family account placed Celeste elsewhere years earlier.
+A dated mark inside Raven House did not prove residence. It did not prove ownership, intimacy, danger or any later theory. It established presence if authentic.
 
-The house had contradicted the family before any document had.
+That alone was enough to damage the family timeline.
 
-Claire wrote in her notebook:
+She wrote:
 
-**Physical inscription. Needs material verification.**
+**17 March 1931 — C.V. inscription inside original west service framing. Material/hand comparison required.**
 
-The wording steadied her. Description first. Interpretation later.
+No clue codes.
 
-Jonah opened the void another ten centimetres by removing a second reversible board.
+No conclusion larger than the mark could carry.
 
-The space beyond was narrow but continuous.
+Jonah removed one more reversible board.
 
-A person could move through it sideways.
+The void continued north.
 
-Adrian looked at Claire.
+A person could move through it sideways where the framing widened. Not comfortably. Not accidentally.
 
-“Still not a secret room?”
+Adrian looked into the darkness.
 
-“Still no.”
+“Still not a secret corridor?”
 
-“A secret corridor?”
-
-“A service void.”
+“Service access.”
 
 “You are determined to make this dull.”
 
 “I am determined to make it true.”
 
-Jonah shone his torch along the cavity.
+The torch beam caught an old ceramic insulator, a copper water line and a thin brass tube ending in a flared mouth.
 
-The beam caught timber battens, an old copper pipe, a ceramic insulator and a run of something Claire first took for conduit.
+Claire leaned closer.
 
-Then she saw the flared metal mouth at one end.
+“Speaking tube?”
 
-“Speaking tube?” she said.
+Jonah nodded. “Looks like one. Could have been reused later, but the fittings are early.”
 
-Jonah nodded. “Looks like it.”
+Adrian turned towards her.
 
-Adrian turned to her. “Ghost downgraded to plumbing.”
+“Ghost downgraded to plumbing.”
 
 “Communication system.”
 
 “Less romantic.”
 
-“Only if your romances rely on poor acoustics.”
+“Only if your romances rely on bad acoustics.”
 
-Adrian’s mouth twitched.
+Adrian’s mouth moved.
 
-Jonah looked over his shoulder. “Am I interrupting something?”
+Jonah glanced over his shoulder. “I am definitely interrupting something.”
 
 “No,” Claire said.
 
-“Yes,” Adrian said at the same time.
+Adrian said, “Apparently.”
 
-Claire stared at him.
+Claire ignored him.
 
-He looked entirely unrepentant.
+Something had changed since Talia’s visit.
 
-Something had changed since the previous day. Not enough to call trust. But Adrian was no longer standing between her and the house. He was standing beside the work.
+Adrian was still cautious about the house, still aware that every answer might cost his family something, but he had stopped behaving as if Claire’s questions were an intrusion he needed to manage.
 
-That mattered more than she wanted it to.
+He was holding the light where she asked.
 
-Jonah passed Claire the torch.
+That was all.
 
-“Look low.”
+It was also not nothing.
 
-At the base of the void, beneath a century of ordinary dust, was a narrow channel where the surface had been disturbed.
+Jonah passed her the torch.
+
+“Look at the floor.”
+
+A century of dust covered the lower ledge unevenly. In one section, the surface had been compressed into a darker channel.
 
 Claire crouched.
 
-The dust to either side was thick and soft-edged. In the centre, a path had been compressed into darker streaks.
+The edges were too broad for a rodent path and too irregular for a single clean footprint.
 
-Not footprints exactly. The space was too narrow and the substrate too uneven.
+Movement.
 
-But movement.
+Recent enough that the compressed line had not softened beneath new dust.
 
-Recent enough that the edges had not fully softened.
-
-“Rodent?” Adrian asked.
-
-Jonah shook his head. “Too wide.”
-
-“Worker?”
+“Worker?” Adrian asked.
 
 “When?” Claire said.
 
-Adrian looked at him.
+Jonah shrugged. “Weeks, months, maybe longer. Airflow changes everything in a cavity like this.”
 
-Jonah shrugged. “Could be months. Could be a year. Depends on airflow.”
+Claire moved the light higher.
 
-Claire angled the light farther in.
+A smear crossed one upright at roughly shoulder height where grey-brown dust had been rubbed away.
 
-Twenty centimetres beyond the opening, a smear marked the timber upright at shoulder height.
-
-Grey-brown dust had been rubbed away.
-
-Human contact.
+Human contact was plausible.
 
 She photographed it.
 
-At the bottom edge of the cavity lay a small twist of black material.
+Near the base of the timber lay a twist of black fibre.
 
-Jonah reached with tweezers and lifted it onto a clean card.
+Jonah lifted it with tweezers onto a clean card.
 
-Synthetic fibre.
+Synthetic.
 
 Modern.
 
-Claire felt the investigation divide itself in two.
+The investigation divided itself in two.
 
-There was the historical building: Celeste’s marks, old speaking tubes, altered plans.
+There was the historical building: Celeste’s date, old speaking tubes, omitted service structure.
 
-And there was something else.
+And there was a living present moving through it.
 
-Someone had used the void recently.
-
-Adrian’s voice lost its humour.
+Adrian’s humour disappeared.
 
 “Who has access?”
 
-“Elspeth,” Jonah said. “Me, when you call. Electricians. Heating engineers. Anyone with the old service keys if they still work.”
-
-Adrian looked towards the door.
+“Elspeth,” Jonah said. “Me when I’m called. Heating engineers. Electricians. Anyone with one of the old service keys if a lock hasn’t been changed.”
 
 “Talia?” Claire asked.
 
-He frowned. “Possibly.”
+Adrian frowned. “She grew up here. She knows parts of the service system.”
 
-“You said she knows the house well.”
+Claire remembered Talia telling her not to mistake pattern for knowledge.
 
-“She grew up here.”
-
-That made Elspeth’s warning from breakfast feel less theatrical.
-
-Miss Talia is coming down.
-
-Claire refused the temptation to connect facts merely because they were adjacent.
-
-“Do not accuse anyone,” she said.
+“Do not accuse her,” Claire said.
 
 “I wasn’t going to.”
 
@@ -291,71 +323,111 @@ Adrian looked at her. “You do that too.”
 
 “Professionally.”
 
-They documented the void until lunchtime.
+They documented the opening until lunchtime.
 
-Jonah identified at least one branch of the speaking-tube network and a ventilation route that would explain some of the displaced voices. The paired-curve marks on Celeste’s plans appeared near the points where the system changed direction.
+Jonah traced one branch of the speaking-tube network towards the library and another towards the west stair. Several of Celeste’s paired-curve marks sat near direction changes, but not all of them.
 
-But not every mark aligned with a visible tube.
+That inconsistency pleased Claire more than a perfect match would have. Perfect matches this early were usually theories bullying evidence into shape.
 
-That bothered Claire.
+Elspeth arrived at one with sandwiches and stopped when she saw the boards removed.
 
-It also delighted her, which bothered her more.
+“You found it, then.”
 
-At one, Jonah packed away his thermal camera.
+Claire turned.
 
-“I can come back tomorrow and trace farther if you want.”
+“Found what?”
 
-“Yes,” Claire said.
+“The old run.”
 
-Adrian said, “Yes.”
+Adrian stared at her. “You knew this was here?”
 
-Jonah looked between them again.
+“I knew there were service ways in the west wall.”
 
-“Progress.”
+“Why did you not mention that when Claire heard voices?”
 
-After he left, Claire remained in the west room updating her notes.
+Elspeth looked at him as though the answer were obvious.
 
-Adrian stood at the window.
+“She did not ask me where the old runs were.”
+
+Claire hid a smile.
+
+Adrian did not.
+
+“Have you been inside recently?” Claire asked.
+
+“Yes.”
+
+The answer came without hesitation.
+
+“When?”
+
+“Three nights ago. Heating pipe was knocking. I checked the bracket from the linen-room access.”
+
+“Would that take you past this upright?”
+
+Elspeth examined the opening.
+
+“No. Wrong branch.”
+
+Claire noted it.
+
+“Black synthetic clothing?”
+
+“Not while crawling through old lime dust. I’m not an idiot.”
+
+Jonah coughed into one hand.
+
+Adrian looked at the fibre card.
+
+“So some disturbance may be Elspeth.”
+
+“Some,” Claire said. “Not necessarily this.”
+
+The distinction mattered.
+
+By mid-afternoon, Jonah had mapped enough of the accessible void to confirm the old service route but not enough to explain the full dimensional discrepancy. The missing space continued beyond a turn he would inspect after checking structure and the estate’s hazardous-materials register.
+
+Claire approved.
+
+Adrian said, “You enjoy being told no when safety regulations are involved.”
+
+“I enjoy surviving my work.”
+
+He looked at her for a fraction longer than the sentence required.
+
+Claire returned to her notes.
+
+After Jonah left, Adrian remained in the morning room.
 
 “Talia was wrong,” he said.
 
-“About what?”
+“About Celeste?”
 
-“Celeste.”
+“There is a date in the wall.”
 
-“Maybe.”
+“There is a likely Celeste inscription dated 1931.”
 
-“There’s a date in the wall.”
+“You do realise ordinary people are allowed to believe obvious things.”
 
-“There is a date and initials.”
-
-“You think someone else wrote them?”
-
-“No. I think conclusions should be proportionate.”
-
-Adrian turned.
-
-“You do realise normal people are allowed to believe obvious things.”
-
-“Normal people create most archival errors.”
+“Ordinary people create most archival errors.”
 
 He laughed once.
 
-Then his expression settled.
+Then the laughter faded.
 
-“If Celeste was here in 1931, I want to know why the family story says she wasn’t.”
+“If Celeste was here in 1931, I want to know why I grew up being told she had left years before.”
 
 Claire looked at him.
 
-That was the first time he had framed the family version as a problem rather than a heritage to protect.
+It was the first time he had framed the Raven story as a problem rather than an inheritance.
 
 “You may not like the answer.”
 
-“I’m beginning to suspect that is why my father hired archivists in the first place.”
+“I am beginning to suspect that is why my father started sorting the boxes.”
 
-“Your father started this?”
+“Marcus started the archive work?”
 
-“He started sorting boxes. He never explained why.”
+“He did. Badly. Stacks everywhere. Notes with no dates. The local archivist came later.”
 
 Claire wrote that down.
 
@@ -365,7 +437,7 @@ Adrian noticed.
 
 “Yes.”
 
-He nodded towards the void.
+He looked back at the open panel.
 
 “And the recent disturbance?”
 
@@ -375,27 +447,15 @@ He nodded towards the void.
 
 “Differently.”
 
-“Meaning?”
+One fact said the accepted history might be false.
 
-“Meaning one tells us the official history may be wrong. The other tells us somebody living has been moving through a concealed service space.”
+The other said somebody living had reasons to move through the part of Raven House that history had forgotten.
 
-Adrian’s gaze went to the opening.
+Claire raised the torch one last time.
 
-The house seemed quieter in daylight.
+Beyond the first shoulder smear, farther inside the turn, another section of dust had been wiped away at human height.
 
-Not safer.
-
-Just easier to underestimate.
-
-Claire stepped closer to the cavity and raised the torch again.
-
-The compressed dust extended beyond the visible turn.
-
-On the right-hand timber, almost invisible unless lit from the side, was a second recent smear.
-
-Higher this time.
-
-At roughly the height of a human shoulder.
+Not on Elspeth’s stated route.
 
 She held the light steady.
 
@@ -403,12 +463,10 @@ She held the light steady.
 
 He came beside her.
 
-Claire pointed.
+This was no ghost story now.
 
-No speculation now.
+No poetic house remembering its dead.
 
-No ghost story.
+Someone had been inside the west wall recently.
 
-No romantic version of the house remembering its dead.
-
-Someone had been inside the wall void recently.
+And the house had more than one route through which a living person could move without using a door.
