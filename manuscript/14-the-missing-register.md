@@ -3,29 +3,28 @@ chapter: 14
 title: "The Missing Register"
 act: "IIA"
 pov: "Claire Mercer"
-status: draft
+status: final-revision
 target_words: 2550
 clues: "C8"
 red_herrings: "None"
-romance_beat: "Drink together; emotional closeness"
+romance_beat: "Drink together; emotional closeness after the almost-kiss"
 ---
 
 # Chapter 14: The Missing Register
 
 ## Chapter purpose
-Parish trail fails, but Imogen finds the civil registry index for Vane–Raven, 1924.
+The parish trail fails, but Imogen locates the 1924 civil marriage index for Celeste Vane and Sebastian Raven. An official copy is not immediately available, making Celeste’s reference to her own certified copy newly important.
 
 ## Mystery movement
 - **Clues:** C8
-- **Red herrings:** None
-- Evidence must be observed before it is interpreted.
-- POV inference cannot exceed the physical/documentary record.
+- The civil index proves a marriage entry exists; the hidden certified copy found later will provide the immediate full-text corroboration.
+- Absence of a readily available local register is treated as an archival transfer problem, not as proof that the marriage itself vanished from the national system.
 
 ## Romance / relationship movement
-Drink together; emotional closeness
+Claire and Adrian spend time together outside immediate discovery pressure and disclose what attribution and inheritance mean to them.
 
 ## End hook
-The marriage certificate itself is missing.
+The official-copy request is pending, but Celeste’s letter suggests she kept a certified copy herself.
 
 ## Draft
 
@@ -41,9 +40,9 @@ The family legend had been Adrian’s contribution.
 
 “Accuracy often is.”
 
-They sat at opposite ends of the archive table with laptops open between stacks of parish transcripts, county directories and scanned registers. The rain had finally stopped. Sunlight entered the library in long, reluctant strips and made the dust visible.
+They sat at opposite ends of the archive table with laptops open between parish transcripts, county directories and scanned registers. Rain had finally stopped. Sunlight entered the library in long, reluctant strips and made the dust visible.
 
-The almost-kiss from the night before occupied more space than either of them acknowledged.
+The almost-kiss from the night before occupied more space than either acknowledged.
 
 Claire had slept badly and resented Adrian for looking as though he had not.
 
@@ -51,19 +50,29 @@ She suspected this was unfair.
 
 It did not make it less useful.
 
-“St Michael’s,” she said, “has baptisms and burials for the Ravens. No marriage for Celeste Vane to anyone.”
+“St Michael’s,” she said, “has Raven baptisms and burials. No marriage between Celeste Vane and anyone.”
 
 “Perhaps they did not marry.”
 
-“Perhaps. But her wording suggests a formal act Sebastian could later deny.”
+“Perhaps. But her letter refers to a copy from a register that could prove something Sebastian might deny.”
 
-“Could be a declaration of paternity.”
+“Birth registration?”
 
-“Could be.”
+“Possible.”
 
-Adrian closed one tab. “You sound disappointed every time a theory survives.”
+“Property?”
 
-“I’m suspicious of theories that survive too easily.”
+“Possible.”
+
+“Marriage?”
+
+“Possible.”
+
+Adrian shut one tab.
+
+“You sound disappointed every time a theory survives.”
+
+“I am suspicious of theories that survive too easily.”
 
 Her phone rang.
 
@@ -87,107 +96,97 @@ Adrian leaned closer to the phone. “Dr Shaw, I am beginning to understand why 
 
 Claire straightened.
 
-Imogen’s voice changed. Less performance, more precision.
+Imogen’s voice shifted from theatre to precision.
 
-“The parish route was a distraction because you were looking for a church marriage. I checked the General Register Office index for 1924.”
+“The parish route was a distraction because you were looking for a church marriage. I checked the General Register Office marriage index for the third quarter of 1924.”
 
 Claire reached for her notebook.
 
 “And?”
 
-“Third quarter. Newcastle registration district. Celeste M. Vane.”
+“Newcastle registration district. Celeste M. Vane.”
 
 Adrian stopped moving.
 
-Imogen continued.
+“Spouse surname Raven,” Imogen continued.
 
-“Spouse surname Raven.”
+Claire wrote the reference although she already knew she would remember it.
 
-Claire wrote the words although she would remember them without help.
+“Cross-reference?”
 
-“First name?”
-
-“The index cross-reference gives Sebastian A. Raven.”
+“Sebastian A. Raven. Same volume, same page.”
 
 The room went very quiet.
 
 Adrian said, “My great-grandfather.”
 
-“Yes,” Imogen said. “Assuming there wasn’t a second Sebastian A. Raven of approximately the correct age wandering Northumberland with identical bad judgement.”
+“Yes,” Imogen said. “Unless Northumberland contained a second Sebastian A. Raven of the correct age with equally inconvenient timing.”
 
-Claire stared at the page.
+Claire stared at the numbers.
 
-A civil index entry was not the certificate. It did not tell them who attended, what address Celeste gave, what Sebastian declared his condition to be, or whether the register itself contained anomalies.
+A civil index entry was not the certificate.
+
+It did not tell them addresses, occupations, witnesses or what Sebastian had declared his marital status to be.
 
 But it existed.
 
-“Volume and page?” Claire asked.
+“Can you order a certificate?”
 
-Imogen read them out.
+“Already requested from the GRO.”
 
-Claire copied both.
+“How long?”
 
-“Can you order the certificate?”
+“Not today, which I know is personally offensive to you.”
 
-“Already tried.”
+“Local register office?”
 
-“And?”
-
-A pause.
-
-“That is the less satisfying part.”
-
-Claire looked at Adrian.
-
-“Go on.”
-
-“The index is valid. The entry exists. But the digitised certificate is unavailable and the local register office says the corresponding original register volume was transferred decades ago. The transfer schedule lists it. The receiving archive does not.”
+“That is the odd part. Their historical volume was transferred during an archive reorganisation decades ago. The transfer list records it leaving; the receiving archive cannot currently locate the physical volume. They are checking uncatalogued accessions.”
 
 “Lost?”
 
-“Missing.”
+“Unlocated.”
 
-“Those are different words.”
+Claire smiled faintly.
 
-“I know why I used mine.”
+“Good word.”
+
+“I knew you would appreciate it.”
 
 Adrian walked to the window.
 
-Claire asked, “Any microfilm?”
+“What does that mean for proof?”
 
-“Not for the register page. Index only.”
+Imogen answered before Claire could.
 
-“Certified copies issued historically?”
+“It means the civil index is strong evidence that a marriage entry was made. It does not mean the national record has ceased to exist because one local volume is missing from a shelf. The GRO copy request is pending.”
 
-“Possible. If Celeste requested one, that could be the ‘copy from the register’ in her letter.”
+“And Celeste’s reference to a copy from the register?” Claire asked.
 
-Claire’s eyes went to the archive boxes.
+“Potentially very important. People obtained certified copies. If she kept one among her papers, you could have the full text before the modern request arrives.”
 
-With the registry papers.
+Claire’s eyes moved towards the archive boxes.
 
 Adrian turned from the window.
 
 “So they were married.”
 
-Claire hesitated.
+Claire took half a second.
 
-“The index is strong evidence that a marriage was registered between Celeste Vane and Sebastian Raven in 1924.”
+“The index strongly supports a registered marriage between Celeste Vane and Sebastian Raven in 1924.”
 
 “That is the longest possible way to say yes.”
 
 “It is the correct length.”
 
-Imogen laughed softly through the speaker.
+Imogen laughed.
 
-“Adrian, if you want reckless certainty, you hired the wrong woman.”
+“Adrian, if you wanted reckless certainty, you hired the wrong woman.”
 
-“I’m beginning to see that.”
+“I am beginning to see that.”
 
-Claire ended the call after agreeing that Imogen would chase archival transfer records and certificate-copy applications.
+Claire ended the call after Imogen promised to chase the GRO request, the local transfer trail and divorce records.
 
-Adrian remained by the window.
-
-He was not looking at Raven House now. He was looking through it.
+Adrian remained at the window.
 
 “1924,” he said.
 
@@ -195,65 +194,65 @@ He was not looking at Raven House now. He was looking through it.
 
 “Four years before Evelyn.”
 
-Claire understood the implication but did not say it yet.
+Claire understood the implication and refused to speak it into fact too early.
 
-Sebastian Raven’s public marriage to Evelyn Ashcombe in 1928 was well documented. Newspaper photographs. Society pages. A church record. A reception at the estate.
+Sebastian’s public wedding to Evelyn Ashcombe in 1928 was well documented. Newspaper photographs. Society pages. A church entry. A reception attended by half the people the county still named roads after.
 
-If the 1924 marriage had never been dissolved—
+If the 1924 marriage had never ended—
 
-She closed that thought before it outran the evidence.
+Claire closed the thought.
 
-“We need to establish whether the marriage ended legally before 1928.”
+“We need to establish dissolution before 1928.”
 
-Adrian turned.
+“Divorce.”
 
-“You think there was a divorce nobody mentioned?”
+“Divorce, annulment, any legal route that ended the first marriage.”
 
-“I think people have hidden stranger things in this house.”
+“You think there could be one nobody mentioned?”
+
+“I think your family has hidden stranger things than paperwork.”
 
 “That was almost humour.”
 
 “It was procedure.”
 
-He came back to the table and stood beside her chair.
+They spent the afternoon checking public divorce indexes, legal notices and newspapers.
 
-“What does this make Eleanor?”
+Nothing.
 
-“A child born after the 1924 registration, if she is their child and if the registration was a marriage.”
+No decree they could identify.
 
-“You are doing it again.”
+No reported annulment.
 
-“Yes.”
+No overseas proceeding obvious enough to find in one day.
 
-“Protecting the sequence.”
+Absence was not proof.
 
-“Yes.”
+But it accumulated into a question with sharper edges.
 
-He rested one hand on the chair back, not touching her.
+Claire opened the 1928 wedding file.
 
-Claire was aware of the care now. After last night he had not presumed anything. The absence of pressure had become its own presence.
+Sebastian Raven and Evelyn Ashcombe stood beneath an arch of white roses in a newspaper photograph. He looked handsome in the bland way old society pages made privileged men handsome. Evelyn’s dress was narrow, modern and expensive.
 
-She opened the 1928 wedding file.
+The caption described the joining of two established families.
 
-Sebastian Raven and Evelyn Ashcombe stood beneath an arch of white roses in a newspaper photograph. He looked handsome in the bland way inherited photographs made men handsome. Evelyn’s dress was narrow, modern, expensive.
+No Celeste.
 
-Below it, a caption described the union of two established families.
+No child.
 
-No mention of Celeste.
+No hint that the groom’s marital status might already have been occupied.
 
-No mention of Eleanor.
-
-Adrian looked over Claire’s shoulder.
+Adrian leaned over Claire’s shoulder.
 
 “My grandmother.”
 
 “Yes.”
 
-“She knew him from 1927.”
+“She met him in 1927.”
 
-“You know that?”
+“According to?”
 
-“Family story. They met at a shooting weekend.”
+“Family story.”
 
 Claire looked up.
 
@@ -261,29 +260,21 @@ Claire looked up.
 
 “Fair.”
 
-They spent the afternoon checking divorce indexes, legal notices and newspapers.
-
-Nothing.
-
-No decree nisi. No decree absolute. No annulment report. No overseas proceeding they could identify.
-
-Absence was not proof.
-
-But it accumulated.
-
-At six, Claire shut her laptop.
+At six, she shut her laptop.
 
 “My eyes have stopped being useful.”
 
-Adrian looked at the clock. “Drink?”
+Adrian checked the clock.
 
-She almost said no from reflex.
+“Drink?”
 
-Then she remembered she had nearly kissed him the night before and had spent the entire day pretending that fact was no more consequential than a pencil annotation.
+She nearly said no out of reflex.
+
+Then she remembered that she had almost kissed him the previous night and spent the entire day pretending the fact was no more consequential than a pencil annotation.
 
 “One.”
 
-He led her not to the formal drawing room but to a smaller room behind the library. It had low shelves, two worn leather chairs and a cabinet containing whisky, gin and several bottles of wine.
+He led her to a smaller room behind the library. Low shelves. Two worn leather chairs. A cabinet containing whisky, gin and several bottles of wine.
 
 “No ancestral portraits?” Claire asked.
 
@@ -293,19 +284,19 @@ He led her not to the formal drawing room but to a smaller room behind the libra
 
 “They watched badly.”
 
-She laughed despite herself.
+She laughed.
 
 He poured whisky for himself and wine for her, then sat opposite rather than beside her.
 
 Again, the distance seemed deliberate.
 
-Claire noticed that too.
+Claire noticed.
 
-“You don’t need to behave as though I’m fragile,” she said.
+“You do not need to behave as though I am fragile.”
 
-“I’m not.”
+“I am not.”
 
-“You’re six feet away.”
+“You are six feet away.”
 
 “You moved away last night.”
 
@@ -321,21 +312,21 @@ She stared at him.
 
 Her smile came before she could stop it.
 
-The room was quiet. No archive boxes. No documents between them.
+The room contained no documents between them.
 
-That made the conversation more dangerous.
+That made it more dangerous than the archive.
 
-Adrian rotated the whisky glass once in his hand.
+Adrian rotated the whisky glass once.
 
 “Why did you move away?”
 
-Claire appreciated the question because it allowed an answer that was not defensive.
+Claire appreciated the question because it did not assume the answer belonged to him.
 
 “Timing.”
 
 “Meaning?”
 
-“I was reading a letter from a woman whose life was shaped by a man’s control over what could be acknowledged. Kissing the owner of her house over the document felt…”
+“I was reading a letter from a woman whose life had been shaped by a man controlling what could be acknowledged. Kissing the owner of her house over the document felt…”
 
 “Poorly catalogued?”
 
@@ -347,13 +338,15 @@ He nodded.
 
 “That makes sense.”
 
-No wounded pride. No argument.
+No wounded pride.
+
+No argument.
 
 Claire took a sip of wine.
 
 “You make it difficult to dislike you consistently.”
 
-“I’ll try harder.”
+“I will try harder.”
 
 “Please do.”
 
@@ -363,11 +356,11 @@ His face softened.
 
 Claire went still.
 
-He added, “Professionally. The thing you keep almost mentioning.”
+He added, “Professionally. The thing you keep almost saying.”
 
 She could have refused.
 
-Instead she looked at the rainless windows.
+Instead she looked at the blank wall where a portrait had once hung.
 
 “A senior academic used my research in a publication. My archive work, my argument, my discovery. He acknowledged me as an assistant.”
 
@@ -379,17 +372,15 @@ Adrian’s expression changed.
 
 “And?”
 
-“He had tenure, reputation and a version of events people found more comfortable.”
+“He had tenure, reputation and a version of events people preferred.”
 
 “Which was?”
 
 “That I was ambitious, difficult and confused about the collaborative nature of scholarship.”
 
-Adrian’s jaw tightened.
+Adrian’s anger arrived quietly.
 
-Claire almost smiled at the cliché of the gesture, then did not. His anger was not theatrical.
-
-“That’s why attribution matters to you,” he said.
+“That is why attribution matters to you.”
 
 “It should matter to everyone.”
 
@@ -407,7 +398,7 @@ He nodded once.
 
 “And now?”
 
-Adrian looked towards the wall that separated them from Celeste’s archive.
+Adrian looked towards the wall separating them from Celeste’s archive.
 
 “Now I wonder whether stewardship is what families call possession when they want it to sound moral.”
 
@@ -415,48 +406,48 @@ Claire said nothing.
 
 He looked back at her.
 
-“If Celeste married Sebastian, if this house was hers, if there was a child—whatever we find, I want you to know I’m not asking you to protect the Raven version.”
+“If Celeste married Sebastian, if the house was hers, if there was a child—whatever we find, I am not asking you to protect the Raven version.”
 
-“That is easy to say before the consequences arrive.”
+“That is easy to say before consequences arrive.”
 
 “I know.”
 
 It was the right answer.
 
-Claire finished half her wine and set the glass down.
+Claire finished half her wine.
 
-The air between them had changed again, but this time neither moved.
+The air between them changed again, but neither moved.
 
-Not yet.
-
-Her phone vibrated on the side table.
+Her phone vibrated.
 
 Imogen.
 
-A message.
-
-**Index confirmed. Transfer trail confirmed. Original certificate register still unaccounted for. No digitised image. If Celeste kept a certified copy, it may be your only surviving full text.**
+**GRO order accepted. Manual local-volume search also opened. No located dissolution so far. If Celeste kept a certified copy, preserve it as primary evidence and compare against the GRO copy when it arrives.**
 
 Claire handed the phone to Adrian.
 
 He read it.
 
-“So we have proof a register entry exists.”
+“So we have an index entry and a certificate request in motion.”
 
 “Yes.”
 
-“But not the certificate.”
+“But not the full certificate tonight.”
 
-“Not yet.”
+“Not from the government.”
+
+“Yet.”
+
+Claire smiled.
+
+“Do not steal my word.”
 
 He handed the phone back.
 
-Raven House had given them a marriage index and taken away the marriage itself.
+Raven House had not swallowed the marriage record from the world.
 
-Claire thought of Celeste’s phrase.
+It had simply left them waiting for official bureaucracy while Celeste’s own letter suggested she had anticipated a different problem entirely.
 
 **The copy from the register is sufficient.**
 
-Somewhere, perhaps, Celeste had known the original could disappear.
-
-And had planned accordingly.
+Somewhere, perhaps, Celeste had kept the evidence close because she knew Sebastian might one day deny what they had done.
