@@ -3,29 +3,28 @@ chapter: 7
 title: "The Nursery"
 act: "I"
 pov: "Claire Mercer"
-status: draft
+status: final-revision
 target_words: 2500
 clues: "C3"
 red_herrings: "R9"
-romance_beat: "Adrian shares a vulnerable childhood memory"
+romance_beat: "Adrian shares a childhood memory; attraction deepens through trust rather than danger"
 ---
 
 # Chapter 7: The Nursery
 
 ## Chapter purpose
-Original plan shows nursery marked 'E'. A silver brush engraved E.V. is found.
+Celeste’s plan marks the old nursery with E; a period silver brush engraved E.V. makes the child clue tangible while Talia’s certainty becomes harder to defend.
 
 ## Mystery movement
 - **Clues:** C3
 - **Red herrings:** R9
-- Evidence must be observed before it is interpreted.
-- POV inference cannot exceed the physical/documentary record.
+- The brush remains genuinely ambiguous between Eleanor Vane and Evelyn-related possibilities until later evidence resolves it.
 
 ## Romance / relationship movement
-Adrian shares a vulnerable childhood memory
+Adrian allows Claire to see the house as a place in which he was once vulnerable, not merely a property he owns.
 
 ## End hook
-Talia’s lie about there never being a child becomes obvious.
+Claire concludes only that Talia lied about there being no child connected to Celeste.
 
 ## Draft
 
@@ -33,9 +32,9 @@ The nursery did not look like a nursery.
 
 That was the first useful thing about it.
 
-The room occupied the north-east corner of the first floor, beyond a narrow corridor Claire had walked twice without noticing the door because someone had painted it the same grey as the wall.
+The room occupied the north-east corner of the first floor beyond a narrow corridor Claire had already walked twice without noticing the door because someone had painted it the same grey as the wall.
 
-Inside were filing cabinets, two rolled carpets, a broken standard lamp and six cardboard boxes labelled CHRISTMAS.
+Inside were four filing cabinets, two rolled carpets, a broken standard lamp and six cardboard boxes labelled CHRISTMAS in three different hands.
 
 Adrian stood behind her.
 
@@ -45,31 +44,39 @@ Adrian stood behind her.
 
 “We use half the house for storage.”
 
+“That explains the archive.”
+
+“That was unkind.”
+
+“Accurate.”
+
 Claire stepped inside.
 
-The room was small compared with the bedrooms around it, but better placed than any box room needed to be. Two windows. Morning light. A fireplace with a shallow tiled surround. Built-in cupboards low enough that a child could once have reached them.
+The room was small compared with the bedrooms around it, but better placed than any ordinary box room needed to be. Two windows faced east and north. The fireplace was shallow and tiled in pale green. Built-in cupboards sat low enough that a child could once have reached them without help.
 
-She looked at Adrian.
+A narrow window seat had rounded corners rather than sharp ones.
 
-“You knew this was a nursery.”
+Claire touched nothing.
 
-“I knew it was called the old nursery.”
+“Who used this originally?”
+
+“No idea.”
+
+“You called it the nursery.”
+
+“The family calls it the old nursery.”
 
 “That is not the same as knowing why.”
 
 “No.”
 
-“Who used it?”
-
-“No idea.”
-
-“Talia said there was no child associated with Celeste.”
+“Talia told me there was no child associated with Celeste.”
 
 “She did.”
 
-“Did anyone ever tell you whose nursery this was?”
+“Did anyone tell you whose nursery this was?”
 
-Adrian leaned one shoulder against the frame.
+Adrian leaned against the frame.
 
 “Mine, briefly.”
 
@@ -81,23 +88,31 @@ Claire paused.
 
 “You think?”
 
-“We were moved to the south rooms later. I remember this room mostly because the radiator hissed.”
+“We were moved to the south rooms later. I remember this room mostly because the radiator hissed all night.”
 
-Claire looked around again.
+“Comforting childhood memory.”
 
-The house was good at turning inheritance into camouflage. A room built for one child could become another child’s room, then storage, and within two generations the original reason for it could disappear without anyone needing to destroy a document.
+“It was either the radiator or the adults.”
 
-She opened the copy of Celeste’s first-floor plan.
+He said it lightly enough that another person might have let the sentence pass.
 
-The nursery was there.
+Claire did not ask yet.
 
-But not labelled nursery.
+She looked around again.
 
-A single letter had been pencilled beside the fireplace.
+The house was good at turning inheritance into camouflage. A room built around one child could become another child’s bedroom, then storage, and within two generations the original purpose could disappear without anyone needing to destroy a single document.
 
-E.
+Claire unfolded Celeste’s first-floor working plan on the cleared top of a filing cabinet.
 
-Claire set the drawing on a cleared cabinet top.
+The room was there.
+
+Not labelled *nursery*.
+
+A single pencilled letter sat beside the fireplace.
+
+**E.**
+
+Claire placed two weights at the corners.
 
 “Adrian.”
 
@@ -105,29 +120,31 @@ He came beside her.
 
 She pointed.
 
-He said nothing.
+“Same pencil?” he asked.
 
-“Original pencil,” Claire said. “Same hand as the annotations we’ve already attributed to Celeste. At least provisionally.”
+“Same type. Same hand provisionally. We would compare letter forms before being categorical.”
 
 “Eleanor.”
 
 “Do not jump.”
 
-“We heard the name Eleanor.”
+“We heard Eleanor yesterday.”
 
-“We heard a sound that resembled the name Eleanor.”
+“We heard a sound both of us interpreted as Eleanor.”
 
-“It was Eleanor.”
+“In a house containing a nursery marked E.”
 
-“You are becoming reckless.”
+“Yes.”
 
-“I have been told I need range.”
+“That is what most people call a pattern.”
 
-Claire ignored that.
+“It is what careful people call a reason to keep looking.”
 
-E could mean anything.
+Adrian smiled.
 
-East.
+Claire considered the alternatives.
+
+E could mean east.
 
 Electrical.
 
@@ -135,57 +152,77 @@ Existing.
 
 A person’s initial.
 
-The room itself made the last possibility stronger, but not conclusive.
+The room’s scale and built-in furniture made the last possibility stronger. They did not make it proof.
 
 She photographed the plan.
 
-“Help me move the boxes.”
+“Help me clear the modern boxes.”
 
-They cleared the room carefully, making a temporary inventory as they went. Christmas decorations. Old linen. A cracked frame. Children’s books from the 1980s. None early enough to matter.
+Adrian looked at the six cartons.
+
+“I thought archivists had assistants.”
+
+“You are an assistant.”
+
+“I own the building.”
+
+“Try not to let that ruin your technique.”
+
+They moved the Christmas boxes to the corridor after Claire recorded their position. Decorations, artificial holly, several decades of badly wrapped lights and a nativity set missing one camel.
+
+Adrian held up the camel-less box.
+
+“Historic loss.”
+
+“Not within scope.”
+
+“You are ruthless.”
 
 Behind the rolled carpets stood a low fitted cupboard.
 
-Adrian opened it.
+The doors opened without resistance.
 
 Empty shelves.
 
-Claire crouched and examined the joinery.
+Claire crouched.
 
-One shelf had a shallow gap behind it.
+The joinery did not quite make sense. One shelf stopped several centimetres short of the back although the cupboard exterior suggested more depth.
 
-“Can this come out?”
+“Has this been altered?”
 
 Adrian knelt beside her.
 
 “Probably.”
 
-“Probably is how damage happens.”
+She looked at him.
 
-“You are very stern near timber.”
+He corrected himself. “I do not know.”
 
-“I become sterner near men who say probably.”
+“Better.”
 
-He looked at her.
+He ran one finger beneath the shelf without pulling.
 
-For a second the room seemed smaller.
+“Jonah showed me a release catch on another cupboard when we inspected damp last winter.”
 
-Then he said, “Jonah showed me the release catch.”
+“Show me without forcing anything.”
 
-That was acceptable.
+He pressed a small wooden tongue underneath.
 
-He pressed beneath the shelf. It lifted at the front and slid forward on old wooden runners.
+The shelf lifted at the front and slid forward on old runners.
 
 Behind it lay a cavity no deeper than Claire’s hand.
 
-Inside was a cloth bundle.
+Inside was a linen bundle.
 
-Not hidden in any dramatic sense. Stored. Forgotten.
+Not hidden in the theatrical sense.
 
-Claire put on gloves before touching it.
+Stored where the cupboard design allowed something small to be kept separately, then forgotten.
 
-The cloth was linen, yellowed but intact.
+Claire put on gloves.
 
-Wrapped inside was a small silver-backed hairbrush.
+The linen was yellowed but intact. She opened it on a clean board.
+
+Inside lay a small silver-backed hairbrush.
 
 Adrian exhaled softly.
 
@@ -193,13 +230,15 @@ Claire turned it over.
 
 Two engraved letters.
 
-E.V.
+**E.V.**
 
-She felt the satisfaction of a pattern almost forming and resisted it.
+Pattern rushed forward again.
+
+Claire pushed it back.
 
 “Could be Evelyn,” Adrian said.
 
-Claire looked at him.
+She looked at him.
 
 “Good.”
 
@@ -211,37 +250,29 @@ Claire looked at him.
 
 “Do not ruin it.”
 
-E.V. could indeed be Evelyn Ashcombe Raven if the object came later. Or Eleanor Vane. Or someone else entirely.
+E.V. could indeed mean Evelyn if the object entered the room later. It could mean Eleanor Vane. It could belong to another person entirely.
 
-The brush design looked early twentieth century, perhaps 1920s or 1930s, but Claire would not date silverware by instinct when hallmarks existed.
+The silver carried hallmarks.
 
-She photographed the marks.
+Claire photographed them under magnification and sent the images to Imogen with a note requesting dating help.
 
-“There’s a hallmark.”
+Adrian shifted on the floor.
 
-“Can you read it?”
-
-“Not properly here.”
-
-Adrian shifted position on the floor.
-
-His knee touched hers.
+His knee touched Claire’s.
 
 Neither moved immediately.
 
-Claire became aware of the contact with ridiculous precision.
+The contact was ridiculous in its precision.
 
-Wool trouser against denim.
+Wool against denim.
 
 Warmth through fabric.
 
 Then Adrian sat back.
 
-Professional space returned.
-
 “Sorry.”
 
-“It’s a cupboard.”
+“It is a cupboard.”
 
 “That sounded like absolution.”
 
@@ -249,43 +280,77 @@ Professional space returned.
 
 He smiled.
 
-Claire wrapped the brush again and placed it in an archival tray.
+Claire rewrapped the brush in clean tissue rather than the original linen, which she bagged separately for examination.
 
 “Did your family keep baby things?” she asked.
 
 “Too many.”
 
-“Your mother?”
+“Whose?”
 
-“Talia mostly.”
+“Mine. Sophie’s. My father’s, apparently. Talia kept boxes because she believed throwing away a christening shoe was an act of civilisational decline.”
 
-“You said she raised you for part of your adolescence.”
+“Then an old child’s object in this room is not automatically Celeste-related.”
 
-Adrian’s expression changed slightly.
+“No.”
 
-Claire waited.
+“Good.”
 
-He looked towards the windows.
+Adrian looked at her. “Do you enjoy being disappointed?”
 
-“My mother was ill for several years.”
+“I enjoy not lying to myself.”
 
-“I’m sorry.”
+That quieted him.
 
-“She recovered. Mostly.”
+Claire examined the back of the cupboard. Pencil marks ran up one interior stile.
 
-The qualification mattered.
+Three feet two.
 
-Adrian sat on the edge of the low window seat.
+Three feet five.
+
+Three feet eight.
+
+Several hands. Different pencil pressures. No names.
+
+A tiny filled nail hole sat at child height beside the fireplace. Near the ceiling, a pale horizontal band marked where a paper frieze had once run around the room.
+
+“Do you remember the frieze?” Claire asked.
+
+“Birds.”
+
+“You are sure?”
+
+“Almost. Blue and red. They repeated.”
+
+“Photographs?”
+
+Adrian opened his mouth.
+
+Claire raised a finger.
+
+He changed the answer.
+
+“I will check.”
+
+“Learning.”
+
+They worked for another hour.
+
+The room became more childlike the more modern storage left it. Rounded cupboard pulls. Low hooks hidden under later paint. A narrow shelf sized for small books. None dated the original occupant, but together they established that the room had been designed deliberately for a child rather than later acquiring the nickname by accident.
+
+Adrian sat on the window seat while Claire measured the cupboard.
 
 “When I was nine, I used to hide in here.”
 
-Claire leaned back against the cabinet.
+She looked up.
 
 “Why?”
 
 “Because no one looked for me in a room everyone thought was empty.”
 
-The sentence was quiet enough that she nearly missed its weight.
+His voice was quiet enough that the joke had disappeared from it.
+
+Claire put down the tape measure.
 
 “From whom were you hiding?”
 
@@ -295,115 +360,73 @@ He gave a dry half-smile.
 
 “Very dramatic child.”
 
-Claire did not let him turn it into a joke.
+She did not let him make it smaller.
 
 “What were you avoiding?”
 
-“People asking me to be sensible.”
+Adrian looked out through the east window.
 
-“That seems to have failed.”
+“My mother was ill for several years. Nothing cinematic. She was simply absent from herself for long stretches and then embarrassed by it when she was better.”
 
-This time he laughed.
+Claire waited.
 
-Then the laugh faded.
-
-“My father believed responsibility cured everything. Talia believed silence prevented damage. Sophie believed leaving prevented both.”
+“My father responded to worry by creating duties. Talia responded by creating silence. Sophie responded by leaving any room before anyone could ask how she felt.”
 
 “And you?”
 
-“I inherited the building.”
+“I became sensible.”
 
-It was the closest he had come to saying the house was a burden.
+The word carried no pride.
 
-Claire understood more than she wanted to.
+Claire leaned against the cabinet.
 
-“Is that why you’re selling?”
+“You make that sound like a diagnosis.”
+
+“It worked.”
+
+“That was not what I said.”
+
+He looked at her.
+
+“No.”
+
+She understood the architecture of him a little better then.
+
+Responsibility as shelter.
+
+Control as a way of keeping other people from becoming another crisis.
+
+The insight should have made him easier to classify.
+
+Instead it made him more dangerous to her professional distance.
+
+“Is that why you are selling?” she asked.
 
 “Partly.”
 
 “What is the other part?”
 
-He looked at her.
+He looked at the plan marked E.
 
 “Not today.”
 
 Claire accepted that.
 
-People were allowed boundaries. Secrets became professionally relevant only when they touched evidence.
+People were allowed boundaries. Secrets became professionally relevant when they touched evidence, not merely because she wanted to know them.
 
-She returned to the plan.
+The lesson would matter later.
 
-“What do you remember about this room?”
+At three, Talia appeared in the doorway.
 
-“The radiator.”
+Her gaze went first to the cleared cupboard.
 
-“You said that.”
+Then to the archival tray containing the brush.
 
-“The windows rattled in wind.”
-
-“Anything written? Painted? Stored?”
-
-He thought.
-
-“There used to be a paper frieze near the ceiling.”
-
-“What kind?”
-
-“Birds, maybe. My father had it removed when the plaster was repaired.”
-
-Claire looked up.
-
-A faint horizontal discolouration circled the room about twenty centimetres below the cornice.
-
-“Original?”
-
-“No idea.”
-
-“Photographs?”
-
-“Probably.”
-
-That word again.
-
-She gave him a look.
-
-He corrected himself. “I will check.”
-
-“Better.”
-
-They spent another hour documenting the room.
-
-Behind the fireplace surround, Claire found a small filled nail hole at child height. On the cupboard interior, pencil ticks marked growth: 3'2, 3'5, 3'8. No names. The handwriting varied.
-
-None proved anything.
-
-But together they made Talia’s certainty increasingly difficult.
-
-No child associated with Celeste.
-
-Yet Celeste’s plan marked the room E.
-
-A small personal brush engraved E.V. had been stored in a concealed shelf cavity.
-
-And a name sounding like Eleanor had travelled through Celeste’s acoustic network the previous day.
-
-Claire still did not know who Eleanor was.
-
-But she knew the house had been organised around the presence of a child someone later preferred not to remember.
-
-At three, Talia appeared.
-
-She stood in the doorway and looked at the cleared room.
-
-Her gaze went first to the open cupboard.
-
-Then to the archival tray.
-
-Claire noticed.
+Claire noticed the order.
 
 “What have you found?” Talia asked.
 
-“A brush.”
+“A silver-backed brush.”
 
 “That hardly seems revolutionary.”
 
@@ -419,7 +442,7 @@ Talia looked at it.
 
 Claire tilted her head.
 
-“You didn’t ask the date.”
+“You did not ask the date.”
 
 Talia’s expression sharpened.
 
@@ -427,31 +450,29 @@ Talia’s expression sharpened.
 
 “Not yet.”
 
-“Then you have nothing.”
+“Then you have an object.”
 
-“I have an object.”
+“Yes.”
 
-“That is what I said.”
+Claire appreciated the wording even while distrusting the certainty behind it.
 
-Claire picked up the plan.
+She lifted Celeste’s plan.
 
 “And this.”
 
-She showed Talia the pencilled E.
+Talia looked at the pencilled E.
 
-For one second, Talia looked older.
+For one second, something in her face softened into exhaustion.
 
-Not frightened.
-
-Tired.
+Then the shutters came down.
 
 “What does that mean?” Claire asked.
 
 “Electrical, perhaps.”
 
-“In a room with no comparable notation elsewhere?”
+“In a room with no equivalent notation beside the other electrical routes?”
 
-“I’m not an architect.”
+“I am not an architect.”
 
 “You are very certain for someone who is not.”
 
@@ -465,9 +486,9 @@ Claire kept her voice even.
 
 “There wasn’t.”
 
-“Then why does Celeste mark this room E?”
+“Then why does Celeste mark a purpose-built child’s room with E?”
 
-“I don’t know.”
+“I do not know.”
 
 “Why did you react to the name Eleanor?”
 
@@ -483,7 +504,7 @@ Talia looked directly at her.
 
 “You are mistaking pattern recognition for knowledge.”
 
-“Sometimes.” Claire held up the plan. “That is why I document the pattern.”
+“Sometimes.” Claire held up the plan. “That is why I document the pattern rather than announce the answer.”
 
 Talia’s gaze moved to Adrian.
 
@@ -495,9 +516,9 @@ Talia’s gaze moved to Adrian.
 
 Then she left.
 
-The room held silence after her.
+The room held the shape of her absence.
 
-Adrian looked at the empty doorway.
+Adrian looked at the doorway.
 
 “She knows.”
 
@@ -511,30 +532,30 @@ Claire put the plan down.
 
 He turned to her.
 
-Claire pointed to the E on the drawing.
+Claire pointed to the E.
 
-“This is evidence that Celeste associated this room with that letter. The brush is evidence that someone with the initials E.V. had an object stored here. Talia’s reaction is evidence that the subject makes her uncomfortable.”
+“This is evidence that Celeste associated this room with that letter. The brush is evidence that an object engraved E.V. was stored here. The room itself was designed for a child. Talia’s reaction is evidence that the subject makes her uncomfortable.”
 
-“And the name Eleanor?”
+“And Eleanor?”
 
-“Unverified sound.”
+“Still an unidentified voice.”
 
 “You are impossible.”
 
-“Useful, though.”
+“Useful.”
 
 Adrian smiled.
 
-“Yes,” he said. “Unfortunately.”
+“Yes. Unfortunately.”
 
-Claire looked again at the low cupboards, the growth marks, the two windows designed for morning light.
+Claire looked again at the low cupboards, the old growth marks and the windows placed for morning light.
 
-Talia had not merely said she did not remember a child.
+Talia had not said she failed to remember a child.
 
 She had said there was none.
 
-That distinction mattered.
+Those were different claims.
 
-For the first time, Claire allowed herself one conclusion without qualification.
+Claire was willing, for once, to let the distinction become a conclusion.
 
 Talia Raven had lied.
