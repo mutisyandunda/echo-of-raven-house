@@ -3,7 +3,7 @@ chapter: 12
 title: "The False Pedigree"
 act: "IIA"
 pov: "Claire Mercer"
-status: draft
+status: final-revision
 target_words: 2550
 clues: "C20 seed"
 red_herrings: "R4, R3"
@@ -13,19 +13,19 @@ romance_beat: "Adrian chooses Claire’s investigation over family comfort"
 # Chapter 12: The False Pedigree
 
 ## Chapter purpose
-Claire catches Talia burning a family tree. Adrian backs Claire despite pressure from Harcourt.
+Claire interrupts Talia destroying an inaccurate modern genealogy. The scene looks like evidence suppression, but the document proves to be a secondary source whose real value is that someone had already connected Vane, Mercer and the possibility of descendants.
 
 ## Mystery movement
 - **Clues:** C20 seed
 - **Red herrings:** R4, R3
-- Evidence must be observed before it is interpreted.
-- POV inference cannot exceed the physical/documentary record.
+- Talia’s action is ethically troubling without being equivalent to destruction of primary evidence.
+- Harcourt remains a procedural obstacle, not a secret murderer’s solicitor.
 
 ## Romance / relationship movement
-Adrian chooses Claire’s investigation over family comfort
+Adrian publicly protects the scope of Claire’s work even when doing so costs him family peace.
 
 ## End hook
-Burned edge reads 'Vane — issue unknown.'
+The surviving edge reads “Vane — issue unknown” and bears a Mercer address trace.
 
 ## Draft
 
@@ -61,7 +61,7 @@ Talia’s expression did not change.
 
 “It is mine.”
 
-“That does not make fire archival storage.”
+“That does not make fire an acceptable filing system.”
 
 Talia let the sheet fall into the grate.
 
@@ -79,7 +79,7 @@ Then at Talia.
 
 Talia did.
 
-Claire pulled the half-burning sheet from the grate and dropped it onto the stone hearth. She stamped out the edge with the sole of her shoe.
+Claire pulled the burning sheet from the grate and dropped it onto the stone hearth. She stamped out the edge with the sole of her shoe.
 
 The alarm began to shriek.
 
@@ -87,15 +87,15 @@ The alarm began to shriek.
 
 Claire ignored her.
 
-The paper was modern. Heavy cream stock. Printed rather than handwritten. A family tree, or part of one.
+The paper was modern. Heavy cream stock. Laser printed, not typed. A family tree, or part of one.
 
-Names branched upward beneath the soot.
+Names branched upward beneath soot.
 
 RAVEN appeared twice.
 
 VANE once.
 
-Then smoke rolled across the ceiling and Adrian entered at speed.
+Smoke rolled across the ceiling as Adrian entered at speed.
 
 “What happened?”
 
@@ -103,7 +103,7 @@ Claire pointed at the hearth.
 
 “Talia was burning a document.”
 
-Talia said, “A genealogical draft with errors.”
+Talia said, “An inaccurate genealogical chart.”
 
 Adrian looked from one woman to the other.
 
@@ -111,7 +111,7 @@ Adrian looked from one woman to the other.
 
 “Because it was wrong.”
 
-“Then why not throw it away?” Claire asked.
+Claire turned. “Then why burn it instead of binning it?”
 
 Talia’s mouth tightened.
 
@@ -119,35 +119,41 @@ Talia’s mouth tightened.
 
 The answer was too neat.
 
-Adrian crossed to the alarm panel and silenced it.
+Adrian silenced the alarm at the wall panel and opened the window.
 
 Claire crouched over the damaged sheet.
 
-The visible text was a printed genealogy compiled by someone named Arthur Pell, 1989.
+At the bottom corner, an attribution remained visible.
 
-A secondary source.
+**Compiled by Arthur Haines, 1989. Private circulation.**
 
-Not proof of anything.
+Not Pell.
 
-She felt some of her anger recede.
+Not the solicitor connected with Celeste.
 
-“What exactly was wrong?” she asked.
+Not a contemporary witness.
+
+A modern secondary genealogy.
+
+Claire felt some of her anger recede and a different problem take its place.
+
+“What exactly was wrong?”
 
 “Almost everything after 1920.”
 
 “Specific.”
 
-“It connected people who were not connected.”
+“It joined people who were not joined.”
 
 “Which people?”
 
 Talia looked at Adrian.
 
-That was answer enough to keep Claire interested.
+That was enough to keep Claire interested.
 
-“Talia,” Adrian said.
+“Talia,” he said.
 
-His voice had no softness in it now.
+His voice had no softness in it.
 
 She turned on him.
 
@@ -155,43 +161,45 @@ She turned on him.
 
 “Do what?”
 
-“Stand there as if I am some suspect being questioned in my own family’s house.”
+“Stand there as though I am a suspect in my own family’s house.”
 
 Claire said nothing.
 
 Adrian did.
 
-“Claire has found evidence the family history is incomplete.”
+“Claire found you burning a family document while she is investigating the family archive.”
 
-“Claire has found fragments and turned them into a theory.”
+“A photocopied fantasy by an amateur genealogist.”
 
-“No,” Claire said. “I have repeatedly refused to do exactly that.”
+“Then explain it.”
+
+Talia’s eyes hardened.
+
+“You have become very brave with history since it started admiring you.”
+
+Adrian went still.
+
+Claire understood the target and disliked it.
+
+“This has nothing to do with me,” she said.
 
 Talia looked at her.
 
-“You enjoy the distinction because it protects you from responsibility for where this is going.”
+“It has increasingly too much to do with you.”
 
-That landed.
+That mattered.
 
-Claire stood.
+Claire let the words remain in the room.
 
-“Where is it going?”
+Peter Harcourt appeared in the doorway two minutes later, summoned by the alarm rather than by supernatural legal instinct.
 
-Talia did not answer.
+“What happened?”
 
-The silence stretched.
+Claire almost laughed anyway.
 
-Then Peter Harcourt appeared in the doorway.
+“Talia attempted to burn a genealogy.”
 
-Claire almost laughed.
-
-“Do you live in the walls too?”
-
-“I was in the estate office.”
-
-“Of course you were.”
-
-Harcourt looked at the hearth and then at Talia.
+Harcourt looked at the hearth.
 
 His reaction was small but visible.
 
@@ -199,181 +207,193 @@ Recognition.
 
 Claire noticed.
 
-“What document?” he asked.
+“You have seen it?”
 
-“A nonsense pedigree,” Talia said.
+“Something like it.”
+
+Talia said, “Arthur Haines’s nonsense.”
 
 Harcourt exhaled.
 
-“Then perhaps we can all stop behaving as though the Magna Carta has been set alight.”
+“Yes. A privately circulated family tree from the late eighties. It was never part of the formal title material.”
 
 Claire looked at him.
 
-“Did you know it existed?”
+“What made it nonsense?”
 
-“I have seen various private genealogies over the years.”
+“Haines speculated where records were absent. He connected private correspondence, parish entries and family rumours with more confidence than the evidence justified.”
 
-“Did you see this one?”
+“About Celeste?”
 
-“I don’t recall.”
+Harcourt hesitated.
 
-“Convenient.”
+“Among others.”
 
-“Dr Mercer, this is precisely the problem I warned about. You are here to catalogue an archive, not cross-examine the family.”
+Talia folded her arms.
 
-Adrian said, “That is enough.”
+“There. Satisfied?”
 
-Harcourt turned.
+“No.”
 
-“Adrian.”
+“Dr Mercer—” Harcourt began.
 
-“No. You do not get to narrow her brief every time the evidence becomes uncomfortable.”
+Adrian cut him off.
 
-Claire looked at him.
+“Peter.”
 
-He continued.
+Harcourt stopped.
 
-“If a document bears on Celeste, the house, its provenance or the family history used to establish either, Claire examines it.”
+Adrian looked at Claire.
 
-Talia’s face hardened.
+“If a document bears on Celeste, Raven House, provenance or the family history used to explain either, Claire examines it.”
+
+Harcourt’s jaw tightened.
+
+“Provided she does not treat a speculative genealogy as evidence of legal title.”
+
+“I would not,” Claire said.
+
+He nodded once.
+
+“That is all I am asking.”
+
+Talia looked at Adrian.
 
 “You are choosing a stranger over your family.”
 
-Adrian’s jaw moved once.
+“No.”
 
-“No. I am choosing the investigation I commissioned.”
+He did not raise his voice.
+
+“I am choosing the investigation I commissioned.”
 
 “Same thing.”
 
 “It should not be.”
 
-That sentence changed the room.
+The sentence changed the room.
 
-Claire felt it in Talia before she saw it.
+Claire felt the effect in Talia before she saw it.
 
 Not anger.
 
 Pain.
 
-Old enough to have happened before.
+Old pain, which meant Adrian had touched an argument larger than the morning.
 
-Talia looked at Adrian for a long moment, then left without another word.
+Talia picked up her walking stick.
+
+“You think truth behaves well because you call it evidence.”
+
+“No,” Claire said. “I think evidence gives us a chance to know what truth is before we decide what it costs.”
+
+Talia looked at her for a long moment.
+
+Then she left.
 
 Harcourt followed more slowly.
 
-At the door he stopped.
+At the door he paused.
 
-“Be careful what certainty costs you.”
+“For what it is worth, I do not believe she was destroying primary evidence.”
 
-Claire had heard versions of that warning from three different Ravens now.
+“Neither do I,” Claire said.
 
-When they were alone, she looked at Adrian.
+“You are still angry.”
 
-“You did not need to do that.”
+“Yes.”
 
-“Yes, I did.”
+“Why?”
 
-“No. You could have asked me to back off and I would have told you why I wouldn’t.”
+“Because inaccurate records are still evidence of what somebody believed, feared or wanted others to believe.”
 
-“That sounds restful.”
+Harcourt considered that.
 
-She almost smiled.
+“Fair.”
 
-Adrian looked at the charred paper.
+Then he left too.
 
-“Was she destroying evidence?”
+Adrian crouched beside the damaged sheet.
 
-“I don’t know.”
+“Was she hiding something?”
 
-“That is not a satisfying answer.”
+“I do not know.”
+
+“That is not satisfying.”
 
 “Then stop asking questions before we examine things.”
 
-He crouched beside her.
+He looked at her.
 
-Together they moved the damaged sheet onto a rigid board.
+“Very well.”
 
-Most of the lower branch was lost. What remained included Sebastian Raven, Evelyn Ashcombe, Julian Raven and later descendants.
+Together they moved the scorched genealogy onto a rigid support board.
 
-On the left margin, a separate Vane branch had been pencilled over the printed tree.
+Claire photographed both sides under normal and raking light.
 
-Not by the compiler.
+Most of the lower branch had burned away. What remained included Sebastian Raven, Evelyn Ashcombe, Julian Raven and later descendants.
 
-Different hand.
+On the left margin, someone had pencilled a separate Vane branch over the printed chart.
 
-Claire angled the paper beneath a lamp.
+Different hand from Haines’s typed material.
 
-There was a faint notation beside Celeste’s name.
+Beside Celeste’s name sat a question mark.
 
-A question mark.
-
-Below it, a line extending to a space where fire had eaten the paper.
+Below it, a line extended into the burned portion.
 
 Adrian said, “Child?”
 
 “Could be.”
 
-“Eleanor.”
+“Eleanor?”
 
 “Could be.”
-
-He gave her a look.
 
 “I know. Reckless.”
 
 “Learning.”
 
-Claire photographed both sides.
+The reverse carried a private genealogical-society accession stamp and remnants of an address label.
 
-The reverse held a library accession stamp from a private genealogical society and, near the top, an address label.
+The recipient’s name had been torn away.
 
-The addressee had been cut away.
+Part of the address survived.
 
-But part of the address remained.
+Claire leaned closer.
 
-Mercer.
+**… Mercer**
 
-Claire stared.
+Her own surname on a burned family tree looked wrong in a way no mystery clue had prepared her for.
 
-Adrian saw it too.
+Adrian saw it.
 
 “Your name.”
 
 “A common surname.”
 
-“Not common enough to ignore in this house.”
+“Not common enough to be invisible now.”
 
 She disliked how quickly her pulse changed.
 
 “Do not make me part of the evidence.”
 
-“I’m not.”
+“I am not.”
 
 “You are looking at me as if—”
 
-“As if Talia asked where your grandmother came from three days ago?”
+“As if Talia asked where your grandmother came from?”
 
 Claire stopped.
 
 He was right.
 
-She hated that more than if he had been fanciful.
+That made the coincidence sharper, not conclusive.
 
-“Still coincidence until established,” she said.
+She turned back to the paper.
 
-“Fine.”
+Near the lower edge, where fire had blackened but not consumed the sheet, three printed words remained.
 
-“Say it like you mean it.”
-
-“Coincidence until established.”
-
-“Better.”
-
-Claire turned back to the paper.
-
-Near the bottom edge, where the fire had blackened but not consumed the sheet, three printed words remained.
-
-She used a magnifier.
+Claire used a magnifier.
 
 **Vane — issue unknown.**
 
@@ -381,26 +401,66 @@ Issue.
 
 Genealogical language for child or descendants.
 
-Not proof that Celeste had one.
+Not proof that Celeste had a daughter.
 
-But proof that by 1989 someone had considered the possibility seriously enough to put it on a family tree.
+Not proof that Claire was connected to her.
+
+Proof only that by 1989 someone constructing a Raven family tree had encountered enough uncertainty to mark Celeste’s descendants as a question.
+
+And proof that at some point the chart, or a copy of it, had travelled through an address involving Mercer.
 
 Adrian read over her shoulder.
 
-“So Talia burned a false pedigree that asks whether Celeste had descendants.”
+“So Talia burned a bad pedigree that asked whether Celeste had descendants.”
 
 “Yes.”
 
-“And it passed through someone named Mercer.”
+“And it passed through somebody named Mercer.”
 
-“Possibly.”
+“Apparently.”
 
-“Claire.”
+“And that still means nothing about you.”
 
-She looked at him.
+Claire looked at him.
 
-“I know.”
+“Thank you.”
 
-For once, caution did not make the coincidence smaller.
+“For what?”
 
-It made it sharper.
+“Not saying the obvious dramatic sentence.”
+
+“I am learning from a tyrant.”
+
+“Good.”
+
+He smiled faintly.
+
+Then Claire noticed another detail at the upper margin.
+
+In Talia’s handwriting, much later than 1989, were three words:
+
+**Not for archive.**
+
+Claire felt the morning rearrange itself again.
+
+Talia had not merely found the chart today and decided it was wrong.
+
+She had already classified it once.
+
+Not for archive.
+
+A private decision about what future people were allowed to see.
+
+Claire photographed the note.
+
+“Now,” Adrian said quietly, “are you willing to say she knows something?”
+
+Claire looked at the burned edge, the Mercer address and Talia’s instruction.
+
+“Yes,” she said.
+
+“Something.”
+
+For once, caution did not make the pattern smaller.
+
+It made the silence around it more deliberate.
