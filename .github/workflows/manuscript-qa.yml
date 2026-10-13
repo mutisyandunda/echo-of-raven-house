@@ -34,3 +34,10 @@ jobs:
 
       - name: Verify clean build exists
         run: test -s export/the-echo-of-raven-house.md
+
+      - name: Upload clean manuscript
+        uses: actions/upload-artifact@v4
+        with:
+          name: clean-manuscript
+          path: export/the-echo-of-raven-house.md
+          if-no-files-found: error
