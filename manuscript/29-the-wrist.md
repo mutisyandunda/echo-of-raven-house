@@ -3,29 +3,29 @@ chapter: 29
 title: "The Wrist"
 act: "III"
 pov: "Claire Mercer"
-status: revision-1
+status: final-revision
 target_words: 2500
 clues: "C13"
 red_herrings: "R7"
-romance_beat: "Adrian admits fear that his family identity is built on cowardice"
+romance_beat: "Adrian recognises the family pattern in himself without using self-condemnation to solicit Claire’s forgiveness"
 ---
 
 # Chapter 29: The Wrist
 
 ## Chapter purpose
-Coroner notes show wrist bruising. Sebastian’s diary line appears damning.
+The original coroner’s papers establish a recent circumferential wrist bruise, while Sebastian’s ambiguous diary line appears to incriminate him. Claire keeps the physical evidence separate from the answer the family fears.
 
 ## Mystery movement
 - **Clues:** C13
 - **Red herrings:** R7
-- Evidence must be observed before it is interpreted.
-- POV inference cannot exceed the physical/documentary record.
+- Bruising supports pre-fall restraint only after later corroboration; it does not identify the person responsible by itself.
+- Sebastian’s diary line remains fairly ambiguous until Chapter 32 resolves it.
 
 ## Romance / relationship movement
-Adrian admits fear that his family identity is built on cowardice.
+Adrian sees that his own instinct to manage information resembles the family pattern, but Claire refuses both absolution and inherited guilt.
 
 ## End hook
-Claire concludes Celeste was restrained before the fall.
+The medical record makes pre-fall restraint a credible explanation that now requires independent corroboration.
 
 ## Draft
 
@@ -43,67 +43,119 @@ No mention of another person.
 
 Just the body recording contact after everyone else had simplified the fall.
 
-Imogen had found the notes in a county archive box incorrectly indexed under the coroner’s surname rather than Celeste’s.
+Imogen had found the original inquest papers in a county archive series indexed under the coroner’s surname rather than Celeste’s. The newspaper report the Ravens kept in their family file summarised the death in six lines.
 
-“Original?” Claire asked over video.
+The archive box contained thirty-seven pages.
 
-“Yes. Full inquest file, not the newspaper summary.”
+Claire considered that difference an argument for civilisation.
+
+“Original?” she asked over video.
+
+“Yes. Inquest file. Clerk’s cover sheet, medical notes, statements, jury finding.”
 
 “Photographs?”
 
-“None retained.”
+“None surviving here.”
 
-“Witness statements?”
+“Post-mortem report?”
 
-“Three. Housemaid, doctor, Sebastian.”
+“Medical examination notes, not a modern forensic report. Do not make a 1931 county doctor perform like a twenty-first-century pathologist.”
 
-Claire felt Adrian go still beside her.
+Claire smiled faintly.
+
+“You are becoming tiresome.”
+
+“Peer influence.”
+
+Adrian sat beside the screen but not beside Claire. Since the rupture, he had become careful about physical distance in a way that would have felt performative if he ever looked at her to see whether she noticed.
+
+He did not.
+
+That was why she noticed.
+
+Imogen scrolled through the digitised pages.
+
+“Three witness statements. Housemaid. Doctor. Sebastian.”
+
+Adrian went still.
 
 “Read Sebastian’s.”
 
 Imogen did.
 
-Sebastian claimed he was in the library when he heard a cry and found Celeste below the west stair. He said no one else was present when he reached the landing.
+Sebastian stated that he had been in the library shortly before nine when he heard a cry from the west stair. He went out, found Celeste below the lower flight and called for help.
+
+He said no one else was present when he reached the landing.
 
 No mention of Evelyn.
 
-No mention of an argument.
+No argument.
 
-No mention of the gate.
+No gate.
 
-Claire said, “Any statement from Evelyn?”
+No explanation for why Celeste was at Raven House beyond “business concerning the property.”
+
+Claire wrote each omission separately rather than combining them into guilt.
+
+“Any statement from Evelyn?”
 
 “No.”
 
 “She was in the house?”
 
-“Guest list suggests yes. No sworn statement in the file.”
+“Household diary places her at dinner that evening. A maid says Mrs Raven went upstairs early because of a headache. Nobody seems to have taken a formal statement.”
 
 Adrian said, “Convenient.”
 
 Claire looked at him.
 
-“Maybe. Do not convert absence into orchestration yet.”
+“Perhaps. Or investigators accepted Sebastian’s account and never thought she was relevant.”
+
+“Which would itself be convenient.”
+
+“Yes. But convenience is not evidence of orchestration.”
 
 He gave a tired nod.
 
-Imogen scanned the medical description.
+The medical note described the fatal injuries in spare clinical language Claire refused to visualise beyond what the case required.
 
-The wrist bruise was narrow, recent and on the right arm. There were no corresponding marks on the left.
+The wrist bruise was narrow, recent and complete enough around the right arm that the doctor had specifically recorded it apart from the abrasions caused by the fall.
 
-Could come from a fall.
+Imogen enlarged the line.
 
-Could come from someone catching her.
+“Could be impact?” Adrian asked.
 
-Could come from someone holding her.
+“Could,” Claire said.
 
-Claire wrote all three.
+“Could someone have caught her as she fell?”
 
-Then Sophie brought in Sebastian’s diary.
+“Yes.”
 
-It was not really a diary. More a desk calendar with occasional personal lines written beneath appointments.
+“Could someone have held her before?”
 
-17 October 1931 contained one sentence.
+“Yes.”
+
+“You are very useful today.”
+
+“Those are the honest possibilities.”
+
+The bruise did not come with a hand attached.
+
+Claire wrote:
+
+**Right wrist: recent circumferential bruising. Timing relative to fall uncertain. Mechanism not established.**
+
+Then Sophie brought in Sebastian’s desk calendar.
+
+She held it as though it might bite.
+
+“Talia says this is the one he used in 1931.”
+
+Claire cleared a space.
+
+It was not a diary in the literary sense. Appointments occupied most pages. Train times. Names. Estate business. Occasional personal lines in margins.
+
+17 October contained one sentence beneath the evening entry.
 
 **Tonight I ended what should never have begun.**
 
@@ -113,59 +165,91 @@ No one spoke for several seconds.
 
 Adrian said, “That sounds like a confession.”
 
-“It sounds like a sentence written by a man who wanted future readers to misunderstand him,” Claire said.
+“It sounds like a sentence written by a man who supplied no object,” Claire said.
 
 “That is generous.”
 
-“No. It is cautious.”
+“No. It is grammar.”
 
-“What else could it mean?”
+“What else could *ended* mean on the night Celeste died?”
 
-“A relationship. A plan. An argument. An attempt at reconciliation. A promise. The sentence is useless without object.”
+“A relationship. A conversation. A plan. An attempt at reconciliation. A financial arrangement. A promise.”
 
-“Celeste died that night.”
-
-“Yes.”
-
-“And he wrote ended.”
+“Or a life.”
 
 “Yes.”
 
-Claire hated how damning it looked too.
+Claire did not remove the darkest interpretation merely because it was dark.
 
-But a mystery became unfair the moment an ambiguous line was promoted because it fit the answer everyone wanted.
+She refused to promote it merely because it fit.
 
-They took the diary to the west stair.
+A mystery became unfair the moment ambiguous language was treated as confession because everyone wanted an answer.
 
-Claire stood on the landing again.
+They examined the surrounding pages.
 
-She asked Jonah to model the fall geometry with a weighted dummy, not because it could reconstruct a human confrontation precisely, but because it could test whether wrist bruising plausibly resulted from impact with the railing or floor.
+15 October: **C.V. — answer required.**
 
-It did not fit neatly.
+16 October: **Pell telephoned. No.**
 
-The right wrist did not strike the relevant surfaces in any likely backward fall path.
+17 October afternoon: **C.V. 8.30. Final.**
 
-Jonah said, “Could still have happened. Bodies move.”
+18 October contained no personal sentence at all.
+
+The context made Sebastian’s line more important and no less ambiguous.
+
+Sophie looked sick.
+
+“He met her that night.”
 
 “Yes.”
 
-“But if someone had her by the wrist first…”
+“Final.”
 
-Claire looked at the open edge.
+“Yes.”
 
-A hand around a wrist.
+“And then she died.”
 
-A woman trying to leave.
+“Yes.”
 
-A backward step.
+Claire hated the word *yes* by the third time.
 
-No gate.
+Jonah joined them at the west stair after lunch.
 
-Still not proof.
+Claire did not ask him to reconstruct a human fall as though a weighted dummy could reproduce fear, footwear, muscle response or a struggle from ninety-five years earlier.
 
-But the pieces had begun touching.
+Instead they used the architecture to test narrower possibilities.
 
-Later, Claire found Adrian in the drafting room, staring at Celeste’s desk.
+Where could the right wrist plausibly contact a fixed surface if someone stepped backward through the opening?
+
+Could the surviving railing produce a circumferential bruise?
+
+Could a wrist strike the gate fixings during a fall?
+
+The answers were unsatisfying.
+
+A direct fall path offered several possible impacts to forearm and hand but no obvious mechanism for a narrow mark wrapping around the wrist.
+
+Jonah said exactly what Claire wanted him to say.
+
+“That does not mean it couldn’t happen. Bodies move. We do not know her orientation.”
+
+“Good.”
+
+Adrian looked at both of them.
+
+“You sound pleased by uncertainty.”
+
+“I am pleased by people not pretending geometry can answer physiology.”
+
+Jonah nodded. “Put that on my invoice.”
+
+Claire stood at the landing edge behind the temporary barrier installed after her own near fall.
+
+A hand around a wrist remained a strong possibility.
+
+It also remained a story until another source said so.
+
+Later she found Adrian in the drafting room, alone before Celeste’s desk.
 
 He did not hear her enter.
 
@@ -181,7 +265,7 @@ He looked up.
 
 Claire stayed near the door.
 
-“If Sebastian pushed her, then we inherited from a murderer. If Evelyn caused it and he covered it up, we inherited from a coward. If neither, we spent ninety years protecting a lie anyway.”
+“If Sebastian pushed her, we inherited from a murderer. If Evelyn caused it and he covered it up, we inherited from a coward. If neither, we still spent ninety years protecting a lie about her marriage, child and property.”
 
 Claire said, “You did not inherit character.”
 
@@ -191,75 +275,89 @@ Claire said, “You did not inherit character.”
 
 He laughed without humour.
 
-“I withheld your name connection because I thought I could manage the consequences quietly. That sounds familiar.”
+“I withheld the Mercer context because I thought I could manage uncertainty quietly. That sounds familiar.”
 
 The comparison was harsh.
 
 Claire did not rescue him from it completely.
 
-“The scale is different.”
-
-“The instinct isn’t.”
-
-“No,” she said. “Maybe not.”
+“The instinct may be related.”
 
 He looked at her.
 
-That answer cost something.
+“The scale is not.”
 
-Claire continued.
+“That sounds like mercy.”
 
-“But inherited patterns only become identity when you keep choosing them after you can see them.”
+“It is classification.”
+
+He almost smiled.
+
+Then it disappeared.
+
+“I keep wondering whether people become the family story by repeating whatever survival technique the family rewards.”
+
+“That is more interesting.”
+
+“And?”
+
+“And inherited patterns only become your identity when you keep choosing them after you can see them.”
 
 Adrian was silent.
 
-Then he nodded.
+He did not say *thank you* immediately. Claire appreciated that.
 
-“Thank you.”
+After a moment he said, “I do not expect that to fix us.”
 
-It was not reconciliation.
+“Good.”
 
-It was more honest than that.
+“I am trying to stop making every realisation perform for you.”
 
-Claire sat opposite him.
+Claire felt the sentence somewhere unhelpful.
 
-“Sebastian’s diary line is not enough.”
+“That is probably wise.”
+
+“Probably?”
+
+“Do not become excited.”
+
+They sat on opposite sides of the small drafting room.
+
+“Sebastian’s calendar is not enough,” Claire said.
 
 “I know.”
 
-“The wrist bruise tells us contact probably occurred before the fall, but not whose hand.”
+“The wrist bruise is not enough.”
 
 “I know.”
 
-“The gate removal connects Evelyn to the dangerous condition.”
+She looked at him.
+
+He corrected himself.
+
+“I hear you.”
+
+Better.
+
+“The gate removal puts Evelyn into the physical story of the stair. The bruise puts another person’s contact into the realm of plausible explanation. Talia lied about what Evelyn told her.”
 
 “Yes.”
 
-“And Talia lied about what Evelyn told her.”
+“We ask Talia again.”
 
-“Yes.”
-
-They both heard where the sequence led.
-
-Claire opened her notebook.
-
-“Tomorrow we ask Talia again.”
-
-Adrian looked towards the west wall.
-
-“She’ll refuse.”
+“She will refuse.”
 
 “Maybe.”
 
-“And if she doesn’t?”
+“And if she does not?”
 
-Claire thought of the bruise around Celeste’s wrist.
+Claire thought of the line around Celeste’s wrist.
 
-“Then we may finally learn who was close enough to leave a handprint on the last moments of her life.”
+“Then we find out whether anyone alive heard Evelyn describe being close enough to leave that kind of mark.”
 
-That evening she wrote the conclusion in the evidence log as narrowly as she could:
+That evening Claire entered the medical evidence into the log as narrowly as she could:
 
-**Wrist bruising: Celeste sustained recent circumferential bruising to the right wrist before or during the fatal event. Physical restraint is a plausible explanation and now requires corroboration.**
+**Celeste sustained recent circumferential bruising to the right wrist before or during the fatal event. The recorded pattern is not readily explained by the fixed surfaces identified in the known fall path. Physical restraint or gripping is a plausible mechanism but remains unproved without corroboration.**
 
 Not murder.
 
@@ -267,4 +365,10 @@ Not Sebastian.
 
 Not Evelyn.
 
-But someone had held Celeste before she fell.
+Not yet even restraint as fact.
+
+A body had preserved one narrow question that the family account did not answer.
+
+Someone, or something, had put pressure around Celeste’s wrist before she died.
+
+The next evidence would have to tell them who.
