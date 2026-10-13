@@ -1,9 +1,9 @@
 #!/usr/bin/env python3
 """Compile the Raven House chapter files into a clean reader manuscript.
 
-Only the chapter heading and prose under each chapter's ``## Draft`` heading are
-included. YAML metadata, production notes, clue labels, revision notes and other
-working material remain in the source files but never enter the compiled book.
+Only the chapter heading and reader prose are included. YAML metadata,
+production notes, clue labels, revision notes and other working material remain
+in the source files but never enter the compiled book.
 
 Usage:
     python tools/build_manuscript.py
@@ -38,19 +38,26 @@ def extract_chapter(path: Path) -> tuple[int, str, str]:
     title_match = TITLE_RE.search(text)
     if not title_match:
         raise ValueError(f"Missing '# Chapter N: Title' heading in {path}")
-    if DRAFT_MARKER not in text:
-        raise ValueError(f"Missing '{DRAFT_MARKER}' section in {path}")
 
     heading_number = int(title_match.group(1))
     title = title_match.group(2).strip()
-    draft = text.split(DRAFT_MARKER, 1)[1].strip()
+
+    if DRAFT_MARKER in text:
+        draft = text.split(DRAFT_MARKER, 1)[1].strip()
+    elif heading_number == 1:
+        # Chapter 1 predates the production-note chapter template and contains
+        # only YAML + the reader heading + prose. Everything following its H1
+        # is therefore reader-facing manuscript text.
+        draft = text[title_match.end():].strip()
+    else:
+        raise ValueError(f"Missing '{DRAFT_MARKER}' section in {path}")
+
     if not draft:
         raise ValueError(f"Empty draft section in {path}")
     return heading_number, title, draft
 
 
 def count_words(text: str) -> int:
-    # Treat curly apostrophes and hyphenated compounds as part of words.
     return len(re.findall(r"\b[\w’'-]+\b", text, flags=re.UNICODE))
 
 
@@ -94,7 +101,7 @@ def main() -> int:
         output = ROOT / output
 
     chapters, words = build(output)
-    print(f"Built {chapters} chapters → {output.relative_to(ROOT)}")
+    print(f"Built {chapters} chapters -> {output.relative_to(ROOT)}")
     print(f"Draft prose word count: {words:,}")
     return 0
 
