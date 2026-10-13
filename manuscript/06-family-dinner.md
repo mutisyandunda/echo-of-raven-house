@@ -3,7 +3,7 @@ chapter: 6
 title: "Family Dinner"
 act: "I"
 pov: "Claire Mercer"
-status: revision-1
+status: final-revision
 target_words: 2500
 clues: "C21 seed"
 red_herrings: "R3"
@@ -13,31 +13,31 @@ romance_beat: "Attraction becomes socially visible"
 # Chapter 6: Family Dinner
 
 ## Chapter purpose
-Sophie and Felix arrive. Harcourt says title is outside Claire’s remit. Felix pushes the financial urgency of sale.
+The wider Raven family arrives; Felix’s dependence on the sale is seeded as humour and pressure, while Harcourt’s legal caution appears suspicious without making him secretly omniscient.
 
 ## Mystery movement
 - **Clues:** C21 seed
 - **Red herrings:** R3
-- Evidence must be observed before it is interpreted.
-- POV inference cannot exceed the physical/documentary record.
+- Financial urgency is visible well before it becomes motive.
+- Harcourt’s caution concerns provenance and sale risk, not knowledge of the historical death.
 
 ## Romance / relationship movement
-Attraction becomes socially visible
+Claire and Adrian’s attraction becomes visible to other people before either has agreed to call it attraction.
 
 ## End hook
-Felix jokes the house may be worth more demolished.
+Felix jokes that Raven House might be worth more demolished.
 
 ## Draft
 
 By six, Raven House contained too many Ravens.
 
-Claire knew this because the house had changed acoustically.
+Claire knew this before she saw any of them because the house had changed acoustically.
 
-Doors opened more often. Footsteps crossed the upper landing. Laughter carried from the central hall. Somewhere below, glass touched glass with the faint clear note of people who expected dinner to happen around them.
+Doors opened more often. Footsteps crossed the upper landing. Laughter moved along routes she had spent the previous day trying to map. Somewhere below, glass touched glass with the clean, repeated note of people who expected dinner to happen around them.
 
-She was closing the day’s files when someone appeared in the workroom doorway without knocking.
+She was closing the day’s files when a woman appeared in the workroom doorway without knocking.
 
-The woman was younger than Adrian, dark-haired, rain still bright on the shoulders of her coat, a camera hanging from one hand.
+Dark hair. Rain still bright on the shoulders of her coat. Camera hanging from one hand.
 
 “You must be Claire.”
 
@@ -45,11 +45,11 @@ The woman was younger than Adrian, dark-haired, rain still bright on the shoulde
 
 “Sophie Raven.”
 
-That explained the resemblance and almost none of the energy.
+That explained the resemblance to Adrian and almost none of the energy.
 
-Where Adrian contained himself, Sophie seemed constructed entirely from motion.
+Where Adrian seemed built around containment, Sophie appeared to consider stillness an accusation.
 
-She crossed the room, glanced at the plans and said, “Good. You’ve already found something that annoys Talia.”
+She entered, glanced at the acoustic plan and said, “Excellent. You have already found something that annoys Talia.”
 
 Claire looked at her. “That is your measure of progress?”
 
@@ -59,9 +59,19 @@ Sophie held out a hand. “My brother has been pretending not to mention you.”
 
 Claire shook it.
 
-“I’ve known him four days.”
+“I have known him less than a week.”
 
-“Yes. He’s usually better at pretending.”
+“Yes. He is usually better at pretending.”
+
+“Pretending what?”
+
+“Not to be interested in anything that might complicate his life.”
+
+Claire released her hand.
+
+“I am cataloguing paper.”
+
+“Very complicating paper, apparently.”
 
 Before Claire could answer, a man’s voice came from the corridor.
 
@@ -69,7 +79,9 @@ Before Claire could answer, a man’s voice came from the corridor.
 
 Felix Raven entered smiling.
 
-He was handsome in an easier way than Adrian, more immediately sociable, dressed as though he had come from somewhere expensive but was prepared to deny it. He kissed Sophie on the cheek, then gave Claire a small bow that belonged to another century and knew it.
+He was handsome in an easier way than Adrian, more immediately sociable, dressed as though he had come from somewhere expensive but was prepared to deny it. His charm had the efficient quality of a skill used often enough to become muscle memory.
+
+He kissed Sophie on the cheek, then gave Claire a small bow that belonged to another century and knew it.
 
 “Felix. Cousin, nuisance, occasional voice of fiscal reality.”
 
@@ -79,7 +91,9 @@ He was handsome in an easier way than Adrian, more immediately sociable, dressed
 
 Sophie rolled her eyes.
 
-Felix glanced at the plans. “So you’re the reason the west wing is being measured like a crime scene.”
+Felix looked at the spread plans.
+
+“So you are the reason the west wing is being measured like a crime scene.”
 
 “Not a crime scene.”
 
@@ -93,13 +107,47 @@ There it was.
 
 Money, introduced as humour.
 
-Claire filed it away.
+Claire filed it away without deciding what it meant.
 
-Dinner was at seven-thirty in a room that had once been formal and had since been rescued by people who preferred chairs they could sit in. Talia was already there. Peter Harcourt, the family solicitor, sat to her right with the contained patience of a man accustomed to hearing disputes before they became billable.
+Felix picked up nothing, which she appreciated. Instead he bent over the plan without touching it.
 
-Adrian came in last.
+“Is Adrian actually selling?”
 
-His eyes found Claire before anyone else.
+“That is a question for Adrian.”
+
+“He answers questions about money as if each one is an attempt on the succession.”
+
+Sophie said, “Because yours usually are.”
+
+Felix laughed.
+
+But not quite enough.
+
+Dinner was at seven-thirty in a room that had once been formal and had since been rescued by people who preferred chairs capable of human use. Talia sat at one end. Peter Harcourt, the family solicitor, sat to her right with the contained patience of a man accustomed to hearing arguments before they became billable.
+
+Elspeth directed Claire to a place opposite Harcourt.
+
+Sophie sat beside her.
+
+Felix took the chair nearest Adrian’s empty one.
+
+“Strategic,” Sophie murmured.
+
+“What?”
+
+“He wants Adrian’s attention before pudding.”
+
+“For what?”
+
+“Money, almost certainly.”
+
+Claire looked at her.
+
+Sophie smiled. “You are allowed to notice things outside the archive.”
+
+Adrian entered at that moment.
+
+His eyes found Claire first.
 
 Only for a second.
 
@@ -107,17 +155,29 @@ Sophie saw it.
 
 Of course she did.
 
-Claire took the chair opposite Harcourt.
+She made the smallest sound of satisfaction.
 
-Wine was poured. Elspeth served soup. Conversation remained harmless for seven minutes.
+Adrian stopped behind his chair.
+
+“No.”
+
+“I did not say anything.”
+
+“You made a sound.”
+
+“It was very small.”
+
+Claire looked at the tablecloth and decided dignity was mostly a matter of refusing participation.
+
+Wine was poured. Soup appeared. Conversation remained harmless for seven minutes.
 
 Then Felix said, “So, Claire, how much trouble is the house in?”
 
-Adrian set down his spoon.
+Adrian put down his spoon.
 
 “She is cataloguing an archive.”
 
-Felix looked at him. “That wasn’t my question.”
+Felix looked at him. “That was not my question.”
 
 Claire answered before Adrian could.
 
@@ -131,25 +191,25 @@ Felix smiled. “I like her.”
 
 Sophie said, “Everyone says that just before she makes them uncomfortable.”
 
-“You’ve known me forty minutes,” Claire said.
+“You have known me forty minutes.”
 
 “Enough.”
 
 Harcourt cleared his throat.
 
-“I understand you have also raised questions concerning the west-wing plans.”
+“I understand you have also raised questions about the west-wing plans.”
 
 Claire looked at him.
 
-“I have raised questions concerning the west-wing plans.”
+“I have raised questions about the west-wing plans.”
 
-“Questions of title are not within the scope of your commission.”
+“Questions of legal title remain outside the scope of your commission.”
 
 No one had mentioned title.
 
 Claire noticed Adrian notice that she noticed.
 
-“I did not say they were.”
+“I did not say otherwise.”
 
 Harcourt folded his napkin once along an existing crease.
 
@@ -157,45 +217,57 @@ Harcourt folded his napkin once along an existing crease.
 
 “What boundary?”
 
-“Archival significance versus legal interpretation.”
+“Historical provenance on one side. Legal interpretation on the other.”
 
-“I catalogue evidence. Lawyers interpret legal consequences.”
+“I catalogue evidence. Solicitors interpret legal consequences.”
 
 “Precisely.”
 
-Talia sipped her wine.
+The exchange should have ended there.
+
+Claire let it continue for one question.
+
+“Is there a reason you expected title to arise?”
+
+Harcourt looked at her.
+
+“An estate sale always makes provenance and title documentation more sensitive. Your brief includes provenance. Mine includes preventing a historical observation from becoming a public legal conclusion before anyone qualified has examined it.”
+
+That was irritatingly reasonable.
 
 Felix said, “Peter becomes nervous when historians discover verbs in deeds.”
 
-Harcourt did not look at him.
+“I become nervous when anyone discovers a verb and thinks it has removed the need for a solicitor.”
 
-“I become nervous when non-lawyers speculate publicly about ownership.”
+Talia took a sip of wine.
 
-Claire said, “Has anyone speculated publicly?”
+Claire filed Harcourt under **risk-averse**, not **guilty of anything**.
 
-“No.”
+For now.
 
-“Then we agree there is no current problem.”
-
-Adrian’s mouth moved, almost a smile.
-
-Harcourt saw that too.
-
-The conversation shifted to Sophie’s latest photography project, then to estate repairs, then back to the sale because Felix pulled it there.
+Conversation moved to Sophie’s latest photography project, then to a leaking roof over the east range, then back to the sale because Felix pulled it there.
 
 “When exactly does marketing begin?” he asked Adrian.
 
-“In four weeks.”
+“In four weeks, assuming the archive work does not change what needs to be disclosed.”
+
+Felix’s spoon paused.
+
+“That is new.”
+
+“It is accurate.”
 
 “And completion target?”
 
 “Depends on the buyer.”
 
-“That wasn’t the answer last month.”
+“That was not the answer last month.”
 
 “It is the answer now.”
 
-Felix’s tone stayed light. “Some of us have planned around the previous timetable.”
+Felix kept his tone light.
+
+“Some of us have planned around the previous timetable.”
 
 Sophie looked at him.
 
@@ -211,17 +283,19 @@ Claire watched the table.
 
 Talia looked irritated.
 
-Harcourt looked professionally blank.
+Harcourt looked professionally neutral.
 
-Adrian looked tired.
+Adrian looked tired rather than surprised.
 
 Felix kept smiling.
 
-Financial urgency was not evidence of wrongdoing. It was pressure, and pressure made people careless.
+Financial urgency did not equal wrongdoing. Families planned around sales. People made investments, delayed repairs, expected distributions.
+
+But expectation created pressure, and pressure changed behaviour long before it became criminal.
 
 “Is the sale necessary?” Claire asked.
 
-The room went quiet enough that she regretted the directness only aesthetically.
+The table went quiet enough that she regretted the directness only aesthetically.
 
 Adrian answered.
 
@@ -237,9 +311,33 @@ Adrian looked at him. “Not for the reason you mean.”
 
 Felix lifted his glass. “I would never reduce centuries of family dysfunction to cash.”
 
-Sophie said, “You literally just did.”
+Sophie said, “You have spent six months doing exactly that.”
 
-“Efficiently.”
+The humour slipped from Felix’s face for half a second.
+
+“Some of us do not have the luxury of being above money.”
+
+Sophie’s reply came more gently.
+
+“I am not above it. I just did not borrow as if a house had already sold.”
+
+Felix looked at her.
+
+Adrian said, “Enough.”
+
+Claire did not write anything down.
+
+She did remember the sentence.
+
+*Borrow as if a house had already sold.*
+
+Felix recovered quickly.
+
+“Sibling solidarity is inspiring.”
+
+“Cousin,” Sophie said.
+
+“Worse. We chose you.”
 
 Talia cut across them.
 
@@ -259,13 +357,13 @@ This time Sophie caught it openly.
 
 Adrian’s expression hardened. “No.”
 
-“I didn’t say anything.”
+“I still did not say anything.”
 
-“You made a sound.”
+“You are unbearable.”
 
-“It was a very small sound.”
+Felix looked between Claire and Adrian, delighted to have found a less expensive subject.
 
-Felix looked between Claire and Adrian, delighted.
+“Have we reached the stage where everyone pretends this is professional?”
 
 Claire took a drink of water.
 
@@ -279,9 +377,9 @@ Adrian said, “I apologise.”
 
 That made Sophie laugh.
 
-Claire hated the warmth that rose in her face because it confirmed precisely what the table had decided to find amusing.
+Claire hated the warmth that rose in her face because it confirmed exactly what the table had decided to find amusing.
 
-She changed the subject.
+She changed the subject with the first useful question available.
 
 “Who was Eleanor?”
 
@@ -301,7 +399,7 @@ Sophie frowned.
 
 Felix said, “Which Eleanor?”
 
-“A name we heard carried through one of the acoustic channels.”
+“A name carried through one of the acoustic routes.”
 
 Talia recovered first.
 
@@ -311,9 +409,9 @@ Talia recovered first.
 
 “Not that I recall.”
 
-Sophie said, “There was an Eleanor Price. Jonah’s aunt.”
+Sophie said, “Jonah had an aunt Eleanor.”
 
-Claire shook her head. “Older than that, probably. We don’t know.”
+Claire shook her head. “We do not know the source or the period. It may have been someone speaking elsewhere in the house.”
 
 Harcourt dabbed his mouth with the napkin.
 
@@ -335,31 +433,29 @@ Claire looked at her. “You knew that.”
 
 “I grew up here.”
 
-“And the paired marks on Celeste’s plans?”
+“And Celeste’s paired marks?”
 
 “No.”
 
-Again too quick.
+Too quick again.
 
-Adrian stepped in.
+Adrian intervened.
 
 “We are not doing this over dinner.”
 
-Talia’s eyes sharpened.
+Claire expected him to close the subject.
 
-Claire expected defensiveness.
+Instead he turned to her.
 
-Instead Adrian turned to her.
-
-“We can continue tomorrow with the archive.”
+“We continue tomorrow with the archive.”
 
 Not stop.
 
 Continue.
 
-Claire registered the distinction.
+She registered the distinction.
 
-After dinner, Sophie cornered her in the hall.
+After dinner, Sophie caught her in the hall.
 
 “He likes you.”
 
@@ -369,25 +465,15 @@ Claire kept walking.
 
 “For Adrian, that is practically a sonnet.”
 
-“He has known me four days.”
+“He has known me less than a week.”
 
-“You’ve said that already.”
+“You keep saying that as if attraction observes probation periods.”
 
-“It remains true.”
+“It should.”
 
-Sophie walked beside her. “You like him too.”
+“That is the most Claire Mercer answer possible.”
 
-Claire stopped.
-
-“No.”
-
-Sophie smiled.
-
-Claire corrected herself. “That is not relevant.”
-
-“Much better answer.”
-
-Adrian appeared at the far end of the hall.
+They reached the foot of the stairs as Adrian appeared at the other end of the hall.
 
 “Sophie.”
 
@@ -399,13 +485,11 @@ Claire said, “Claire.”
 
 He looked at her.
 
-Sophie looked between them and smiled more widely.
-
-Claire regretted the correction instantly.
+Sophie looked between them and smiled so widely Claire regretted the correction instantly.
 
 Felix came through from the dining room carrying two glasses.
 
-“Have we reached the stage where everyone pretends this is professional?”
+“Wonderful. The archivist has a first name.”
 
 Adrian took one glass from him.
 
@@ -417,12 +501,26 @@ Adrian took one glass from him.
 
 Felix laughed.
 
-Then, as lightly as if he were commenting on the weather, he said, “If Claire finds many more problems, perhaps we should stop selling Raven House and sell the stone instead. Might be worth more demolished.”
+The laughter ended when Adrian said, quietly, “And do not build your finances around a sale date I have not guaranteed.”
+
+For a second the cousins looked at each other without performance.
+
+Felix’s smile returned, but late.
+
+“Relax. I am not putting Raven House on a credit application.”
+
+Sophie looked away.
+
+Claire remembered that too.
+
+Then Felix lifted his glass towards the dark corridor.
+
+“If Claire finds many more problems, perhaps we should stop selling the house and sell the stone. Might be worth more demolished.”
 
 No one laughed except Felix.
 
 Claire watched him drink.
 
-Financial reality, he had called himself.
+Fiscal reality, he had called himself.
 
-For the first time, she wondered exactly how much reality he could afford.
+For the first time, she wondered how much reality he could afford.
